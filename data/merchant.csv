@@ -1,0 +1,1331 @@
+merchant_id,bank_account_number,bank,description,type,registered_capital,industry,operating_status,establishment_date,legal_representative_id
+c000001,A010000,3468205,Small Travel & Hospitality merchant providing services to consumers.,Small,1602013.34,Travel & Hospitality,Active,1991/4/6,p001509
+c000002,A010001,4528071,Small Retail merchant providing goods to consumers.,Small,1546974.02,Retail,Active,2012/1/3,p000055
+c000003,A010002,1047286,Medium Telecommunications merchant providing services to consumers.,Medium,23970184.18,Telecommunications,Active,1992/2/29,p001430
+c000004,A010003,3186407,Small Food & Beverage merchant providing services to consumers.,Small,2115407.21,Food & Beverage,Active,2000/6/6,p001237
+c000005,A010004,3071954,Small Utilities merchant providing services to consumers.,Small,4232320.99,Utilities,Active,2012/9/29,p001814
+c000006,A010005,3295718,Medium Healthcare merchant providing services to consumers.,Medium,26382943.03,Healthcare,Active,2023/11/14,p000207
+c000007,A010006,5286314,Small E-commerce merchant providing goods to consumers.,Small,3658191.41,E-commerce,Active,2015/8/31,p001328
+c000008,A010007,3186407,Small Telecommunications merchant providing services to consumers.,Small,1488268.28,Telecommunications,Suspended,1999/7/20,p001727
+c000009,A010008,3581974,Small Utilities merchant providing services to consumers.,Small,4609112.56,Utilities,Active,2010/6/11,p001795
+c000010,A010009,4381267,Small Travel & Hospitality merchant providing services to consumers.,Small,1128336.44,Travel & Hospitality,Active,2018/6/2,p001150
+c000011,A010010,2486137,Small E-commerce merchant providing goods to consumers.,Small,2792868.32,E-commerce,Active,1989/1/29,p001548
+c000012,A010011,2947806,Medium Utilities merchant providing services to consumers.,Medium,14540482.16,Utilities,Under Review,2005/12/30,p001084
+c000013,A010012,2657408,Medium Food & Beverage merchant providing services to consumers.,Medium,23771944.99,Food & Beverage,Suspended,2019/6/24,p001313
+c000014,A010013,4693725,Large Manufacturing merchant providing goods to consumers.,Large,117469928.9,Manufacturing,Active,2019/3/7,p000366
+c000015,A010014,2367901,Medium Entertainment merchant providing services to consumers.,Medium,14347846.31,Entertainment,Active,1992/3/31,p001105
+c000016,A010015,2367901,Small Telecommunications merchant providing services to consumers.,Small,4454248.45,Telecommunications,Active,2022/4/23,p001653
+c000017,A010016,1739462,Medium Food & Beverage merchant providing services to consumers.,Medium,29449612.34,Food & Beverage,Active,2008/11/23,p001569
+c000018,A010017,1265934,Large Entertainment merchant providing services to consumers.,Large,116792661.5,Entertainment,Under Review,2009/3/11,p001547
+c000019,A010018,4175902,Small Travel & Hospitality merchant providing services to consumers.,Small,2531687.64,Travel & Hospitality,Suspended,1996/2/14,p000461
+c000020,A010019,5472906,Small Retail merchant providing goods to consumers.,Small,1530238.03,Retail,Active,1986/5/30,p001761
+c000021,A010020,3714628,Small Entertainment merchant providing services to consumers.,Small,3092952.42,Entertainment,Suspended,1995/11/26,p001607
+c000022,A010021,4381267,Small E-commerce merchant providing goods to consumers.,Small,4387265.37,E-commerce,Under Review,1987/6/7,p001380
+c000023,A010022,2367901,Small Food & Beverage merchant providing services to consumers.,Small,2913285.89,Food & Beverage,Active,1991/4/16,p000865
+c000024,A010023,4381267,Small Entertainment merchant providing services to consumers.,Small,4262124.13,Entertainment,Suspended,1989/3/9,p001898
+c000025,A010024,4693725,Large Utilities merchant providing services to consumers.,Large,64107580.71,Utilities,Active,2002/7/7,p000544
+c000026,A010025,3581974,Large Manufacturing merchant providing goods to consumers.,Large,89568418.08,Manufacturing,Suspended,2006/10/31,p000318
+c000027,A010026,2198345,Medium Retail merchant providing goods to consumers.,Medium,6253558.43,Retail,Active,2006/5/22,p001030
+c000028,A010027,1265934,Small Transportation merchant providing services to consumers.,Small,3538456.49,Transportation,Active,1995/7/21,p000827
+c000029,A010028,3862507,Small Financial Services merchant providing services to consumers.,Small,3043521.16,Financial Services,Suspended,1999/3/12,p001915
+c000030,A010029,3186407,Medium Transportation merchant providing services to consumers.,Medium,16430614.31,Transportation,Active,2018/9/23,p001917
+c000031,A010030,3581974,Medium Food & Beverage merchant providing services to consumers.,Medium,11630010.37,Food & Beverage,Suspended,2000/8/28,p001805
+c000032,A010031,1739462,Medium Entertainment merchant providing services to consumers.,Medium,29596332.76,Entertainment,Suspended,2021/3/16,p001340
+c000033,A010032,3581974,Large Food & Beverage merchant providing services to consumers.,Large,53801932.93,Food & Beverage,Active,2024/11/29,p000220
+c000034,A010033,1265934,Small E-commerce merchant providing goods to consumers.,Small,2774340.76,E-commerce,Active,1996/4/7,p001855
+c000035,A010034,4027316,Small Retail merchant providing goods to consumers.,Small,3367010.2,Retail,Active,1996/10/1,p000331
+c000036,A010035,2367901,Large Food & Beverage merchant providing services to consumers.,Large,79103126.03,Food & Beverage,Active,2022/6/10,p000757
+c000037,A010036,4693725,Large Retail merchant providing goods to consumers.,Large,91386001.95,Retail,Active,2014/12/2,p000211
+c000038,A010037,4381267,Small Manufacturing merchant providing goods to consumers.,Small,4390725.63,Manufacturing,Active,2020/11/18,p001661
+c000039,A010038,3714628,Medium Utilities merchant providing services to consumers.,Medium,11670142.74,Utilities,Active,2020/4/27,p001437
+c000040,A010039,1047286,Small Telecommunications merchant providing services to consumers.,Small,1503155.96,Telecommunications,Active,2014/8/10,p000396
+c000041,A010040,2367901,Medium E-commerce merchant providing goods to consumers.,Medium,21987952.96,E-commerce,Under Review,2022/11/5,p001099
+c000042,A010041,3186407,Large Financial Services merchant providing services to consumers.,Large,33443147.76,Financial Services,Active,2011/10/6,p000890
+c000043,A010042,1398427,Small Food & Beverage merchant providing services to consumers.,Small,1355354.49,Food & Beverage,Suspended,1986/12/29,p001452
+c000044,A010043,1683509,Medium Manufacturing merchant providing goods to consumers.,Medium,14105536.79,Manufacturing,Active,1988/2/21,p001944
+c000045,A010044,3295718,Large Manufacturing merchant providing goods to consumers.,Large,57835619.6,Manufacturing,Suspended,2003/4/28,p000669
+c000046,A010045,1398427,Medium Utilities merchant providing services to consumers.,Medium,20387872.9,Utilities,Active,1998/7/2,p000832
+c000047,A010046,5039472,Medium Financial Services merchant providing services to consumers.,Medium,16624704.76,Financial Services,Active,2004/11/1,p001384
+c000048,A010047,4693725,Medium Transportation merchant providing services to consumers.,Medium,17886300.25,Transportation,Active,2013/5/24,p001269
+c000049,A010048,2198345,Medium Healthcare merchant providing services to consumers.,Medium,5610634.69,Healthcare,Active,1995/12/26,p000974
+c000050,A010049,2198345,Small Financial Services merchant providing services to consumers.,Small,2724697.26,Financial Services,Under Review,1995/12/12,p000303
+c000051,A010050,1683509,Medium Food & Beverage merchant providing services to consumers.,Medium,9397167.04,Food & Beverage,Active,2016/3/20,p001061
+c000052,A010051,3714628,Medium Transportation merchant providing services to consumers.,Medium,29697311.33,Transportation,Suspended,2011/9/17,p000650
+c000053,A010052,2198345,Small Entertainment merchant providing services to consumers.,Small,2506611.25,Entertainment,Suspended,1992/2/21,p001524
+c000054,A010053,2198345,Medium Education merchant providing services to consumers.,Medium,17114925.43,Education,Suspended,1995/9/25,p000563
+c000055,A010054,5039472,Small Entertainment merchant providing services to consumers.,Small,1540676.66,Entertainment,Active,2016/2/17,p000313
+c000056,A010055,2198345,Small Utilities merchant providing services to consumers.,Small,2252645.66,Utilities,Under Review,2019/7/14,p001197
+c000057,A010056,1047286,Small Telecommunications merchant providing services to consumers.,Small,1843756.94,Telecommunications,Active,2002/6/30,p001748
+c000058,A010057,4381267,Large Financial Services merchant providing services to consumers.,Large,49747947.12,Financial Services,Under Review,2004/7/20,p000995
+c000059,A010058,1527806,Medium Transportation merchant providing services to consumers.,Medium,29518049.44,Transportation,Active,2008/12/17,p000056
+c000060,A010059,3714628,Small Utilities merchant providing services to consumers.,Small,1317780.62,Utilities,Under Review,1996/9/2,p000777
+c000060,A010060,1739462,Medium e-commerce company offering fashion products,Medium,15000000,E-commerce,Active,2018/11/28,p000654
+c000061,A010061,5472906,Small retail company specializing in consumer electronics,Small,2500000,Retail,Active,2020/3/15,p000114
+c000062,A010062,3581974,Medium-sized e-commerce company offering fashion products,Medium,15000000,E-commerce,Active,2018/6/25,p000025
+c000063,A010063,4381267,Medium e-commerce company specializing in clothing and accessories,Medium,15000000,E-commerce,Active,2018/9/1,p000759
+c000064,A010064,1683509,Small e-commerce company specializing in clothing and accessories,Small,3000000,E-commerce,Active,2018/9/20,p000281
+c000065,A010065,4027316,Medium Food & Beverage company specializing in casual dining services,Medium,18500000,Food & Beverage,Active,2015/7/22,p000654
+c000066,A010066,3071954,Medium Food & Beverage company specializing in casual dining services,Medium,18500000,Food & Beverage,Active,2015/7/22,p000114
+c000067,A010067,2657408,Medium manufacturing company producing automotive components,Medium,32000000,Manufacturing,Active,2012/7/19,p000025
+c000068,A010068,4693725,Medium food & beverage company specializing in organic cafe and bakery products,Medium,18000000,Food & Beverage,Active,2015/7/22,p000759
+c000069,A010069,1739462,Medium telecommunications company providing mobile and internet services,Medium,27500000,Telecommunications,Active,2012/8/22,p000281
+c000070,A010070,2198345,Small food & beverage company offering meal delivery services,Small,3500000,Food & Beverage,Active,2018/9/12,p001679
+c000071,A010071,4693725,Medium e-commerce company specializing in online fashion sales,Medium,15000000,E-commerce,Active,2018/11/22,p001424
+c000072,A010072,4175902,Small e-commerce company specializing in fashion products,Small,2500000,E-commerce,Active,2018/9/20,p009674
+c000073,A010073,2046713,Small retail company specializing in clothing and accessories,Small,2500000,Retail,Active,2018/2/20,p002286
+c000074,A010074,3186407,Small e-commerce company specializing in clothing,Small,3000000,E-commerce,Active,2018/6/20,p004012
+c000075,A010075,1739462,Medium food & beverage company providing restaurant services,Medium,15000000,Food & Beverage,Active,2018/9/1,p003657
+c000076,A010076,4693725,Medium food and beverage company providing catering services,Medium,30000000,Food & Beverage,Active,2015/9/22,p008935
+c000077,A010077,3295718,Small retail company specializing in clothing and accessories,Small,2000000,Retail,Active,2018/9/1,p000409
+c000078,A010078,5039472,Small retail company specializing in clothing,Small,3500000,Retail,Active,2018/9/20,p001824
+c000079,A010079,1265934,Medium food and beverage company providing catering services,Medium,25000000,Food & Beverage,Active,2018/11/20,p004506
+c000080,A010080,2486137,Medium entertainment company providing online gaming services,Medium,25000000,Entertainment,Active,2018/1/20,p006912
+c000081,A010081,1398427,Medium entertainment company offering event ticketing services,Medium,15000000,Entertainment,Active,2018/9/28,p000520
+c000082,A010082,1683509,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/1,p003811
+c000083,A010083,3714628,Small e-commerce company specializing in fashion products,Small,2500000,E-commerce,Active,2018/9/22,p001535
+c000084,A010084,5472906,Medium food and beverage company specializing in meal delivery,Medium,20000000,Food & Beverage,Active,2018/9/12,p009863
+c000085,A010085,4871609,Medium retail company specializing in clothing and accessories,Medium,15000000,Retail,Active,2018/9/1,p000488
+c000086,A010086,1683509,Medium e-commerce company specializing in apparel and accessories,Medium,25000000,E-commerce,Active,2018/9/12,p008279
+c000087,A010087,4871609,Medium e-commerce company specializing in clothing and footwear,Medium,15000000,E-commerce,Active,2018/9/1,p000434
+c000088,A010088,3186407,Medium e-commerce company specializing in fashion products and services,Medium,30000000,E-commerce,Active,2018/9/1,p009195
+c000089,A010089,4528071,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/6/1,p003582
+c000090,A010090,2947806,Medium e-commerce company specializing in online fashion products,Medium,25000000,E-commerce,Active,2018/6/20,p003611
+c000091,A010091,4528071,Medium e-commerce company specializing in food and beverage delivery,Medium,30000000,E-commerce,Active,2018/9/12,p009654
+c000092,A010092,2793615,Medium E-commerce company specializing in online fashion products,Medium,25000000,E-commerce,Active,2018/6/1,p006873
+c000093,A010093,2046713,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/6/1,p004557
+c000094,A010094,4027316,Medium food and beverage company offering meal delivery services,Medium,25000000,Food & Beverage,Active,2018/9/20,p002615
+c000095,A010095,3071954,Small retail company specializing in clothing and accessories,Small,3500000,Retail,Active,2018/9/1,p003257
+c000096,A010096,4381267,Medium e-commerce company specializing in online grocery shopping,Medium,15000000,E-commerce,Active,2018/9/1,p007359
+c000097,A010097,3862507,Medium e-commerce company specializing in clothing and footwear,Medium,25000000,E-commerce,Active,2018/9/22,p000106
+c000098,A010098,1739462,Medium entertainment company specializing in ticket sales and event management,Medium,15000000,Entertainment,Active,2018/9/22,p006924
+c000099,A010099,1872056,Medium e-commerce company specializing in fashion products,Medium,15000000,E-commerce,Active,2018/10/25,p008928
+c000100,A010100,3581974,Medium E-commerce company specializing in online clothing sales,Medium,20000000,E-commerce,Active,2018/9/20,p002547
+c000101,A010101,4381267,Medium E-commerce company offering clothing products,Medium,25000000,E-commerce,Active,2018/6/22,p005574
+c000102,A010102,4871609,Medium food and beverage company offering delivery and takeout services,Medium,15000000,Food & Beverage,Active,2018/9/22,p005881
+c000103,A010103,2657408,Medium e-commerce company specializing in clothing and accessories,Medium,25000000,E-commerce,Active,2018/1/1,p001519
+c000104,A010104,1265934,Medium food and beverage company specializing in prepared meals,Medium,15000000,Food & Beverage,Active,2018/9/1,p005514
+c000105,A010105,3862507,Medium e-commerce company specializing in fashion goods and online services,Medium,15000000,E-commerce,Active,2018/9/22,p001584
+c000106,A010106,2198345,Medium food & beverage company offering catering services,Medium,15000000,Food & Beverage,Active,2018/9/20,p001674
+c000107,A010107,4528071,Medium e-commerce company specializing in fashion goods,Medium,15000000,E-commerce,Active,2018/9/20,p004552
+c000108,A010108,4871609,Medium food and beverage company specializing in restaurant services,Medium,25000000,Food & Beverage,Active,2018/9/22,p006224
+c000109,A010109,1527806,Medium e-commerce company specializing in fashion products,Medium,25000000,E-commerce,Active,2018/6/12,p003527
+c000110,A010110,1265934,Medium food and beverage company specializing in online ordering and delivery services,Medium,15000000,Food & Beverage,Active,2018/9/1,p009044
+c000111,A010111,1739462,Medium e-commerce company specializing in clothing and accessories,Medium,30000000,E-commerce,Active,2018/9/20,p009891
+c000112,A010112,3071954,Medium food and beverage company offering catering services,Medium,20000000,Food & Beverage,Active,2015/9/20,p000711
+c000113,A010113,2793615,Medium food & beverage company specializing in online ordering and delivery services,Medium,15000000,Food & Beverage,Active,2018/9/22,p001291
+c000114,A010114,3186407,Medium food and beverage company specializing in catering services,Medium,15000000,Food & Beverage,Active,2018/9/1,p006201
+c000115,A010115,2367901,Medium food and beverage company offering prepared meals delivery,Medium,20000000,Food & Beverage,Active,2018/9/20,p002045
+c000116,A010116,3186407,Medium e-commerce company specializing in fashion products,Medium,25000000,E-commerce,Active,2018/11/1,p005635
+c000117,A010117,4381267,Medium e-commerce company specializing in clothing and accessories,Medium,15000000,E-commerce,Active,2018/9/1,p007527
+c000118,A010118,4528071,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/9/12,p004333
+c000119,A010119,5472906,Medium e-commerce company specializing in fashion products,Medium,10000000,E-commerce,Active,2018/9/1,p008785
+c000120,A010120,3468205,Medium food and beverage company offering meal delivery services,Medium,15000000,Food & Beverage,Active,2018/9/20,p004741
+c000121,A010121,2046713,Medium e-commerce company offering online clothing sales,Medium,15000000,E-commerce,Active,2018/9/22,p004803
+c000122,A010122,2793615,Medium food and beverage company providing catering services,Medium,10000000,Food & Beverage,Active,2018/9/1,p003150
+c000123,A010123,4027316,Medium e-commerce company specializing in apparel and footwear,Medium,25000000,E-commerce,Active,2018/9/1,p001139
+c000124,A010124,4175902,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/1,p005925
+c000125,A010125,2793615,Medium food & beverage company offering meal delivery services,Medium,20000000,Food & Beverage,Active,2018/9/1,p003814
+c000126,A010126,3186407,Medium food & beverage company providing meal delivery services,Medium,30000000,Food & Beverage,Active,2018/9/22,p003733
+c000127,A010127,2198345,Medium entertainment company offering event management services,Medium,75000000,Entertainment,Active,2018/11/22,p009459
+c000128,A010128,1683509,Medium Food & Beverage company providing meal delivery services,Medium,15000000,Food & Beverage,Active,2018/10/25,p000750
+c000129,A010129,3295718,Medium food and beverage company specializing in coffee shops,Medium,20000000,Food & Beverage,Active,2018/2/20,p001307
+c000130,A010130,5039472,Medium e-commerce company specializing in online clothing sales,Medium,10000000,E-commerce,Active,2018/9/22,p005977
+c000131,A010131,2947806,Medium entertainment company providing music streaming services,Medium,15000000,Entertainment,Active,2018/9/22,p004554
+c000132,A010132,1047286,Medium food & beverage company providing restaurant services,Medium,25000000,Food & Beverage,Active,2018/9/20,p002664
+c000133,A010133,2367901,Medium e-commerce company specializing in fashion products,Medium,30000000,E-commerce,Active,2018/9/1,p006227
+c000134,A010134,5472906,Medium e-commerce company specializing in clothing and accessories,Medium,15000000,E-commerce,Active,2018/9/12,p007428
+c000135,A010135,4693725,Medium e-commerce company specializing in fashion products and services,Medium,15000000,E-commerce,Active,2018/6/1,p005820
+c000136,A010136,3071954,Medium food and beverage company offering delivery and takeout services,Medium,25000000,Food & Beverage,Active,2018/11/22,p004374
+c000137,A010137,2793615,Small retail company specializing in clothing,Small,3000000,Retail,Active,2018/2/1,p001654
+c000138,A010138,4027316,Medium e-commerce company specializing in clothing and accessories,Medium,15000000,E-commerce,Active,2018/6/1,p006065
+c000139,A010139,2486137,Medium e-commerce company specializing in clothing and fashion accessories,Medium,25000000,E-commerce,Active,2018/9/20,p003432
+c000140,A010140,3295718,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/11/2,p009980
+c000141,A010141,4027316,Medium e-commerce company specializing in clothing sales,Medium,25000000,E-commerce,Active,2018/9/22,p002803
+c000142,A010142,1265934,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/10/1,p001169
+c000143,A010143,1527806,Medium E-commerce company specializing in fashion products,Medium,15000000,E-commerce,Active,2018/9/12,p002677
+c000144,A010144,5472906,Medium food and beverage company providing catering services,Medium,37500000,Food & Beverage,Active,2018/6/22,p008751
+c000145,A010145,3468205,Medium Food & Beverage company specializing in catering services,Medium,15000000,Food & Beverage,Active,2018/9/1,p007573
+c000146,A010146,3862507,Medium food & beverage company offering online meal delivery services,Medium,25000000,Food & Beverage,Active,2018/9/12,p004422
+c000147,A010147,2657408,Medium food and beverage company offering online meal delivery services,Medium,15000000,Food & Beverage,Active,2018/10/20,p006216
+c000148,A010148,5039472,Medium e-commerce company specializing in clothing and accessories,Medium,15000000,E-commerce,Active,2018/9/22,p004010
+c000149,A010149,2947806,Medium Food & Beverage company offering delivery and takeout services,Medium,20000000,Food & Beverage,Active,2018/6/20,p009125
+c000150,A010150,3714628,Medium e-commerce company specializing in online clothing sales,Medium,15000000,E-commerce,Active,2018/9/22,p003598
+c000151,A010151,5472906,Medium e-commerce company specializing in fashion and beauty products,Medium,25000000,E-commerce,Active,2018/9/1,p004386
+c000152,A010152,3862507,Small food & beverage company specializing in catering services,Small,1500000,Food & Beverage,Active,2018/9/1,p003456
+c000153,A010153,5039472,Medium food & beverage company specializing in catering services,Medium,20000000,Food & Beverage,Active,2018/9/20,p006572
+c000154,A010154,2198345,Medium e-commerce company specializing in fashion and accessories,Medium,25000000,E-commerce,Active,2018/9/22,p000916
+c000155,A010155,2486137,Medium food & beverage company offering catering services,Medium,15000000,Food & Beverage,Active,2018/9/12,p000525
+c000156,A010156,2198345,Medium e-commerce company specializing in fashion products,Medium,15000000,E-commerce,Active,2018/9/1,p005313
+c000157,A010157,2198345,Medium food and beverage company offering catering services,Medium,15000000,Food & Beverage,Active,2018/9/12,p005168
+c000158,A010158,4693725,Medium e-commerce company specializing in online fashion sales,Medium,15000000,E-commerce,Active,2018/9/12,p003752
+c000159,A010159,1527806,Medium Food & Beverage company offering catering services,Medium,15000000,Food & Beverage,Active,2018/6/20,p001084
+c000160,A010160,2198345,Medium e-commerce company specializing in fashion products,Medium,25000000,E-commerce,Active,2018/6/20,p005155
+c000161,A010161,3862507,Medium e-commerce company specializing in food delivery services,Medium,25000000,E-commerce,Active,2018/9/12,p004339
+c000162,A010162,3581974,Medium Food & Beverage company specializing in meal delivery services,Medium,25000000,Food & Beverage,Active,2018/11/22,p004040
+c000163,A010163,2793615,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/12,p003483
+c000164,A010164,3071954,Medium e-commerce company offering fashion apparel,Medium,10000000,E-commerce,Active,2018/9/22,p009292
+c000165,A010165,4528071,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/9/1,p002340
+c000166,A010166,4027316,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/1,p008179
+c000167,A010167,4381267,Medium E-commerce company specializing in clothing and accessories,Medium,25000000,E-commerce,Active,2018/9/22,p007517
+c000168,A010168,2046713,Medium food and beverage company specializing in restaurants and cafes,Medium,15000000,Food & Beverage,Active,2018/9/12,p002287
+c000169,A010169,4381267,Medium e-commerce company specializing in fashion products,Medium,30000000,E-commerce,Active,2018/2/1,p006482
+c000170,A010170,4027316,Medium e-commerce company specializing in clothing and fashion accessories,Medium,15000000,E-commerce,Active,2018/9/22,p009560
+c000171,A010171,3581974,Medium e-commerce company specializing in clothing and accessories,Medium,25000000,E-commerce,Active,2018/11/22,p005930
+c000172,A010172,4528071,Medium e-commerce company specializing in online fashion sales,Medium,25000000,E-commerce,Active,2018/9/20,p006543
+c000173,A010173,1872056,Medium e-commerce company specializing in clothing and accessories,Medium,25000000,E-commerce,Active,2018/9/1,p009577
+c000174,A010174,3295718,Small retail company specializing in household appliances,Small,3500000,Retail,Active,2018/9/12,p009197
+c000175,A010175,2486137,Medium e-commerce company offering a wide range of products,Medium,25000000,E-commerce,Active,2018/9/22,p002266
+c000176,A010176,4027316,Medium entertainment company specializing in movie ticket sales,Medium,17500000,Entertainment,Active,2018/10/28,p007019
+c000177,A010177,4175902,Medium retail company specializing in clothing and footwear,Medium,15000000,Retail,Active,2018/6/22,p004304
+c000178,A010178,1739462,Medium e-commerce company specializing in apparel and accessories,Medium,15000000,E-commerce,Active,2018/9/1,p003593
+c000179,A010179,2486137,Medium retail company specializing in general merchandise,Medium,25000000,Retail,Active,2018/11/20,p008830
+c000180,A010180,3468205,Medium food & beverage company offering restaurant services,Medium,25000000,Food & Beverage,Active,2018/7/22,p001796
+c000181,A010181,1047286,Medium entertainment company offering online streaming services,Medium,25000000,Entertainment,Active,2018/2/20,p001489
+c000182,A010182,4027316,Medium food and beverage company providing delivery services,Medium,20000000,Food & Beverage,Active,2018/9/22,p009771
+c000183,A010183,1047286,Medium e-commerce company specializing in fashion products,Medium,17500000,E-commerce,Active,2018/9/22,p008085
+c000184,A010184,4871609,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/1/1,p002621
+c000185,A010185,1398427,Medium food and beverage company providing catering services,Medium,15000000,Food & Beverage,Active,2018/10/20,p002504
+c000186,A010186,1047286,Medium e-commerce company offering fashion products,Medium,15000000,E-commerce,Active,2018/2/1,p008348
+c000187,A010187,2947806,Medium food and beverage company specializing in online meal delivery services,Medium,25000000,Food & Beverage,Active,2018/9/1,p001040
+c000188,A010188,1527806,Medium food and beverage company specializing in restaurant services,Medium,25000000,Food & Beverage,Active,2018/9/22,p006916
+c000189,A010189,3295718,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/12,p000771
+c000190,A010190,1527806,Small retail company specializing in clothing and accessories,Small,2500000,Retail,Active,2018/2/1,p006304
+c000191,A010191,4027316,Medium food and beverage company providing meal delivery services,Medium,15000000,Food & Beverage,Active,2018/9/20,p008797
+c000192,A010192,3071954,Medium e-commerce company specializing in clothing and accessories,Medium,20000000,E-commerce,Active,2018/1/1,p004119
+c000193,A010193,2657408,Small e-commerce company specializing in fashion products,Small,2500000,E-commerce,Active,2018/9/1,p009763
+c000194,A010194,2046713,Medium food & beverage company providing catering services,Medium,15000000,Food & Beverage,Active,2015/9/1,p009064
+c000195,A010195,4381267,Medium e-commerce company specializing in fashion products,Medium,20000000,E-commerce,Active,2018/9/1,p008669
+c000196,A010196,2367901,Medium e-commerce company specializing in fashion products,Medium,17500000,E-commerce,Active,2018/9/22,p007668
+c000197,A010197,2198345,Medium food and beverage company offering catering services,Medium,20000000,Food & Beverage,Active,2018/9/20,p001876
+c000198,A010198,1872056,Medium e-commerce company specializing in online fashion retail,Medium,15000000,E-commerce,Active,2018/9/1,p000188
+c000199,A010199,1265934,Medium e-commerce company specializing in fashion products,Medium,30000000,E-commerce,Active,2018/10/28,p006252
+c000200,A010300,1265934,Medium chain restaurant offering casual dining and family meals,Medium,18000000,Food & Beverage,Active,2016/11/8,p001403
+c000201,A010301,1265934,Medium Food & Beverage company operating a casual dining restaurant,Medium,18000000,Food & Beverage,Active,2015/8/22,p003409
+c000202,A010402,4528071,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2017/11/8,p000327
+c000203,A010403,3714628,Medium-sized chain restaurant in the Food & Beverage industry,Medium,15000000,Food & Beverage,Active,2017/8/11,p003830
+c000204,A010504,3186407,Large manufacturing company specializing in automotive components,Large,180000000,Manufacturing,Active,2010/11/8,p007468
+c000205,A010505,5472906,Medium-sized chain restaurant offering quick-service meals,Medium,20000000,Food & Beverage,Active,2018/6/10,p004785
+c000206,A010606,4693725,Medium chain restaurant offering casual dining and delivery,Medium,25000000,Food & Beverage,Active,2017/11/8,p007816
+c000207,A010607,2657408,Large manufacturing company producing industrial machinery components,Large,125000000,Manufacturing,Active,2010/11/8,p003198
+c000208,A010708,1739462,Large wholesale business distributing consumer electronics and home appliances,Large,125000000,Manufacturing,Active,2012/7/18,p006236
+c000209,A010709,4381267,Medium chain restaurant serving regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/14,p000555
+c000210,A010810,4871609,Medium Food & Beverage company operating a regional chain of family-friendly sit-down restaurants,Medium,28000000,Food & Beverage,Active,2016/8/22,p001792
+c000211,A010811,4871609,Medium food and beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/22,p008142
+c000212,A010912,1398427,Medium chain restaurant specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2018/6/10,p003362
+c000213,A010913,4381267,Medium chain restaurant offering fast casual dining,Medium,18500000,Food & Beverage,Active,2017/8/11,p005775
+c000214,A011014,3295718,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,18500000,Food & Beverage,Active,2016/11/8,p010031
+c000215,A011015,4027316,Medium-sized chain of specialty coffee shops in urban locations,Medium,18000000,Food & Beverage,Active,2018/7/12,p006750
+c000216,A011116,5472906,Medium chain restaurant specializing in Sichuan cuisine,Medium,12000000,Food & Beverage,Active,2017/8/22,p009825
+c000217,A011117,3468205,Medium-sized chain restaurant offering regional Chinese cuisine and delivery services,Medium,18000000,Food & Beverage,Active,2017/8/11,p003319
+c000218,A011218,3581974,Medium-sized chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2016/5/23,p006036
+c000219,A011219,1527806,Medium-sized Food & Beverage company operating a popular casual dining restaurant chain,Medium,18500000,Food & Beverage,Active,2017/11/3,p005944
+c000220,A011320,3071954,Small family-run noodle shop and street food stall,Small,1200000,Food & Beverage,Active,2019/5/22,p010629
+c000221,A011321,3468205,Small Food & Beverage company operating a family-run noodle stall,Small,1800000,Food & Beverage,Active,2015/8/22,p009566
+c000222,A011422,2486137,Medium restaurant chain offering regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2017/8/14,p010736
+c000223,A011423,4381267,Medium chain restaurant offering regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/11/8,p008875
+c000224,A011524,4381267,Small Food & Beverage company operating a single noodle stall,Small,1200000,Food & Beverage,Active,2021/8/11,p004686
+c000225,A011525,4871609,Medium Food & Beverage company operating a popular full-service restaurant,Medium,12500000,Food & Beverage,Active,2019/7/23,p008850
+c000226,A011626,2947806,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2017/11/8,p002415
+c000227,A011627,3295718,Medium chain restaurant offering casual dining and regional cuisine,Medium,18000000,Food & Beverage,Active,2016/7/10,p004943
+c000228,A011728,4381267,Small Food & Beverage company operating a popular street food stall,Small,2000000,Food & Beverage,Active,2021/5/18,p008592
+c000229,A011729,1683509,Medium chain restaurant offering casual dining and delivery,Medium,15000000,Food & Beverage,Active,2017/8/12,p009020
+c000230,A011830,2367901,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p005370
+c000231,A011831,2486137,Medium Food & Beverage company operating a popular local pizzeria,Medium,8000000,Food & Beverage,Active,2015/11/8,p008852
+c000232,A011932,3295718,Medium Food & Beverage company operating a local restaurant chain,Medium,12000000,Food & Beverage,Active,2015/7/10,p011541
+c000233,A011933,2947806,Medium Food & Beverage company operating a regional chain of family-friendly restaurants,Medium,25000000,Food & Beverage,Active,2016/8/22,p002862
+c000234,A012034,5472906,Medium Food & Beverage company operating a popular dim sum restaurant chain,Medium,12000000,Food & Beverage,Active,2016/11/8,p006523
+c000235,A012035,2198345,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/5/22,p010489
+c000236,A012136,2367901,Small Food & Beverage company operating a single noodle and dumpling stall,Small,1200000,Food & Beverage,Active,2019/8/10,p004403
+c000237,A012137,2793615,Large wholesale business specializing in electronics and components,Large,125000000,Manufacturing,Active,2015/11/8,p003921
+c000238,A012238,4027316,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,35000000,Food & Beverage,Active,2015/11/8,p009955
+c000239,A012239,4381267,Medium restaurant chain specializing in Sichuan cuisine,Medium,25000000,Food & Beverage,Active,2017/8/22,p004384
+c000240,A012340,3714628,Medium Food & Beverage company operating a chain of fast-casual noodle restaurants,Medium,28000000,Food & Beverage,Active,2018/11/5,p008621
+c000241,A012341,5472906,Small Food & Beverage company operating a neighborhood food stall,Small,1200000,Food & Beverage,Active,2021/8/3,p005507
+c000242,A012442,1872056,Medium-sized restaurant offering authentic Japanese ramen and sushi,Medium,12000000,Food & Beverage,Active,2017/8/11,p006001
+c000243,A012443,3714628,Medium chain restaurant serving regional cuisine and beverages,Medium,18000000,Food & Beverage,Active,2017/8/12,p009849
+c000244,A012544,3862507,Medium chain restaurant offering fast casual dining and catering services,Medium,15000000,Food & Beverage,Active,2015/7/22,p005973
+c000245,A012545,5286314,Medium-sized chain restaurant offering fast-casual dining and catering services,Medium,12000000,Food & Beverage,Active,2015/8/22,p004874
+c000246,A012646,1683509,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/8/22,p007110
+c000247,A012647,3295718,Large wholesale business distributing industrial machinery parts,Large,125000000,Manufacturing,Active,2015/11/3,p005652
+c000248,A012748,4027316,Medium chain store selling sports equipment and apparel,Medium,18000000,Retail,Active,2017/8/22,p004739
+c000249,A012749,5039472,Medium chain restaurant offering casual dining and takeaway services,Medium,12500000,Food & Beverage,Active,2017/8/14,p002508
+c000250,A012850,5286314,Small food & beverage company operating a local coffee shop,Small,3000000,Food & Beverage,Active,2018/5/20,p011125
+c000251,A012851,2198345,Medium-sized chain of family-friendly casual dining restaurants,Medium,28000000,Food & Beverage,Active,2016/9/14,p008859
+c000252,A012952,2046713,Small Food & Beverage company operating a single coffee and pastry kiosk,Small,2000000,Food & Beverage,Active,2021/7/12,p005974
+c000253,A012953,2947806,Small Food & Beverage company operating a popular street food noodle stall,Small,1800000,Food & Beverage,Active,2019/8/12,p006185
+c000254,A013054,4528071,Medium chain restaurant offering authentic Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2018/7/12,p003874
+c000255,A013055,1398427,Medium chain of casual dining restaurants,Medium,12000000,Food & Beverage,Active,2015/8/22,p007745
+c000256,A013156,1683509,Medium Food & Beverage company operating a popular regional noodle restaurant chain,Medium,18000000,Food & Beverage,Active,2017/8/22,p003113
+c000257,A013157,1739462,Medium chain restaurant serving regional Chinese cuisine and specialty teas,Medium,20000000,Food & Beverage,Active,2017/8/22,p007249
+c000258,A013258,2947806,Medium restaurant chain offering casual dining and takeout,Medium,15000000,Food & Beverage,Active,2018/6/10,p007855
+c000259,A013259,3186407,Medium Food & Beverage company operating a popular hotpot restaurant chain,Medium,28000000,Food & Beverage,Active,2017/11/8,p009419
+c000260,A013360,1047286,Medium restaurant chain specializing in Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p012262
+c000261,A013361,5286314,Medium restaurant offering casual dining and family meals,Medium,12000000,Food & Beverage,Active,2015/8/22,p006417
+c000262,A013462,3714628,Small food and beverage business operating a popular bubble tea and snack stall,Small,2500000,Food & Beverage,Active,2022/8/11,p006153
+c000263,A013463,3071954,Medium chain store specializing in sportswear and athletic gear,Medium,18000000,Retail,Active,2018/5/22,p006787
+c000264,A013564,3186407,Medium-sized restaurant chain specializing in Sichuan cuisine and hot pot,Medium,25000000,Food & Beverage,Active,2015/8/22,p007682
+c000265,A013565,4175902,Medium chain restaurant serving regional cuisine and beverages,Medium,15000000,Food & Beverage,Active,2017/8/22,p012250
+c000266,A013666,4381267,Medium restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2018/11/5,p008200
+c000267,A013667,2657408,Medium Food & Beverage company operating a regional chain of noodle restaurants,Medium,15000000,Food & Beverage,Active,2018/7/12,p004542
+c000268,A013768,1683509,Small Food & Beverage company operating a street food stall,Small,1800000,Food & Beverage,Active,2021/8/3,p012479
+c000269,A013769,3862507,Medium-sized casual dining restaurant chain,Medium,20000000,Food & Beverage,Active,2018/6/12,p009768
+c000270,A013870,1527806,Medium Food & Beverage chain restaurant,Medium,15000000,Food & Beverage,Active,2018/11/5,p006479
+c000271,A013871,3581974,Medium restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/7/12,p013277
+c000272,A013972,2947806,Medium retail chain specializing in consumer electronics and home appliances,Medium,18000000,Retail,Active,2015/8/11,p012053
+c000273,A013973,2367901,Medium Food & Beverage company operating a popular sit-down restaurant,Medium,15000000,Food & Beverage,Active,2017/8/23,p004123
+c000274,A014074,5039472,Medium chain of casual dining restaurants specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/11/8,p011605
+c000275,A014075,3295718,Medium Food & Beverage chain operating multiple casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/10,p006419
+c000276,A014176,2046713,Medium-sized regional chain of family-friendly casual dining restaurants,Medium,18000000,Food & Beverage,Active,2018/11/5,p005570
+c000277,A014177,5286314,Medium chain restaurant offering casual dining and group meals,Medium,15000000,Food & Beverage,Active,2018/7/10,p004121
+c000278,A014278,3186407,Medium restaurant chain offering authentic Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2015/8/14,p011248
+c000279,A014279,5039472,Medium restaurant chain specializing in regional Chinese cuisine,Medium,28000000,Food & Beverage,Active,2018/5/22,p011991
+c000280,A014380,2198345,Medium Food & Beverage company operating a popular family restaurant chain,Medium,15000000,Food & Beverage,Active,2012/7/23,p013393
+c000281,A014381,3295718,Large B2B service provider specializing in industrial equipment manufacturing and wholesale,Large,185000000,Manufacturing,Active,2005/11/7,p004628
+c000282,A014482,5039472,Medium Food & Beverage company operating a popular casual dining restaurant,Medium,12000000,Food & Beverage,Active,2016/8/22,p009287
+c000283,A014483,3295718,Medium chain restaurant offering casual dining and takeaway services,Medium,18000000,Food & Beverage,Active,2015/11/8,p013059
+c000284,A014584,5039472,Medium chain restaurant offering regional cuisine and family dining,Medium,18000000,Food & Beverage,Active,2015/8/22,p004881
+c000285,A014585,1739462,Medium Food & Beverage company operating a full-service restaurant chain,Medium,15000000,Food & Beverage,Active,2015/7/10,p004333
+c000286,A014686,4027316,Medium chain restaurant offering fast-casual Asian cuisine,Medium,15000000,Food & Beverage,Active,2017/8/12,p010544
+c000287,A014687,4381267,Medium-sized food and beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p010557
+c000288,A014788,3071954,Medium Food & Beverage company operating a popular chain of casual dining restaurants,Medium,12000000,Food & Beverage,Active,2017/8/14,p009952
+c000289,A014789,1683509,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,15000000,Food & Beverage,Active,2015/8/22,p005753
+c000290,A014890,3468205,Medium-sized chain restaurant offering regional Chinese cuisine,Medium,32000000,Food & Beverage,Active,2018/11/5,p006557
+c000291,A014891,1872056,Medium chain restaurant offering casual dining and takeaway,Medium,28000000,Food & Beverage,Active,2018/6/10,p006699
+c000292,A014992,3862507,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2018/7/23,p013581
+c000293,A014993,2793615,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/14,p008613
+c000294,A015094,2367901,"Small independent convenience store offering snacks, drinks, and daily essentials",Small,2000000,Retail,Active,2018/7/23,p008864
+c000295,A015095,1739462,Medium regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/8/12,p012598
+c000296,A015196,4381267,Small convenience store providing daily essentials and snacks,Small,3200000,Retail,Active,2019/11/5,p013769
+c000297,A015197,1872056,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2018/7/14,p013909
+c000298,A015298,5039472,Medium Food & Beverage company operating a popular local restaurant chain,Medium,12000000,Food & Beverage,Active,2016/8/10,p010073
+c000299,A015299,4027316,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/5/12,p005445
+c000300,A015400,4175902,Medium chain store specializing in sports apparel and equipment,Medium,18000000,Retail,Active,2015/11/23,p008058
+c000301,A015401,1683509,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2012/7/18,p013359
+c000302,A015502,3071954,Medium chain restaurant offering casual dining and takeout,Medium,12000000,Food & Beverage,Active,2018/7/12,p007439
+c000303,A015503,1047286,Medium restaurant and bar offering contemporary cuisine and craft cocktails,Medium,12000000,Food & Beverage,Active,2018/7/12,p007666
+c000304,A015604,1398427,Medium regional chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2017/8/22,p012805
+c000305,A015605,5472906,Medium Food & Beverage company operating a full-service family restaurant,Medium,18000000,Food & Beverage,Active,2015/11/3,p011211
+c000306,A015706,2947806,Medium Food & Beverage company operating a popular chain of noodle restaurants,Medium,20000000,Food & Beverage,Active,2017/11/8,p014611
+c000307,A015707,4027316,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p014789
+c000308,A015808,1527806,Medium Food & Beverage company operating a popular dumpling restaurant chain,Medium,15000000,Food & Beverage,Active,2017/8/22,p009018
+c000309,A015809,1739462,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/12,p005569
+c000310,A015910,2486137,Medium regional chain of casual dining restaurants specializing in family meals,Medium,28000000,Food & Beverage,Active,2015/8/12,p012112
+c000311,A015911,3862507,Large Manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2012/8/22,p014223
+c000312,A016012,4027316,Medium-sized chain restaurant offering Chinese cuisine and catering services,Medium,15000000,Food & Beverage,Active,2017/8/11,p014069
+c000313,A016013,5472906,Medium-sized regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/8/22,p006017
+c000314,A016114,3071954,Medium retail company operating a chain of home goods stores,Medium,25000000,Retail,Active,2018/7/12,p012351
+c000315,A016115,3581974,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,28000000,Food & Beverage,Active,2015/11/22,p012192
+c000316,A016216,2046713,Medium Food & Beverage company operating a popular regional noodle restaurant chain,Medium,18500000,Food & Beverage,Active,2013/11/7,p009366
+c000317,A016217,3186407,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2015/8/22,p009909
+c000318,A016318,5472906,Medium chain restaurant offering casual dining and regional cuisine,Medium,25000000,Food & Beverage,Active,2015/11/23,p008973
+c000319,A016319,4175902,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p007205
+c000320,A016420,1683509,Large manufacturing company producing industrial machinery components,Large,175000000,Manufacturing,Active,2011/7/28,p012070
+c000321,A016421,2046713,Medium chain restaurant offering casual dining and takeaway services,Medium,15000000,Food & Beverage,Active,2017/8/23,p008855
+c000322,A016522,3862507,Medium chain restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/22,p006792
+c000323,A016523,2486137,Medium retail chain store specializing in sports apparel and equipment,Medium,18500000,Retail,Active,2015/11/23,p013686
+c000324,A016624,3295718,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/9/10,p013653
+c000325,A016625,3295718,Medium chain restaurant offering fast food and beverages,Medium,25000000,Food & Beverage,Active,2018/6/10,p016053
+c000326,A016726,1872056,Medium restaurant chain specializing in regional cuisine,Medium,12000000,Food & Beverage,Active,2015/11/8,p006981
+c000327,A016727,3186407,Medium chain restaurant offering casual dining and regional cuisine,Medium,18500000,Food & Beverage,Active,2018/7/22,p010578
+c000328,A016828,1398427,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/10,p014754
+c000329,A016829,4871609,Medium Food & Beverage company operating a popular chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2017/8/22,p010317
+c000330,A016930,3862507,Small convenience store offering daily essentials and snacks,Small,2500000,Retail,Active,2018/5/22,p006834
+c000331,A016931,2046713,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/23,p016515
+c000332,A017032,4693725,Medium Food & Beverage company operating a family restaurant chain,Medium,15000000,Food & Beverage,Active,2015/6/20,p015774
+c000333,A017033,5286314,Medium chain restaurant offering regional Chinese cuisine and takeaway services,Medium,15000000,Food & Beverage,Active,2018/5/10,p016358
+c000334,A017134,1265934,Medium chain of coffee shops and bakeries,Medium,12000000,Food & Beverage,Active,2017/11/8,p013677
+c000335,A017135,3581974,Medium Food & Beverage company operating a popular chain of family-style restaurants,Medium,18500000,Food & Beverage,Active,2015/8/22,p010466
+c000336,A017236,1398427,Medium Food & Beverage company operating a regional chain of sit-down family restaurants,Medium,28000000,Food & Beverage,Active,2015/11/8,p007908
+c000337,A017237,4871609,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/11/3,p016475
+c000338,A017338,4693725,Medium chain restaurant offering specialty regional cuisine and beverages,Medium,18500000,Food & Beverage,Active,2017/11/8,p008067
+c000339,A017339,3071954,Medium chain restaurant offering casual dining and regional specialties,Medium,15000000,Food & Beverage,Active,2017/8/11,p008168
+c000340,A017440,2367901,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,25000000,Food & Beverage,Active,2016/8/11,p007725
+c000341,A017441,2046713,Medium-sized fast-casual restaurant chain serving Asian cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p009653
+c000342,A017542,1047286,Medium chain store specializing in home furnishings and decor,Medium,28000000,Retail,Active,2017/11/8,p010760
+c000343,A017543,2198345,Small street vendor selling baozi and jianbing,Small,1500000,Food & Beverage,Active,2021/8/10,p011044
+c000344,A017644,4528071,Medium chain restaurant offering fast food and beverages,Medium,20000000,Food & Beverage,Active,2018/5/10,p015583
+c000345,A017645,4693725,Medium-sized restaurant offering local cuisine and catering services,Medium,15000000,Food & Beverage,Active,2018/5/22,p007416
+c000346,A017746,3295718,Medium retail chain specializing in outdoor equipment and apparel,Medium,15000000,Retail,Active,2016/8/22,p012496
+c000347,A017747,4693725,Medium chain restaurant serving regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2018/7/22,p017074
+c000348,A017848,1047286,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2015/11/3,p015585
+c000349,A017849,4027316,Medium chain restaurant specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p007700
+c000350,A017950,5472906,Small Food & Beverage company operating a neighborhood bubble tea and snack stall,Small,1200000,Food & Beverage,Active,2021/7/10,p012724
+c000351,A017951,2367901,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,25000000,Food & Beverage,Active,2015/6/18,p013568
+c000352,A018052,5472906,Medium sized regional restaurant chain specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2016/11/3,p015766
+c000353,A018053,1872056,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p012576
+c000354,A018154,1265934,Medium Food & Beverage chain offering regional specialty dishes,Medium,18000000,Food & Beverage,Active,2018/5/11,p011354
+c000355,A018155,3186407,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2016/7/11,p009769
+c000356,A018256,2486137,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2017/11/3,p013202
+c000357,A018257,3581974,Medium Food & Beverage company operating a popular regional bistro chain,Medium,18000000,Food & Beverage,Active,2015/8/12,p014774
+c000358,A018358,3862507,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2015/11/8,p012745
+c000359,A018359,3714628,Medium chain restaurant offering casual dining and catering services,Medium,18000000,Food & Beverage,Active,2017/11/8,p012760
+c000360,A018460,1265934,Medium casual dining restaurant chain,Medium,15000000,Food & Beverage,Active,2015/7/22,p010960
+c000361,A018461,1047286,Medium chain restaurant serving regional cuisine,Medium,25000000,Food & Beverage,Active,2018/11/7,p014087
+c000362,A018562,4528071,Medium chain restaurant offering family dining and takeout,Medium,12000000,Food & Beverage,Active,2018/11/22,p012093
+c000363,A018563,1739462,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,1998/11/5,p016380
+c000364,A018664,1047286,Large wholesale business distributing industrial equipment and machinery parts,Large,125000000,Manufacturing,Active,2009/7/14,p012488
+c000365,A018665,2793615,Medium retail chain specializing in consumer electronics and home appliances,Medium,25000000,Retail,Active,2016/8/22,p010373
+c000366,A018766,3186407,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2017/11/3,p017858
+c000367,A018767,4381267,Medium chain restaurant offering casual dining and family meals,Medium,32000000,Food & Beverage,Active,2017/11/8,p009332
+c000368,A018868,2198345,Medium-sized restaurant offering fast casual dining and takeaway,Medium,12000000,Food & Beverage,Active,2018/7/21,p010384
+c000369,A018869,3071954,Medium chain restaurant specializing in Sichuan cuisine and hotpot,Medium,25000000,Food & Beverage,Active,2018/6/12,p010629
+c000370,A018970,4175902,Medium-sized chain restaurant offering casual dining and local cuisine,Medium,20000000,Food & Beverage,Active,2016/8/22,p016353
+c000371,A018971,2486137,"Small convenience store offering daily necessities, snacks, and beverages",Small,3200000,Retail,Active,2017/11/3,p009483
+c000372,A019072,2198345,Medium restaurant chain specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2017/8/11,p018413
+c000373,A019073,3581974,Medium Food & Beverage company operating a popular local restaurant chain,Medium,28000000,Food & Beverage,Active,2018/11/7,p016223
+c000374,A019174,3186407,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,15000000,Food & Beverage,Active,2017/11/8,p009670
+c000375,A019175,5039472,Medium-sized Food & Beverage company operating a regional chain of sit-down family restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p016076
+c000376,A019276,1398427,Medium Food & Beverage company operating a regional chain of hot pot restaurants,Medium,18000000,Food & Beverage,Active,2018/7/11,p011398
+c000377,A019277,4175902,Medium chain restaurant offering casual dining and takeaway services,Medium,12000000,Food & Beverage,Active,2018/5/20,p016289
+c000378,A019378,1739462,Medium chain of family restaurants offering traditional cuisine and casual dining,Medium,15000000,Food & Beverage,Active,2017/11/8,p012650
+c000379,A019379,1527806,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p017063
+c000380,A019480,4381267,Medium chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/10,p012177
+c000381,A019481,5472906,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2016/11/8,p013081
+c000382,A019582,5472906,"Small convenience store offering snacks, drinks, and daily essentials",Small,2800000,Retail,Active,2019/11/8,p011272
+c000383,A019583,2046713,Medium restaurant chain specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2017/11/22,p013056
+c000384,A019684,4175902,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/5/22,p015575
+c000385,A019685,1739462,Medium Food & Beverage company operating a popular chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2018/5/10,p018722
+c000386,A019786,4027316,"Small retail convenience store offering snacks, beverages, and daily necessities",Small,3500000,Retail,Active,2018/7/12,p015015
+c000387,A019787,1047286,"Small urban convenience store selling snacks, drinks, and daily essentials",Small,2000000,Retail,Active,2021/8/23,p015553
+c000388,A019888,2793615,Medium chain restaurant specializing in Sichuan cuisine and dine-in service,Medium,15000000,Food & Beverage,Active,2017/8/22,p011145
+c000389,A019889,5039472,Medium restaurant chain offering casual dining and catering services,Medium,15000000,Food & Beverage,Active,2017/8/11,p014480
+c000390,A019990,3468205,Medium chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2016/7/22,p012129
+c000391,A019991,1265934,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2014/7/9,p011239
+c000392,A020092,2046713,Medium food and beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/10,p012947
+c000393,A020093,1739462,Medium Food & Beverage company operating a popular family restaurant,Medium,20000000,Food & Beverage,Active,2017/8/12,p018151
+c000394,A020194,4871609,Medium chain store specializing in sporting goods and apparel,Medium,25000000,Retail,Active,2017/11/22,p019776
+c000395,A020195,5039472,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/8/12,p013705
+c000396,A020296,1527806,Medium Food & Beverage company operating a popular family restaurant chain,Medium,20000000,Food & Beverage,Active,2015/8/22,p014359
+c000397,A020297,2793615,Medium-sized restaurant chain offering casual dining and family meals,Medium,12000000,Food & Beverage,Active,2016/11/23,p018673
+c000398,A020398,2198345,Medium Food & Beverage company operating a popular regional chain of hot pot restaurants,Medium,25000000,Food & Beverage,Active,2017/11/8,p013673
+c000399,A020399,2198345,Medium Food & Beverage company operating a chain of fast-casual noodle restaurants,Medium,12500000,Food & Beverage,Active,2018/11/22,p016442
+c000400,A020500,2046713,Medium restaurant chain offering casual dining and regional cuisine,Medium,25000000,Food & Beverage,Active,2012/7/18,p011088
+c000401,A020501,4871609,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2015/11/3,p018809
+c000402,A020602,5039472,Medium retail chain specializing in home goods and furniture,Medium,28000000,Retail,Active,2015/8/10,p019801
+c000403,A020603,3862507,Small Food & Beverage company operating a popular food stall,Small,2000000,Food & Beverage,Active,2021/8/10,p019627
+c000404,A020704,4528071,Medium local chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2016/8/11,p017382
+c000405,A020705,1265934,Medium chain restaurant offering fast casual Asian cuisine,Medium,25000000,Food & Beverage,Active,2018/6/14,p014511
+c000406,A020806,2486137,Medium chain store specializing in sporting goods and apparel,Medium,12000000,Retail,Active,2017/8/12,p014604
+c000407,A020807,2947806,Medium Food & Beverage company operating a popular chain of family restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p013682
+c000408,A020908,1527806,Medium chain restaurant serving casual family meals and takeaway,Medium,22000000,Food & Beverage,Active,2015/11/8,p012764
+c000409,A020909,4027316,Medium Food & Beverage company operating a chain of ramen restaurants,Medium,20000000,Food & Beverage,Active,2017/8/22,p017316
+c000410,A021010,5286314,Medium chain restaurant offering casual dining and takeaway,Medium,18000000,Food & Beverage,Active,2017/8/12,p016421
+c000411,A021011,3714628,Medium chain restaurant offering casual dining and takeaway,Medium,12000000,Food & Beverage,Active,2017/4/22,p010784
+c000412,A021112,2367901,Medium restaurant chain offering casual dining and takeaway,Medium,20000000,Food & Beverage,Active,2017/8/14,p010977
+c000413,A021113,5472906,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2014/8/22,p014595
+c000414,A021214,1872056,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/7/12,p015054
+c000415,A021215,1265934,Medium chain restaurant providing Chinese cuisine and family dining,Medium,28000000,Food & Beverage,Active,2017/11/8,p014758
+c000416,A021316,3295718,Medium restaurant chain specializing in regional cuisine,Medium,28000000,Food & Beverage,Active,2018/5/11,p012970
+c000417,A021317,5286314,Large manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2012/11/8,p019380
+c000418,A021418,1398427,Medium restaurant specializing in regional Chinese cuisine and banquet services,Medium,15000000,Food & Beverage,Active,2017/11/8,p020735
+c000419,A021419,1739462,Small Food & Beverage business operating as a family-run noodle stall,Small,1200000,Food & Beverage,Active,2018/11/3,p013470
+c000420,A021520,4693725,Medium chain restaurant offering casual dining and takeout,Medium,15000000,Food & Beverage,Active,2018/6/10,p013283
+c000421,A021521,1398427,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/7/22,p014736
+c000422,A021622,3581974,Medium chain restaurant offering casual dining and bar services,Medium,15000000,Food & Beverage,Active,2018/6/10,p016379
+c000423,A021623,2486137,Medium chain restaurant serving regional cuisine,Medium,18000000,Food & Beverage,Active,2016/8/22,p013487
+c000424,A021724,5472906,Medium chain restaurant offering casual dining and group meals,Medium,32000000,Food & Beverage,Active,2015/11/8,p012740
+c000425,A021725,5472906,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/7/20,p019162
+c000426,A021826,1398427,Medium Food & Beverage company operating a popular regional coffee shop chain,Medium,18000000,Food & Beverage,Active,2016/8/12,p019032
+c000427,A021827,3186407,Medium Food & Beverage company operating a popular sit-down restaurant,Medium,12000000,Food & Beverage,Active,2015/7/10,p021211
+c000428,A021928,4871609,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18500000,Food & Beverage,Active,2016/7/11,p019668
+c000429,A021929,1872056,Medium Food & Beverage company operating a popular family restaurant chain,Medium,25000000,Food & Beverage,Active,2015/8/12,p011514
+c000430,A022030,5039472,Medium Food & Beverage company operating a popular sushi restaurant chain,Medium,20000000,Food & Beverage,Active,2017/5/12,p020161
+c000431,A022031,1872056,Medium chain restaurant serving regional Chinese cuisine,Medium,28000000,Food & Beverage,Active,2017/8/11,p017719
+c000432,A022132,1265934,Medium chain restaurant offering regional cuisine and family dining,Medium,12000000,Food & Beverage,Active,2017/8/22,p018565
+c000433,A022133,3186407,Medium chain restaurant offering casual dining and takeaway services,Medium,15000000,Food & Beverage,Active,2015/8/22,p021205
+c000434,A022234,1527806,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/10,p019222
+c000435,A022235,3581974,Medium-sized restaurant chain offering casual dining and takeaway,Medium,15000000,Food & Beverage,Active,2018/11/22,p013425
+c000436,A022336,1398427,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/8/11,p013186
+c000437,A022337,3186407,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/6/10,p015299
+c000438,A022438,1683509,Medium Food & Beverage company operating a regional chain of hotpot restaurants,Medium,20000000,Food & Beverage,Active,2016/11/8,p017967
+c000439,A022439,1739462,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2017/9/22,p016182
+c000440,A022540,3862507,Medium chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/22,p012654
+c000441,A022541,3862507,Medium-sized chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/14,p012615
+c000442,A022642,1527806,Medium chain store specializing in health and wellness products,Medium,18000000,Retail,Active,2017/9/22,p020046
+c000443,A022643,4528071,Medium chain restaurant offering premium seafood and steaks,Medium,18500000,Food & Beverage,Active,2015/11/22,p015227
+c000444,A022744,3581974,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,15000000,Food & Beverage,Active,2016/9/18,p018787
+c000445,A022745,2486137,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p019118
+c000446,A022846,4528071,Medium chain restaurant serving regional cuisine and beverages,Medium,18000000,Food & Beverage,Active,2018/11/22,p015138
+c000447,A022847,3186407,Medium-sized Food & Beverage company operating a popular family-style restaurant chain,Medium,18000000,Food & Beverage,Active,2012/7/11,p018750
+c000448,A022948,3186407,Medium Food & Beverage company operating a chain of quick-service restaurants,Medium,12000000,Food & Beverage,Active,2015/8/12,p014181
+c000449,A022949,4528071,Medium chain of casual dining restaurants specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2015/7/22,p016949
+c000450,A023050,1398427,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p013291
+c000451,A023051,5472906,Large manufacturing company producing industrial machinery components,Large,125000000,Manufacturing,Active,2008/11/7,p017165
+c000452,A023152,2486137,Medium Food & Beverage company operating a full-service Italian restaurant,Medium,12000000,Food & Beverage,Active,2016/9/10,p017182
+c000453,A023153,5286314,Medium chain restaurant offering casual dining and takeaway service,Medium,15000000,Food & Beverage,Active,2015/11/3,p019975
+c000454,A023254,1872056,Medium chain of boutique cafes offering specialty coffee and light meals,Medium,15000000,Food & Beverage,Active,2017/8/22,p013133
+c000455,A023255,3071954,Medium chain restaurant offering fast casual dining and catering,Medium,15000000,Food & Beverage,Active,2015/7/22,p019162
+c000456,A023356,3071954,Medium casual dining chain restaurant offering Asian-fusion cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p013256
+c000457,A023357,2198345,Medium restaurant chain specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2017/8/11,p013876
+c000458,A023458,5039472,Medium chain store specializing in home improvement and gardening supplies,Medium,35000000,Retail,Active,2015/8/22,p015569
+c000459,A023459,1683509,"Small convenience store offering daily necessities, snacks, and beverages",Small,2800000,Retail,Active,2019/7/11,p022011
+c000460,A023560,4175902,Medium chain restaurant offering casual dining and fast food,Medium,20000000,Food & Beverage,Active,2015/8/22,p017954
+c000461,A023561,5472906,Medium regional chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/7/22,p018567
+c000462,A023562,4027316,Medium Food & Beverage chain restaurant,Medium,18500000,Food & Beverage,Active,2015/8/11,p016289
+c000463,A023663,1683509,Medium chain restaurant specializing in regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2017/8/12,p020917
+c000464,A023664,2947806,Medium regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2016/8/10,p017313
+c000465,A023665,4381267,Medium chain restaurant offering family dining and catering services,Medium,12500000,Food & Beverage,Active,2017/8/14,p017680
+c000466,A023766,1872056,Medium Food & Beverage company operating a popular regional bakery and cafe chain,Medium,12000000,Food & Beverage,Active,2017/11/8,p019107
+c000467,A023767,2367901,Small Food & Beverage company operating a local noodle stall,Small,2000000,Food & Beverage,Active,2019/7/11,p023091
+c000468,A023768,3714628,Medium-sized chain restaurant offering fast casual dining,Medium,20000000,Food & Beverage,Active,2018/7/10,p014433
+c000469,A023869,1398427,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p020683
+c000470,A023870,1047286,Small convenience store providing daily necessities and snacks,Small,1800000,Retail,Active,2019/8/12,p018458
+c000471,A023871,2198345,Medium regional chain of casual dining restaurants,Medium,22000000,Food & Beverage,Active,2016/8/10,p018278
+c000472,A023972,1398427,Medium-sized regional supermarket chain focused on groceries and household goods,Medium,25000000,Retail,Active,2012/7/14,p021958
+c000473,A023973,2486137,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/11/8,p021143
+c000474,A023974,5039472,Medium Food & Beverage company operating a chain of fast-casual noodle shops,Medium,18000000,Food & Beverage,Active,2017/8/22,p020633
+c000475,A024075,2793615,Medium restaurant chain specializing in Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2018/5/22,p021932
+c000476,A024076,1739462,Medium chain restaurant company offering casual dining and delivery,Medium,28000000,Food & Beverage,Active,2017/11/8,p016507
+c000477,A024077,1739462,Medium Food & Beverage chain restaurant offering casual dining,Medium,15000000,Food & Beverage,Active,2018/11/22,p021167
+c000478,A024178,5039472,Medium restaurant chain specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2015/7/22,p021602
+c000479,A024179,3862507,Medium-sized chain restaurant offering casual dining and family meals,Medium,18000000,Food & Beverage,Active,2017/8/22,p017907
+c000480,A024180,2486137,Small Food & Beverage company operating a popular noodle stall,Small,2000000,Food & Beverage,Active,2018/5/10,p021514
+c000481,A024281,2367901,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,18000000,Food & Beverage,Active,2017/8/22,p021359
+c000482,A024282,1739462,"Small local cafe and bakery offering coffee, pastries, and light meals",Small,1800000,Food & Beverage,Active,2019/11/8,p021118
+c000483,A024283,2198345,Medium chain restaurant specializing in fast casual dining,Medium,15000000,Food & Beverage,Active,2018/6/10,p021011
+c000484,A024384,1398427,Medium Food & Beverage chain restaurant serving regional cuisine,Medium,15000000,Food & Beverage,Active,2015/7/22,p018991
+c000485,A024385,2486137,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/7/22,p022569
+c000486,A024386,3186407,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2010/7/12,p017809
+c000487,A024487,1739462,Medium Food & Beverage company operating a popular regional steakhouse chain,Medium,18000000,Food & Beverage,Active,2017/8/22,p023005
+c000488,A024488,4381267,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2018/6/22,p016248
+c000489,A024489,5039472,Large manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2008/11/4,p022939
+c000490,A024590,1683509,Medium chain of casual dining restaurants specializing in regional cuisine,Medium,25000000,Food & Beverage,Active,2015/8/10,p023850
+c000491,A024591,1265934,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2017/8/22,p015965
+c000492,A024592,4871609,Medium chain restaurant specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2017/8/23,p018996
+c000493,A024693,1527806,Medium chain restaurant offering regional cuisine and family dining,Medium,25000000,Food & Beverage,Active,2016/8/22,p021410
+c000494,A024694,2657408,"Small convenience store selling snacks, drinks, and basic groceries",Small,1500000,Retail,Active,2018/11/22,p022736
+c000495,A024695,4027316,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,20000000,Food & Beverage,Active,2017/8/14,p019235
+c000496,A024796,1527806,Small Food & Beverage company operating a local cafe,Small,2500000,Food & Beverage,Active,2018/5/20,p020358
+c000497,A024797,2947806,Small Food & Beverage company operating a family-run noodle stall,Small,3200000,Food & Beverage,Active,2019/7/22,p017245
+c000498,A024798,5472906,Medium chain restaurant offering casual dining and delivery services,Medium,15000000,Food & Beverage,Active,2017/8/22,p015000
+c000499,A024899,3468205,Medium Food & Beverage company operating a regional chain of hot pot restaurants,Medium,18000000,Food & Beverage,Active,2015/11/8,p022091
+c000500,A024900,3581974,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2015/8/12,p019611
+c000501,A024901,3714628,Medium chain restaurant offering regional Chinese cuisine,Medium,12500000,Food & Beverage,Active,2015/8/22,p019024
+c000502,A025002,3186407,Medium-sized restaurant offering local cuisine and banquet services,Medium,20000000,Food & Beverage,Active,2018/11/23,p015838
+c000503,A025003,1739462,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/11/8,p015538
+c000504,A025004,3581974,Medium-sized Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2016/8/11,p018210
+c000505,A025105,1683509,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/7/10,p017441
+c000506,A025106,3295718,"Small family-owned cafe serving coffee, pastries, and light meals",Small,1800000,Food & Beverage,Active,2019/5/14,p020777
+c000507,A025107,1398427,Medium-sized retail chain specializing in home goods and appliances,Medium,35000000,Retail,Active,2015/8/22,p019048
+c000508,A025208,1527806,Medium chain of sit-down restaurants offering casual dining,Medium,15000000,Food & Beverage,Active,2015/7/22,p017186
+c000509,A025209,4871609,Medium regional chain of family restaurants,Medium,35000000,Food & Beverage,Active,2015/11/3,p021557
+c000510,A025210,1683509,Medium Food & Beverage company operating a chain of family-style restaurants,Medium,12500000,Food & Beverage,Active,2018/5/22,p017967
+c000511,A025311,3186407,Medium-sized chain restaurant specializing in Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p022334
+c000512,A025312,3714628,Medium Food & Beverage company operating a chain of coffee shops,Medium,15000000,Food & Beverage,Active,2018/6/10,p018362
+c000513,A025313,3862507,Medium chain store specializing in home appliances and electronics,Medium,18500000,Retail,Active,2015/8/10,p024328
+c000514,A025414,4693725,Medium-sized local restaurant chain specializing in traditional cuisine,Medium,28000000,Food & Beverage,Active,2015/8/12,p016516
+c000515,A025415,3468205,Medium chain restaurant offering regional cuisine and casual dining,Medium,18000000,Food & Beverage,Active,2017/8/22,p022068
+c000516,A025416,4175902,Medium chain restaurant offering casual dining and takeaway,Medium,20000000,Food & Beverage,Active,2015/7/22,p015161
+c000517,A025517,2046713,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,12000000,Food & Beverage,Active,2016/8/12,p023653
+c000518,A025518,2657408,Medium restaurant chain specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2016/8/10,p021408
+c000519,A025519,3581974,Medium chain restaurant specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2017/8/14,p024707
+c000520,A025620,3581974,Medium-sized chain restaurant serving regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p024569
+c000521,A025621,2046713,Medium chain restaurant offering traditional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2016/8/12,p024785
+c000522,A025622,4027316,Large wholesale business specializing in industrial component distribution,Large,125000000,Manufacturing,Active,2010/11/7,p020956
+c000523,A025723,1398427,Medium Food & Beverage company operating a popular regional noodle restaurant chain,Medium,15000000,Food & Beverage,Active,2017/8/10,p016484
+c000524,A025724,3468205,Medium chain restaurant offering regional cuisine and catering services,Medium,12500000,Food & Beverage,Active,2015/8/12,p024486
+c000525,A025725,2198345,Medium chain restaurant offering fast-casual Asian cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p018732
+c000526,A025826,2947806,Medium-sized restaurant chain offering casual dining and catering services,Medium,28000000,Food & Beverage,Active,2017/11/8,p017069
+c000527,A025827,4528071,Medium chain restaurant specializing in regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2018/7/12,p021963
+c000528,A025828,1527806,Small Food & Beverage business operating a popular street food stall,Small,2800000,Food & Beverage,Active,2021/5/18,p023535
+c000529,A025929,3714628,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2012/7/23,p020594
+c000530,A025930,1265934,Medium Food & Beverage company operating a chain of family-style restaurants,Medium,15000000,Food & Beverage,Active,2018/11/7,p023763
+c000531,A025931,4175902,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,15000000,Food & Beverage,Active,2016/8/23,p023825
+c000532,A026032,1872056,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2018/5/11,p021650
+c000533,A026033,2198345,Medium chain restaurant offering casual dining and family meals,Medium,20000000,Food & Beverage,Active,2017/11/8,p018040
+c000534,A026034,2657408,Medium chain of restaurants specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2016/8/22,p024854
+c000535,A026135,4528071,Medium chain restaurant offering casual dining and takeaway,Medium,18000000,Food & Beverage,Active,2018/5/22,p025492
+c000536,A026136,1872056,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p024115
+c000537,A026137,4871609,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p017358
+c000538,A026238,1872056,Small Food & Beverage company operating a popular noodle stall,Small,2800000,Food & Beverage,Active,2019/7/12,p019402
+c000539,A026239,4381267,Medium retail chain store specializing in home appliances and electronics,Medium,18000000,Retail,Active,2017/11/8,p016286
+c000540,A026240,3186407,"Small Food & Beverage company operating a single, popular street food stall",Small,2000000,Food & Beverage,Active,2018/7/12,p025392
+c000541,A026341,2793615,Medium chain coffee shop offering specialty beverages and light snacks,Medium,12500000,Food & Beverage,Active,2016/8/10,p018163
+c000542,A026342,2046713,Medium Food & Beverage chain restaurant offering casual dining,Medium,15000000,Food & Beverage,Active,2016/11/3,p020810
+c000543,A026343,3862507,Medium chain restaurant specializing in Sichuan cuisine,Medium,12000000,Food & Beverage,Active,2017/8/22,p016620
+c000544,A026444,4528071,Large wholesale business specializing in electronic components distribution,Large,185000000,Manufacturing,Active,2012/7/19,p019570
+c000545,A026445,1683509,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/8/10,p021279
+c000546,A026446,1683509,Small cafe specializing in artisanal coffee and pastries,Small,2000000,Food & Beverage,Active,2019/8/5,p017473
+c000547,A026547,1047286,Large manufacturing company producing industrial machinery components,Large,125000000,Manufacturing,Active,2008/11/3,p017323
+c000548,A026548,5039472,Small Food & Beverage company operating a family-run noodle stall,Small,2000000,Food & Beverage,Active,2019/7/22,p025206
+c000549,A026549,3862507,Medium chain restaurant specializing in authentic Cantonese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/11,p020677
+c000550,A026650,1683509,Medium Food & Beverage company operating a popular full-service restaurant chain,Medium,15000000,Food & Beverage,Active,2016/4/12,p020809
+c000551,A026651,3581974,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,15000000,Food & Beverage,Active,2016/8/22,p024601
+c000552,A026652,3468205,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,28000000,Food & Beverage,Active,2015/8/22,p022320
+c000553,A026753,4381267,Small street vendor specializing in breakfast foods and snacks,Small,2500000,Food & Beverage,Active,2021/7/10,p024745
+c000554,A026754,1739462,Medium chain restaurant specializing in regional Sichuan cuisine,Medium,28000000,Food & Beverage,Active,2018/11/5,p019610
+c000555,A026755,5039472,Medium-sized chain restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/12,p022310
+c000556,A026856,5039472,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,12500000,Food & Beverage,Active,2018/7/10,p024836
+c000557,A026857,3071954,Medium chain restaurant specializing in regional Chinese cuisine,Medium,22000000,Food & Beverage,Active,2015/8/22,p018605
+c000558,A026858,2657408,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,20000000,Food & Beverage,Active,2016/8/22,p024757
+c000559,A026959,5472906,Medium chain restaurant specializing in regional cuisine and fast-casual dining,Medium,28000000,Food & Beverage,Active,2018/7/12,p024913
+c000560,A026960,3581974,Medium retail company operating a regional chain of household goods stores,Medium,18500000,Retail,Active,2015/8/22,p021582
+c000561,A026961,5286314,Medium regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/8/22,p026065
+c000562,A027062,2947806,Medium chain restaurant specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/11/8,p025545
+c000563,A027063,2367901,Medium Food & Beverage company operating a chain of family restaurants,Medium,12500000,Food & Beverage,Active,2017/8/22,p023605
+c000564,A027064,4175902,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2017/8/11,p024646
+c000565,A027165,3186407,Medium-sized restaurant chain specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p021956
+c000566,A027166,3186407,Large Manufacturing company specializing in automotive components,Large,125000000,Manufacturing,Active,2005/11/7,p025135
+c000567,A027167,1265934,Medium restaurant offering casual dining and local cuisine,Medium,8000000,Food & Beverage,Active,2012/5/18,p019504
+c000568,A027268,5286314,"Small convenience store offering groceries, snacks, and beverages",Small,1800000,Retail,Active,2017/11/3,p024535
+c000569,A027269,3714628,Medium Food & Beverage company operating a popular dim sum restaurant,Medium,18000000,Food & Beverage,Active,2016/8/11,p023598
+c000570,A027270,4528071,Medium casual dining restaurant chain,Medium,25000000,Food & Beverage,Active,2017/5/11,p018988
+c000571,A027371,4027316,Medium chain of casual dining restaurants specializing in noodle dishes and soups,Medium,15000000,Food & Beverage,Active,2016/8/12,p018401
+c000572,A027372,4693725,Medium chain restaurant offering premium Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2018/7/12,p025194
+c000573,A027373,3862507,Medium chain of casual dining restaurants specializing in regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2017/8/14,p024360
+c000574,A027474,1047286,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2018/7/11,p025326
+c000575,A027475,3186407,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/7/20,p023460
+c000576,A027476,3714628,Medium chain restaurant offering regional Chinese cuisine and casual dining,Medium,28000000,Food & Beverage,Active,2017/11/8,p018601
+c000577,A027577,4693725,Medium-sized restaurant chain offering casual dining and group meals,Medium,15000000,Food & Beverage,Active,2015/8/22,p024480
+c000578,A027578,2367901,Large Manufacturing company producing industrial machinery parts,Large,125000000,Manufacturing,Active,2005/11/8,p022410
+c000579,A027579,3714628,"Small independent cafe and bakery offering coffee, pastries, and light meals",Small,2800000,Food & Beverage,Active,2019/11/8,p025796
+c000580,A027680,1265934,Medium restaurant offering fine dining and banquet services,Medium,15000000,Food & Beverage,Active,2017/11/8,p025280
+c000581,A027681,5472906,Medium Food & Beverage company operating a chain of sit-down family restaurants,Medium,15000000,Food & Beverage,Active,2015/7/12,p026046
+c000582,A027682,2947806,Medium chain store specializing in outdoor and sporting goods retail,Medium,28000000,Retail,Active,2017/11/8,p020497
+c000583,A027783,5472906,Medium-sized chain restaurant offering casual dining and takeaway services,Medium,15000000,Food & Beverage,Active,2018/7/23,p017305
+c000584,A027784,5286314,Medium Food & Beverage company operating a popular local restaurant chain,Medium,18500000,Food & Beverage,Active,2016/7/22,p024691
+c000585,A027785,3071954,Large B2B service provider specializing in industrial machinery parts wholesale,Large,125000000,Manufacturing,Active,2008/11/23,p022552
+c000586,A027886,2046713,Medium retail company operating a regional chain of home furnishing and decor stores,Medium,32000000,Retail,Active,2015/8/10,p019782
+c000587,A027887,5286314,"Small independent convenience store selling snacks, drinks, and daily necessities",Small,2500000,Retail,Active,2019/8/12,p018438
+c000588,A027888,4381267,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,28000000,Food & Beverage,Active,2017/8/12,p021138
+c000589,A027989,2947806,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,12500000,Food & Beverage,Active,2015/8/22,p017787
+c000590,A027990,1398427,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2016/11/8,p018612
+c000591,A027991,3071954,Medium Food & Beverage company operating a casual dining restaurant,Medium,12000000,Food & Beverage,Active,2018/7/12,p021045
+c000592,A028092,4528071,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/10,p018362
+c000593,A028093,2198345,Medium chain of casual dining restaurants specializing in local cuisine,Medium,18000000,Food & Beverage,Active,2018/5/22,p021178
+c000594,A028094,1872056,Medium-sized chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/7/12,p020815
+c000595,A028195,4528071,Medium chain restaurant offering casual dining and takeaway,Medium,12000000,Food & Beverage,Active,2018/11/8,p027302
+c000596,A028196,3714628,Medium restaurant offering authentic Italian cuisine and fine dining,Medium,12000000,Food & Beverage,Active,2017/11/8,p022667
+c000597,A028197,4871609,Medium Food & Beverage company operating a family restaurant,Medium,15000000,Food & Beverage,Active,2018/5/20,p027578
+c000598,A028298,2657408,Medium regional chain of casual dining restaurants,Medium,32000000,Food & Beverage,Active,2016/11/3,p023952
+c000599,A028299,4871609,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/8/22,p025531
+c000600,A028300,3714628,Large wholesale business specializing in industrial electronics and components,Large,85000000,Manufacturing,Active,2014/11/3,p022302
+c000601,A028401,4027316,Large Manufacturing company producing industrial machinery components,Large,185000000,Manufacturing,Active,1998/11/27,p023307
+c000602,A028402,4871609,Medium Food & Beverage company operating a popular regional pizza restaurant chain,Medium,15000000,Food & Beverage,Active,2012/7/18,p026430
+c000603,A028403,1527806,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/6/10,p025753
+c000604,A028504,4175902,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2012/6/18,p018255
+c000605,A028505,3186407,Medium restaurant company operating a family-style dine-in chain,Medium,12000000,Food & Beverage,Active,2018/5/22,p024037
+c000606,A028506,1527806,Medium Food & Beverage company operating a local chain of casual dining restaurants,Medium,12500000,Food & Beverage,Active,2015/7/22,p024793
+c000607,A028607,5286314,Medium chain restaurant offering casual dining and takeaway services,Medium,20000000,Food & Beverage,Active,2018/5/20,p027591
+c000608,A028608,4027316,Medium Food & Beverage company operating a popular regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2016/11/8,p027279
+c000609,A028609,2046713,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p027199
+c000610,A028710,3714628,Medium Food & Beverage company operating a chain of artisan bakeries and cafes,Medium,28000000,Food & Beverage,Active,2016/4/11,p021443
+c000611,A028711,2198345,Medium chain of quick-service restaurants specializing in noodles and rice dishes,Medium,18000000,Food & Beverage,Active,2017/11/8,p022646
+c000612,A028712,3071954,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2018/7/12,p028073
+c000613,A028813,3295718,Small convenience store selling daily necessities and snacks,Small,2000000,Retail,Active,2021/8/12,p027237
+c000614,A028814,2486137,Medium chain restaurant specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/10,p026756
+c000615,A028815,1527806,Medium chain restaurant offering casual dining and catering services,Medium,18000000,Food & Beverage,Active,2017/5/11,p025228
+c000616,A028916,1398427,Medium chain store specializing in outdoor apparel and equipment,Medium,28000000,Retail,Active,2014/9/8,p025268
+c000617,A028917,3714628,Small Food & Beverage company operating a popular street food stall,Small,2000000,Food & Beverage,Active,2021/7/8,p020527
+c000618,A028918,3295718,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p024591
+c000619,A029019,1872056,Medium-sized restaurant chain offering regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2014/7/22,p018726
+c000620,A029020,2657408,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2016/11/8,p022019
+c000621,A029021,1047286,Medium chain of regional family-style restaurants,Medium,28000000,Food & Beverage,Active,2014/5/22,p018616
+c000622,A029122,1872056,Medium-sized chain restaurant offering casual Italian dining,Medium,15000000,Food & Beverage,Active,2017/11/8,p020166
+c000623,A029123,1872056,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/22,p025353
+c000624,A029124,2367901,Medium chain restaurant specializing in regional cuisine and takeaway,Medium,15000000,Food & Beverage,Active,2018/7/22,p025413
+c000625,A029225,5039472,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p020499
+c000626,A029226,4871609,Medium Food & Beverage company operating a popular regional pizza restaurant chain,Medium,18000000,Food & Beverage,Active,2016/7/14,p027073
+c000627,A029227,3581974,Large wholesale business specializing in construction materials,Large,125000000,Manufacturing,Active,2012/8/3,p021585
+c000628,A029328,3071954,Small cafe specializing in coffee and pastries,Small,2000000,Food & Beverage,Active,2018/5/20,p028618
+c000629,A029329,1047286,Medium chain restaurant offering Asian-fusion cuisine and catering services,Medium,18000000,Food & Beverage,Active,2017/9/11,p022145
+c000630,A029330,4381267,Medium Food & Beverage company operating a chain of family-friendly pizza restaurants,Medium,28000000,Food & Beverage,Active,2017/5/11,p020101
+c000631,A029431,4381267,Medium Food & Beverage company operating a popular regional chain of hot pot restaurants,Medium,25000000,Food & Beverage,Active,2017/8/22,p027976
+c000632,A029432,5039472,Medium-sized restaurant chain specializing in regional Chinese cuisine and group dining,Medium,25000000,Food & Beverage,Active,2017/8/14,p024079
+c000633,A029433,5472906,Medium chain restaurant offering casual dining and catering services,Medium,20000000,Food & Beverage,Active,2015/8/20,p024325
+c000634,A029534,3186407,Small neighborhood coffee shop and bakery,Small,1500000,Food & Beverage,Active,2021/8/3,p026694
+c000635,A029535,1527806,Medium restaurant chain specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2018/7/12,p020865
+c000636,A029536,4693725,Medium chain restaurant offering regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2018/7/12,p022330
+c000637,A029637,3295718,Medium chain restaurant serving regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/5/22,p022612
+c000638,A029638,3581974,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2013/8/22,p020511
+c000639,A029639,3186407,Small food stall specializing in traditional breakfast items and snacks,Small,2800000,Food & Beverage,Active,2021/8/12,p026872
+c000640,A029740,3186407,Medium chain restaurant specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/8/22,p024818
+c000641,A029741,4175902,Medium regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/8/22,p022175
+c000642,A029742,5286314,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2015/8/22,p028154
+c000643,A029843,3714628,Large manufacturer specializing in automotive components,Large,120000000,Manufacturing,Active,2011/8/22,p028776
+c000644,A029844,4027316,Small convenience store providing daily necessities and snacks,Small,2000000,Retail,Active,2019/11/8,p021408
+c000645,A029845,3295718,Medium chain store offering consumer electronics and home appliances,Medium,28000000,Retail,Active,2018/11/23,p020676
+c000646,A029946,3862507,Medium-sized chain restaurant specializing in regional cuisine,Medium,25000000,Food & Beverage,Active,2018/7/23,p027173
+c000647,A029947,4381267,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/8/11,p020894
+c000648,A029948,2947806,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,12000000,Food & Beverage,Active,2012/7/24,p024426
+c000649,A030049,3468205,Medium chain restaurant offering casual dining and regional cuisine,Medium,25000000,Food & Beverage,Active,2015/8/14,p029311
+c000650,A030050,2793615,Medium-sized restaurant offering traditional Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2016/8/11,p021756
+c000651,A030051,3468205,Medium-sized restaurant chain specializing in Sichuan cuisine,Medium,12500000,Food & Beverage,Active,2017/8/11,p021530
+c000652,A030152,1047286,Medium chain restaurant specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2016/11/8,p024543
+c000653,A030153,2793615,Medium restaurant chain offering regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2016/8/10,p025881
+c000654,A030154,4693725,Small convenience store providing daily essentials and snacks,Small,2800000,Retail,Active,2021/5/12,p028812
+c000655,A030255,3071954,Medium Food & Beverage company operating a regional chain of hot pot restaurants,Medium,15000000,Food & Beverage,Active,2017/8/22,p021520
+c000656,A030256,4175902,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/7/10,p028265
+c000657,A030257,4381267,Medium restaurant chain offering casual Asian fusion dining,Medium,12500000,Food & Beverage,Active,2016/11/8,p019744
+c000658,A030358,2793615,Medium chain store specializing in sports equipment and apparel,Medium,15000000,Retail,Active,2017/11/8,p021733
+c000659,A030359,2657408,Medium restaurant chain offering traditional Chinese cuisine and hot pot,Medium,15000000,Food & Beverage,Active,2015/8/22,p023558
+c000660,A030360,1527806,Medium chain restaurant specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p021448
+c000661,A030461,2367901,Medium restaurant chain offering regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2015/8/10,p020367
+c000662,A030462,2657408,Medium restaurant chain offering traditional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/7/22,p022093
+c000663,A030463,2046713,Medium Food & Beverage company operating a chain of family restaurants,Medium,20000000,Food & Beverage,Active,2015/8/20,p027237
+c000664,A030564,3468205,Small Food & Beverage company operating a single noodle and dumpling stall,Small,2000000,Food & Beverage,Active,2019/7/11,p027213
+c000665,A030565,4528071,Large wholesale business specializing in electronics distribution,Large,85000000,Retail,Active,2012/11/8,p021020
+c000666,A030566,3071954,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2012/7/14,p029104
+c000667,A030667,2947806,Medium Food & Beverage company operating a popular restaurant chain,Medium,28000000,Food & Beverage,Active,2016/7/22,p029100
+c000668,A030668,4528071,Medium chain restaurant specializing in regional Chinese cuisine and group dining,Medium,15000000,Food & Beverage,Active,2015/8/10,p029062
+c000669,A030669,3186407,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p022253
+c000670,A030770,3468205,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2018/6/10,p026605
+c000671,A030771,1527806,Medium restaurant chain serving regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2017/8/10,p022793
+c000672,A030772,1047286,Medium Food & Beverage company operating a popular regional chain of dumpling restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p028544
+c000673,A030873,2486137,Medium chain restaurant serving regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/8/22,p023041
+c000674,A030874,4693725,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/6/10,p024794
+c000675,A030875,1683509,Medium chain restaurant offering casual dining and takeout,Medium,15000000,Food & Beverage,Active,2018/7/22,p028984
+c000676,A030976,1872056,Medium chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/8/22,p028313
+c000677,A030977,2486137,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,12500000,Food & Beverage,Active,2016/8/12,p027351
+c000678,A030978,3468205,Medium chain of casual dining restaurants specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p024349
+c000679,A031079,1527806,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/7/20,p023949
+c000680,A031080,1398427,Medium casual dining restaurant chain,Medium,18000000,Food & Beverage,Active,2015/11/8,p021207
+c000681,A031081,1739462,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2016/9/12,p029380
+c000682,A031182,3581974,Small retail company operating a neighborhood convenience store,Small,3200000,Retail,Active,2019/11/8,p028482
+c000683,A031183,4381267,Medium-sized chain restaurant offering local cuisine and delivery service,Medium,18000000,Food & Beverage,Active,2017/11/3,p022965
+c000684,A031184,1527806,Medium chain restaurant offering casual Asian fusion cuisine,Medium,28000000,Food & Beverage,Active,2017/8/14,p024517
+c000685,A031285,4528071,Medium chain restaurant offering casual dining and coffee,Medium,18000000,Food & Beverage,Active,2017/11/8,p029393
+c000686,A031286,3071954,Medium chain of casual dining restaurants specializing in local cuisine,Medium,15000000,Food & Beverage,Active,2012/7/10,p025483
+c000687,A031287,1047286,Medium chain restaurant specializing in regional cuisine and casual dining,Medium,18000000,Food & Beverage,Active,2015/7/22,p023478
+c000688,A031388,2046713,Medium-sized chain of casual dining restaurants specializing in Sichuan cuisine,Medium,28000000,Food & Beverage,Active,2014/9/22,p028912
+c000689,A031389,4381267,Medium chain restaurant offering fast-casual dining and takeaway services,Medium,18000000,Food & Beverage,Active,2017/11/8,p022304
+c000690,A031390,5472906,Medium chain restaurant specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2015/8/11,p022011
+c000691,A031491,1265934,Large manufacturing company producing industrial machinery components,Large,150000000,Manufacturing,Active,2008/11/10,p021847
+c000692,A031492,4175902,Medium chain restaurant offering family dining and regional cuisine,Medium,25000000,Food & Beverage,Active,2017/8/14,p024995
+c000693,A031493,4693725,Medium chain coffee shop and bakery,Medium,15000000,Food & Beverage,Active,2018/11/5,p027266
+c000694,A031594,2367901,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2016/9/14,p025134
+c000695,A031595,4693725,Large B2B service provider specializing in industrial parts manufacturing and wholesale,Large,125000000,Manufacturing,Active,2008/11/5,p021596
+c000696,A031596,2198345,Small street food stall serving traditional breakfast items and snacks,Small,2000000,Food & Beverage,Active,2019/8/12,p023122
+c000697,A031697,4693725,Medium Food & Beverage company operating a popular chain of family restaurants,Medium,18000000,Food & Beverage,Active,2015/7/22,p028778
+c000698,A031698,3071954,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p027906
+c000699,A031699,4528071,Medium regional chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2017/11/8,p023141
+c000700,A031800,4175902,"Small convenience store offering groceries, snacks, and beverages",Small,2500000,Retail,Active,2019/11/8,p021300
+c000701,A031801,3071954,Large wholesale business distributing industrial machinery parts,Large,120000000,Manufacturing,Active,2012/8/14,p028402
+c000702,A031802,1398427,Medium chain cafe specializing in artisanal coffee and light meals,Medium,12000000,Food & Beverage,Active,2017/8/22,p021863
+c000703,A031903,3468205,Small Food & Beverage company operating a noodle stall in a food court,Small,3000000,Food & Beverage,Active,2021/8/10,p030552
+c000704,A031904,4871609,Medium chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p021327
+c000705,A031905,3468205,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2017/8/12,p029717
+c000706,A032006,4693725,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p030345
+c000707,A032007,5472906,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/22,p023551
+c000708,A032008,1265934,Small food stall specializing in local street food and snacks,Small,1800000,Food & Beverage,Active,2019/5/22,p026522
+c000709,A032109,1872056,Small family-run convenience store,Small,2500000,Retail,Active,2017/11/8,p023117
+c000710,A032110,3468205,Medium restaurant chain serving regional cuisine,Medium,25000000,Food & Beverage,Active,2017/11/8,p027907
+c000711,A032111,5286314,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/6/10,p024189
+c000712,A032212,1398427,Medium Food & Beverage company operating a full-service restaurant,Medium,18500000,Food & Beverage,Active,2017/11/8,p025603
+c000713,A032213,5472906,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2017/11/3,p025785
+c000714,A032214,2367901,Medium chain restaurant offering regional cuisine and dine-in service,Medium,15000000,Food & Beverage,Active,2017/8/11,p030211
+c000715,A032315,5472906,Medium chain restaurant offering fast-casual dining,Medium,15000000,Food & Beverage,Active,2015/6/10,p023723
+c000716,A032316,1872056,Medium chain restaurant specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2017/11/22,p025099
+c000717,A032317,4871609,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/22,p022094
+c000718,A032418,3186407,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,12000000,Food & Beverage,Active,2017/11/8,p031712
+c000719,A032419,4528071,Medium chain restaurant offering fast casual dining and beverages,Medium,28000000,Food & Beverage,Active,2015/8/22,p031212
+c000720,A032420,4175902,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p029357
+c000721,A032521,1683509,Small Food & Beverage company operating a single street food stall,Small,2000000,Food & Beverage,Active,2021/8/11,p024443
+c000722,A032522,3468205,Medium chain restaurant offering regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2015/11/8,p028243
+c000723,A032523,1872056,Medium chain restaurant offering regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2016/8/22,p029280
+c000724,A032624,1047286,"Small Food & Beverage cafe serving coffee, pastries, and light meals",Small,3000000,Food & Beverage,Active,2019/7/12,p025682
+c000725,A032625,2793615,Small street vendor specializing in quick breakfast items and coffee,Small,1800000,Food & Beverage,Active,2021/8/3,p025261
+c000726,A032626,4175902,Medium Food & Beverage company operating a popular chain of quick-service restaurants,Medium,18000000,Food & Beverage,Active,2015/7/22,p025264
+c000727,A032727,4027316,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/12,p022688
+c000728,A032728,2198345,Medium-sized regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/6/10,p022559
+c000729,A032729,1872056,Medium-sized chain restaurant specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2018/6/12,p027088
+c000730,A032830,2046713,Medium chain restaurant offering casual dining and regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p028306
+c000731,A032831,1265934,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2017/11/8,p029458
+c000732,A032832,2198345,Large manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2005/11/18,p029116
+c000733,A032933,1739462,Medium chain restaurant specializing in regional cuisine and dine-in service,Medium,15000000,Food & Beverage,Active,2016/8/10,p032244
+c000734,A032934,3714628,Medium chain store specializing in home and kitchen appliances,Medium,18000000,Retail,Active,2016/8/22,p025914
+c000735,A032935,1527806,Large wholesale business distributing industrial machinery parts,Large,120000000,Manufacturing,Active,2008/11/7,p024973
+c000736,A033036,3581974,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,12500000,Food & Beverage,Active,2015/11/23,p022839
+c000737,A033037,3186407,Medium restaurant chain specializing in Asian cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p023006
+c000738,A033038,4027316,Medium chain restaurant specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/11,p027851
+c000739,A033139,5039472,Large wholesale business specializing in construction materials and industrial supplies,Large,125000000,Manufacturing,Active,2012/8/22,p028516
+c000740,A033140,3862507,Medium retail chain store selling home appliances,Medium,25000000,Retail,Active,2015/8/22,p031998
+c000741,A033141,1265934,Medium restaurant chain offering fast-casual dining,Medium,15000000,Food & Beverage,Active,2018/6/10,p022619
+c000742,A033242,4871609,Medium Food & Beverage company operating a full-service casual dining restaurant chain,Medium,15000000,Food & Beverage,Active,2018/6/12,p029785
+c000743,A033243,4528071,Medium chain restaurant specializing in authentic Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p025704
+c000744,A033244,3186407,Medium Food & Beverage company operating a popular local restaurant chain,Medium,15000000,Food & Beverage,Active,2017/11/3,p025661
+c000745,A033345,1683509,Medium-sized chain restaurant specializing in regional Chinese cuisine and beverages,Medium,18500000,Food & Beverage,Active,2016/8/11,p026108
+c000746,A033346,2793615,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/7/22,p027593
+c000747,A033347,2793615,Medium Food & Beverage company operating a popular chain of family-friendly diners,Medium,25000000,Food & Beverage,Active,2015/7/14,p031645
+c000748,A033448,1265934,Medium chain of coffee shops and cafes,Medium,12000000,Food & Beverage,Active,2015/8/10,p025279
+c000749,A033449,2198345,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,1998/11/5,p025689
+c000750,A033450,2793615,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p030779
+c000751,A033551,3295718,Medium chain restaurant providing casual dining and regional cuisine,Medium,18000000,Food & Beverage,Active,2018/11/7,p031975
+c000752,A033552,1265934,Medium-sized restaurant chain offering Sichuan cuisine and family dining,Medium,18500000,Food & Beverage,Active,2017/8/22,p032393
+c000753,A033553,4528071,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2018/7/11,p030909
+c000754,A033654,2486137,Medium-sized chain restaurant serving regional cuisine,Medium,15000000,Food & Beverage,Active,2018/6/10,p031472
+c000755,A033655,4175902,Small Food & Beverage company operating a local bubble tea and snack stall,Small,1800000,Food & Beverage,Active,2021/8/12,p026351
+c000756,A033656,2947806,Medium chain of Italian restaurants specializing in pasta and pizza,Medium,18000000,Food & Beverage,Active,2015/8/12,p029601
+c000757,A033757,3862507,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,28000000,Food & Beverage,Active,2018/6/10,p023203
+c000758,A033758,2947806,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2015/7/22,p025835
+c000759,A033759,4027316,Medium Food & Beverage company operating a chain of sit-down family restaurants,Medium,18500000,Food & Beverage,Active,2017/8/11,p025386
+c000760,A033860,3862507,Medium Travel & Hospitality company operating a boutique hotel chain,Medium,25000000,Travel & Hospitality,Active,2013/7/11,p024527
+c000761,A033861,3295718,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,18000000,Food & Beverage,Active,2012/5/11,p028991
+c000762,A033862,2947806,Medium chain of fast-casual noodle restaurants,Medium,28000000,Food & Beverage,Active,2018/11/23,p024806
+c000763,A033863,4871609,"Small convenience store offering snacks, drinks, and daily essentials",Small,3000000,Retail,Active,2019/11/8,p031241
+c000764,A033964,2046713,Medium chain restaurant offering casual dining and takeaway,Medium,28000000,Food & Beverage,Active,2018/6/22,p023395
+c000765,A033965,3071954,Medium chain restaurant offering casual dining and takeaway,Medium,20000000,Food & Beverage,Active,2016/11/22,p023590
+c000766,A033966,3295718,Medium Food & Beverage company operating a popular local restaurant chain,Medium,18000000,Food & Beverage,Active,2016/8/22,p030164
+c000767,A033967,3468205,Medium-sized Food & Beverage company operating a popular regional restaurant chain,Medium,15000000,Food & Beverage,Active,2015/8/10,p025129
+c000768,A034068,4693725,Medium Food & Beverage company operating a casual dining restaurant,Medium,20000000,Food & Beverage,Active,2017/8/22,p025585
+c000769,A034069,5286314,Medium Food & Beverage company operating a popular local restaurant chain,Medium,15000000,Food & Beverage,Active,2012/5/18,p030230
+c000770,A034070,4871609,Large wholesale business specializing in electronics and components,Large,120000000,Manufacturing,Active,2012/8/14,p024762
+c000771,A034071,3295718,Medium chain store specializing in casual apparel and accessories,Medium,18000000,Retail,Active,2017/11/8,p032024
+c000772,A034172,5039472,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2013/8/22,p027025
+c000773,A034173,1047286,Medium chain store specializing in home furnishings and decor,Medium,20000000,Retail,Active,2015/11/8,p029217
+c000774,A034174,1739462,Medium Food & Beverage chain restaurant serving regional cuisine,Medium,25000000,Food & Beverage,Active,2015/8/22,p025899
+c000775,A034175,1739462,Small convenience store offering groceries and daily essentials,Small,3000000,Retail,Active,2018/11/5,p030583
+c000776,A034276,1265934,Medium sized restaurant offering regional Italian cuisine and fine dining,Medium,15000000,Food & Beverage,Active,2018/6/10,p031431
+c000777,A034277,2486137,Medium chain restaurant offering fast food and beverages,Medium,20000000,Food & Beverage,Active,2015/8/22,p027289
+c000778,A034278,4528071,Medium Food & Beverage company operating a chain of family restaurants,Medium,15000000,Food & Beverage,Active,2012/7/9,p028973
+c000779,A034279,1265934,Medium chain restaurant offering casual dining and delivery services,Medium,15000000,Food & Beverage,Active,2017/8/14,p023930
+c000780,A034380,2947806,Medium chain restaurant serving regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p025556
+c000781,A034381,4175902,Medium chain restaurant offering casual dining and regional cuisine,Medium,28000000,Food & Beverage,Active,2015/11/8,p030280
+c000782,A034382,3468205,Medium chain restaurant offering regional cuisine and dining services,Medium,25000000,Food & Beverage,Active,2017/8/22,p028287
+c000783,A034383,4528071,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2016/8/10,p027646
+c000784,A034484,3862507,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,12000000,Food & Beverage,Active,2017/11/22,p030412
+c000785,A034485,1047286,Medium restaurant chain specializing in Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2016/11/8,p023930
+c000786,A034486,2947806,Medium Food & Beverage company operating a chain of fast-casual noodle restaurants,Medium,18000000,Food & Beverage,Active,2018/11/7,p027467
+c000787,A034487,1872056,Medium chain restaurant offering casual dining and takeout services,Medium,20000000,Food & Beverage,Active,2017/4/11,p032690
+c000788,A034588,3071954,Medium Food & Beverage company operating a chain of fast-casual noodle restaurants,Medium,18500000,Food & Beverage,Active,2015/8/22,p025334
+c000789,A034589,1739462,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/11/8,p030573
+c000790,A034590,4027316,Medium Food & Beverage company operating a regional chain of hotpot restaurants,Medium,18000000,Food & Beverage,Active,2016/11/8,p024029
+c000791,A034591,1398427,Large wholesale business specializing in building materials,Large,150000000,Manufacturing,Active,1998/11/23,p030137
+c000792,A034692,1683509,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,12000000,Food & Beverage,Active,2016/11/8,p027549
+c000793,A034693,1047286,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/8/14,p033468
+c000794,A034694,2367901,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/11/8,p030959
+c000795,A034695,3862507,Medium casual dining restaurant chain specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2016/8/10,p026185
+c000796,A034796,4528071,Medium Food & Beverage chain of bubble tea shops,Medium,15000000,Food & Beverage,Active,2019/11/8,p032688
+c000797,A034797,4871609,Small Food & Beverage company operating a family-run noodle stall,Small,1500000,Food & Beverage,Active,2019/8/12,p025887
+c000798,A034798,2793615,Medium-sized Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/8/22,p024923
+c000799,A034799,3714628,Medium Food & Beverage company operating a popular local bistro and bar,Medium,12500000,Food & Beverage,Active,2017/8/12,p030015
+c000800,A034900,3714628,Large Manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2010/11/8,p027105
+c000801,A034901,3071954,Medium restaurant chain specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/6/10,p030163
+c000802,A034902,2486137,Medium regional chain of casual dining restaurants,Medium,12000000,Food & Beverage,Active,2016/8/12,p033647
+c000803,A034903,4175902,Medium-sized restaurant chain specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2015/11/8,p027601
+c000804,A035004,3071954,Medium chain restaurant offering regional cuisine and family dining,Medium,15000000,Food & Beverage,Active,2015/7/22,p028474
+c000805,A035005,2367901,Medium chain cafe and bakery specializing in artisanal pastries and coffee,Medium,15000000,Food & Beverage,Active,2018/7/22,p027596
+c000806,A035006,1872056,Medium chain restaurant offering regional cuisine and takeaway,Medium,18000000,Food & Beverage,Active,2017/11/3,p024976
+c000807,A035007,1872056,Medium chain restaurant offering fast-casual dining and takeaway,Medium,25000000,Food & Beverage,Active,2017/8/22,p029481
+c000808,A035108,2657408,Medium-sized restaurant chain specializing in regional cuisine,Medium,28000000,Food & Beverage,Active,2017/11/8,p029893
+c000809,A035109,2947806,Medium chain store specializing in home furnishings and decor,Medium,32000000,Retail,Active,2016/8/10,p032031
+c000810,A035110,5472906,Medium-sized chain store specializing in outdoor and sports equipment retail,Medium,18500000,Retail,Active,2017/11/8,p026596
+c000811,A035111,4381267,"Small convenience store offering snacks, drinks, and daily essentials",Small,3000000,Retail,Active,2019/8/22,p032918
+c000812,A035212,1527806,Large Manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2008/11/5,p024598
+c000813,A035213,1527806,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/22,p027543
+c000814,A035214,3071954,Medium chain restaurant offering regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2015/11/8,p030104
+c000815,A035215,3186407,Medium retail company operating a chain of home appliance stores,Medium,28000000,Retail,Active,2014/7/10,p026457
+c000816,A035316,3468205,Large Manufacturing company producing industrial machinery components,Large,175000000,Manufacturing,Active,2010/11/8,p025555
+c000817,A035317,1047286,Medium restaurant chain serving regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p034305
+c000818,A035318,1047286,Small Food & Beverage company operating a popular local food stall,Small,1500000,Food & Beverage,Active,2021/5/18,p028611
+c000819,A035319,1265934,Medium Food & Beverage company operating a chain of bubble tea and snack shops,Medium,12000000,Food & Beverage,Active,2018/7/12,p028253
+c000820,A035420,3295718,Medium Food & Beverage company operating a chain of family restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p029411
+c000821,A035421,3714628,Medium chain restaurant offering casual dining and takeout services,Medium,20000000,Food & Beverage,Active,2015/8/20,p032795
+c000822,A035422,1047286,Medium Food & Beverage company operating a full-service restaurant,Medium,25000000,Food & Beverage,Active,2018/5/14,p028458
+c000823,A035423,3071954,Medium Food & Beverage company operating a popular regional bakery and cafe chain,Medium,20000000,Food & Beverage,Active,2015/8/22,p024988
+c000824,A035524,3186407,Medium chain of casual dining restaurants specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2015/8/14,p030182
+c000825,A035525,3714628,Medium chain restaurant offering fast casual dining,Medium,15000000,Food & Beverage,Active,2018/7/10,p026673
+c000826,A035526,4528071,Medium Food & Beverage company operating a popular regional chain of family restaurants,Medium,28000000,Food & Beverage,Active,2015/8/22,p030974
+c000827,A035527,1265934,Medium Food & Beverage company operating a chain of family-friendly sit-down restaurants,Medium,25000000,Food & Beverage,Active,2015/11/8,p031070
+c000828,A035628,4693725,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/8/22,p026457
+c000829,A035629,3071954,Medium-sized chain restaurant offering Asian fusion cuisine and casual dining,Medium,15000000,Food & Beverage,Active,2017/11/8,p029569
+c000830,A035630,2793615,Medium chain restaurant offering regional Chinese cuisine and delivery services,Medium,15000000,Food & Beverage,Active,2017/8/11,p027214
+c000831,A035631,3071954,Medium Food & Beverage company operating a popular family restaurant chain,Medium,15000000,Food & Beverage,Active,2012/7/18,p028986
+c000832,A035732,4027316,Medium chain restaurant specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2017/8/11,p032096
+c000833,A035733,3468205,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2017/5/11,p025180
+c000834,A035734,2947806,Medium restaurant and catering service in the Food & Beverage industry,Medium,12000000,Food & Beverage,Active,2015/7/22,p031233
+c000835,A035735,1047286,Medium chain restaurant offering casual dining and takeaway services,Medium,18500000,Food & Beverage,Active,2017/8/12,p027603
+c000836,A035836,2486137,Medium-sized regional retail chain specializing in home improvement and hardware supplies,Medium,25000000,Retail,Active,2014/9/18,p033171
+c000837,A035837,3862507,Medium-sized restaurant chain offering casual dining and delivery services,Medium,18000000,Food & Beverage,Active,2017/11/8,p026203
+c000838,A035838,5039472,Large Manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2005/11/8,p028968
+c000839,A035839,1683509,Medium restaurant chain offering casual dining,Medium,15000000,Food & Beverage,Active,2018/5/10,p029086
+c000840,A035940,1047286,Medium restaurant chain offering fast casual dining,Medium,15000000,Food & Beverage,Active,2018/7/22,p032368
+c000841,A035941,2198345,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2017/11/8,p033530
+c000842,A035942,2198345,Medium chain restaurant specializing in regional noodle dishes,Medium,15000000,Food & Beverage,Active,2019/7/22,p031936
+c000843,A035943,3862507,Medium chain restaurant offering specialty coffee and pastries,Medium,12000000,Food & Beverage,Active,2019/8/22,p033215
+c000844,A036044,3714628,Medium Food & Beverage company operating a family-style restaurant chain,Medium,12000000,Food & Beverage,Active,2018/5/11,p026751
+c000845,A036045,1265934,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2005/7/12,p030119
+c000846,A036046,1047286,Medium chain restaurant offering regional Chinese cuisine and banquets,Medium,20000000,Food & Beverage,Active,2015/8/22,p030155
+c000847,A036047,2486137,Medium chain restaurant specializing in regional noodles and soups,Medium,18000000,Food & Beverage,Active,2015/11/3,p034063
+c000848,A036148,1872056,Medium chain restaurant specializing in regional cuisine and family dining,Medium,12000000,Food & Beverage,Active,2017/5/11,p034786
+c000849,A036149,3071954,Small Food & Beverage company operating a popular breakfast food stall,Small,3000000,Food & Beverage,Active,2021/5/11,p031588
+c000850,A036150,3862507,Medium restaurant chain specializing in regional Chinese cuisine,Medium,28000000,Food & Beverage,Active,2016/11/8,p031351
+c000851,A036151,2367901,Medium-sized restaurant offering Chinese and Western cuisine,Medium,15000000,Food & Beverage,Active,2017/8/12,p026997
+c000852,A036252,4528071,Medium chain restaurant serving regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/11,p031176
+c000853,A036253,1739462,Medium casual dining restaurant chain offering Asian fusion cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p035248
+c000854,A036254,2793615,Medium chain restaurant offering Sichuan cuisine and hotpot,Medium,18000000,Food & Beverage,Active,2018/7/12,p031026
+c000855,A036255,4693725,Medium-sized Food & Beverage company operating a regional chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/12,p026822
+c000856,A036356,2657408,Medium chain restaurant offering casual dining and takeaway,Medium,15000000,Food & Beverage,Active,2017/11/22,p034001
+c000857,A036357,1527806,Medium-sized restaurant chain specializing in Sichuan cuisine and group dining,Medium,18000000,Food & Beverage,Active,2017/8/12,p035352
+c000858,A036358,4381267,Medium chain of fast-casual restaurants serving noodles and rice bowls,Medium,18000000,Food & Beverage,Active,2018/11/5,p026204
+c000859,A036359,2367901,Medium Food & Beverage company operating a popular regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2012/7/11,p028066
+c000860,A036460,3071954,Medium chain of casual dining restaurants specializing in regional cuisine,Medium,25000000,Food & Beverage,Active,2015/8/22,p029197
+c000861,A036461,1739462,Medium chain restaurant offering modern Asian fusion cuisine,Medium,18000000,Food & Beverage,Active,2018/7/22,p027761
+c000862,A036462,3295718,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,18000000,Food & Beverage,Active,2017/11/8,p028086
+c000863,A036463,4528071,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,18500000,Food & Beverage,Active,2016/8/10,p033022
+c000864,A036564,5472906,Medium retail company operating a chain of clothing stores,Medium,25000000,Retail,Active,2015/6/10,p027979
+c000865,A036565,3186407,Large wholesale business specializing in electronic components,Large,125000000,Manufacturing,Active,2011/11/8,p028168
+c000866,A036566,3714628,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2016/7/21,p035218
+c000867,A036567,4175902,Medium Food & Beverage company operating a chain of family-friendly restaurants,Medium,18000000,Food & Beverage,Active,2015/11/8,p031344
+c000868,A036668,1739462,Large manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2008/11/3,p030366
+c000869,A036669,4528071,Medium chain restaurant offering family dining and takeaway services,Medium,15000000,Food & Beverage,Active,2015/8/14,p029000
+c000870,A036670,3862507,Medium retail company operating a chain of clothing stores,Medium,15000000,Retail,Active,2018/6/10,p026211
+c000871,A036671,1265934,Medium chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/6/12,p034430
+c000872,A036772,3186407,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p026537
+c000873,A036773,4175902,Medium regional chain of coffee shops and cafes,Medium,15000000,Food & Beverage,Active,2018/7/11,p030727
+c000874,A036774,3186407,Medium chain restaurant specializing in fast food,Medium,15000000,Food & Beverage,Active,2018/5/20,p030448
+c000875,A036775,2657408,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,22000000,Food & Beverage,Active,2017/8/12,p026846
+c000876,A036876,5039472,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,18500000,Food & Beverage,Active,2014/8/22,p031236
+c000877,A036877,5039472,Small food stall specializing in regional street food,Small,1500000,Food & Beverage,Active,2021/8/3,p028005
+c000878,A036878,2198345,Medium Food & Beverage company operating a chain of sushi restaurants,Medium,25000000,Food & Beverage,Active,2015/11/3,p027048
+c000879,A036879,5039472,Medium chain restaurant offering casual dining and delivery services,Medium,20000000,Food & Beverage,Active,2017/8/22,p026404
+c000880,A036980,4027316,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2014/8/22,p036182
+c000881,A036981,4528071,Medium Food & Beverage company operating a popular full-service restaurant,Medium,12500000,Food & Beverage,Active,2018/5/12,p028920
+c000882,A036982,3186407,Medium regional chain of casual dining restaurants specializing in noodles and dim sum,Medium,18000000,Food & Beverage,Active,2017/8/22,p031662
+c000883,A036983,3186407,Medium chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/11/8,p028721
+c000884,A037084,5472906,Medium chain restaurant serving traditional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/11/3,p031246
+c000885,A037085,3862507,Medium Food & Beverage company operating a popular regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/7/22,p034763
+c000886,A037086,2947806,Medium Food & Beverage company operating a popular dumpling restaurant chain,Medium,25000000,Food & Beverage,Active,2016/8/10,p030468
+c000887,A037087,3071954,Large manufacturing company producing industrial machinery components,Large,125000000,Manufacturing,Active,1998/7/22,p035763
+c000888,A037188,1047286,Medium chain restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/5/22,p034293
+c000889,A037189,1739462,Medium Food & Beverage company operating a popular chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/7/22,p026413
+c000890,A037190,3186407,Medium restaurant chain specializing in regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2016/8/22,p032655
+c000891,A037191,1527806,"Medium chain bakery and café offering artisanal breads, pastries, and coffee",Medium,12500000,Food & Beverage,Active,2018/7/23,p026814
+c000892,A037292,4528071,Medium chain restaurant specializing in casual dining and catering services,Medium,18000000,Food & Beverage,Active,2017/8/14,p035254
+c000893,A037293,1739462,Medium Food & Beverage company operating a popular casual dining restaurant,Medium,18000000,Food & Beverage,Active,2017/11/22,p029677
+c000894,A037294,5286314,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p034175
+c000895,A037295,2793615,Medium restaurant chain offering casual dining and family meals,Medium,15000000,Food & Beverage,Active,2012/8/22,p034728
+c000896,A037396,4871609,Medium Food & Beverage company operating a popular family restaurant chain,Medium,15000000,Food & Beverage,Active,2016/7/11,p032444
+c000897,A037397,2046713,Medium Food & Beverage company operating a chain of family-style restaurants,Medium,18000000,Food & Beverage,Active,2015/8/22,p030285
+c000898,A037398,4027316,"Small cafe serving coffee, pastries, and light meals",Small,2000000,Food & Beverage,Active,2019/7/22,p026596
+c000899,A037399,4027316,Small convenience store located in a residential neighborhood,Small,3000000,Retail,Active,2019/8/12,p030996
+c000900,A037500,3295718,Medium Food & Beverage company operating a family-style restaurant,Medium,12000000,Food & Beverage,Active,2017/8/14,p030189
+c000901,A037501,5286314,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,15000000,Food & Beverage,Active,2016/8/22,p035255
+c000902,A037502,2947806,Medium Food & Beverage restaurant chain,Medium,15000000,Food & Beverage,Active,2018/5/11,p031684
+c000903,A037503,4175902,Medium chain of casual dining restaurants serving regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p033076
+c000904,A037604,4693725,Medium chain restaurant specializing in regional Chinese cuisine,Medium,28000000,Food & Beverage,Active,2017/8/22,p030964
+c000905,A037605,1398427,Medium Food & Beverage chain restaurant offering family dining,Medium,15000000,Food & Beverage,Active,2016/11/22,p036723
+c000906,A037606,5039472,Medium-sized retail chain specializing in home appliances and electronics,Medium,25000000,Retail,Active,2015/8/12,p028568
+c000907,A037607,3581974,Large wholesale company specializing in building materials,Large,120000000,Manufacturing,Active,2012/7/18,p030545
+c000908,A037708,3295718,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2010/11/3,p034404
+c000909,A037709,1527806,Medium chain restaurant offering regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2018/7/10,p033774
+c000910,A037710,1683509,Medium chain restaurant offering casual dining and takeaway,Medium,12000000,Food & Beverage,Active,2018/7/22,p028377
+c000911,A037711,2486137,Medium chain restaurant offering fast casual dining,Medium,12000000,Food & Beverage,Active,2015/8/22,p032500
+c000912,A037812,4528071,Medium chain restaurant specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2015/8/11,p032431
+c000913,A037813,3468205,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,15000000,Food & Beverage,Active,2018/7/22,p028184
+c000914,A037814,5039472,Medium chain store specializing in fitness equipment and apparel,Medium,15000000,Retail,Active,2016/8/10,p032243
+c000915,A037815,1047286,Medium restaurant chain specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2017/8/23,p027758
+c000916,A037916,3581974,Medium chain restaurant specializing in traditional Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2016/8/22,p033892
+c000917,A037917,3581974,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2018/7/22,p029851
+c000918,A037918,3186407,Medium chain restaurant specializing in Chinese hot pot,Medium,18000000,Food & Beverage,Active,2016/11/8,p028105
+c000919,A037919,2947806,Medium chain restaurant specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2016/11/8,p033901
+c000920,A038020,4871609,Medium-sized restaurant chain offering casual dining,Medium,15000000,Food & Beverage,Active,2018/5/20,p035186
+c000921,A038021,4528071,Medium regional chain of casual family restaurants,Medium,18000000,Food & Beverage,Active,2016/11/8,p031876
+c000922,A038022,4528071,Medium Food & Beverage chain restaurant serving regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/14,p030555
+c000923,A038023,3186407,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/7/22,p035743
+c000924,A038124,3071954,Medium Food & Beverage company operating a popular full-service restaurant,Medium,12000000,Food & Beverage,Active,2017/8/22,p032322
+c000925,A038125,1047286,Medium chain restaurant offering family dining and takeaway services,Medium,15000000,Food & Beverage,Active,2016/8/12,p029691
+c000926,A038126,2046713,Medium chain restaurant serving regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2017/11/22,p031025
+c000927,A038127,4175902,Medium chain restaurant offering casual dining and beverages,Medium,20000000,Food & Beverage,Active,2017/8/11,p028969
+c000928,A038228,1047286,Large Manufacturing company specializing in industrial machinery components,Large,120000000,Manufacturing,Active,2005/11/3,p032385
+c000929,A038229,5039472,Medium chain restaurant offering casual dining and regional cuisine,Medium,18000000,Food & Beverage,Active,2017/8/14,p034202
+c000930,A038230,2486137,Large wholesale company distributing industrial machinery parts,Large,125000000,Manufacturing,Active,2012/8/11,p035455
+c000931,A038231,3581974,Medium Food & Beverage company operating a full-service Italian restaurant,Medium,15000000,Food & Beverage,Active,2017/8/22,p028885
+c000932,A038332,1683509,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/8/22,p034514
+c000933,A038333,4381267,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/6/10,p031573
+c000934,A038334,1265934,Medium chain restaurant offering casual dining and takeout,Medium,15000000,Food & Beverage,Active,2018/5/22,p028564
+c000935,A038335,2486137,Medium chain restaurant offering casual dining and takeaway,Medium,20000000,Food & Beverage,Active,2016/8/10,p035132
+c000936,A038436,2657408,Medium chain restaurant offering casual dining and takeout services,Medium,12500000,Food & Beverage,Active,2018/7/22,p031348
+c000937,A038437,2046713,Medium chain restaurant offering regional cuisine and casual dining,Medium,20000000,Food & Beverage,Active,2016/7/11,p032744
+c000938,A038438,1872056,Medium-sized chain restaurant offering fast-casual Asian cuisine,Medium,12000000,Food & Beverage,Active,2018/7/12,p028145
+c000939,A038439,1047286,Medium chain restaurant serving casual dining and beverages,Medium,12000000,Food & Beverage,Active,2017/8/14,p036856
+c000940,A038540,2657408,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p030250
+c000941,A038541,5039472,Medium-sized chain restaurant offering casual dining and catering services,Medium,15000000,Food & Beverage,Active,2017/8/14,p034776
+c000942,A038542,3295718,Medium chain restaurant offering casual dining and takeout service,Medium,12000000,Food & Beverage,Active,2017/8/22,p036551
+c000943,A038543,2486137,Medium Food & Beverage company operating a popular family restaurant chain,Medium,15000000,Food & Beverage,Active,2016/8/11,p029673
+c000944,A038644,2793615,Medium Food & Beverage company operating a popular regional bakery and cafe chain,Medium,12500000,Food & Beverage,Active,2016/8/10,p035726
+c000945,A038645,5472906,Medium chain restaurant specializing in family-style dining,Medium,25000000,Food & Beverage,Active,2017/8/14,p030128
+c000946,A038646,2657408,Medium chain restaurant offering fast casual dining,Medium,12000000,Food & Beverage,Active,2019/5/22,p036065
+c000947,A038647,3071954,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/11,p036972
+c000948,A038748,3186407,Small Food & Beverage company operating a neighborhood bakery and cafe,Small,2800000,Food & Beverage,Active,2019/11/5,p031872
+c000949,A038749,3071954,Medium Food & Beverage company operating a chain of family restaurants,Medium,25000000,Food & Beverage,Active,2012/7/18,p033468
+c000950,A038750,3581974,Medium Food & Beverage company operating a popular regional dumpling restaurant chain,Medium,12000000,Food & Beverage,Active,2017/8/22,p034455
+c000951,A038751,1683509,Medium regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2017/8/22,p028409
+c000952,A038852,3714628,Medium chain of family-style restaurants offering casual dining,Medium,18000000,Food & Beverage,Active,2015/7/10,p036162
+c000953,A038853,4528071,Medium Food & Beverage chain specializing in fast-casual dining,Medium,18500000,Food & Beverage,Active,2016/9/22,p031293
+c000954,A038854,3468205,"Small convenience store offering snacks, drinks, and daily essentials",Small,3000000,Retail,Active,2019/8/12,p032155
+c000955,A038855,1872056,Small food stall specializing in traditional breakfast items and tea,Small,1800000,Food & Beverage,Active,2019/11/5,p028737
+c000956,A038956,2367901,"Small neighborhood convenience store selling snacks, drinks, and daily essentials",Small,1500000,Retail,Active,2021/8/22,p029723
+c000957,A038957,2486137,Medium chain restaurant offering casual dining and takeout,Medium,20000000,Food & Beverage,Active,2017/11/22,p033454
+c000958,A038958,4528071,Medium-sized chain restaurant in the Food & Beverage industry,Medium,25000000,Food & Beverage,Active,2017/11/8,p029192
+c000959,A038959,4175902,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/11/3,p030619
+c000960,A039060,3862507,Medium chain restaurant offering Sichuan cuisine and beverages,Medium,15000000,Food & Beverage,Active,2017/11/8,p037201
+c000961,A039061,3714628,Medium casual dining restaurant chain offering Asian cuisine,Medium,18000000,Food & Beverage,Active,2018/5/11,p032142
+c000962,A039062,3071954,Medium chain restaurant offering regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2015/8/22,p034825
+c000963,A039063,1872056,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,12000000,Food & Beverage,Active,2018/6/10,p034920
+c000964,A039164,5286314,Medium chain restaurant offering regional cuisine and beverages,Medium,18000000,Food & Beverage,Active,2016/9/22,p034700
+c000965,A039165,3071954,Medium-sized chain restaurant offering casual dining and delivery services,Medium,18000000,Food & Beverage,Active,2014/7/11,p037509
+c000966,A039166,1398427,Small food stall specializing in local street food and snacks,Small,1500000,Food & Beverage,Active,2021/5/22,p032221
+c000967,A039167,4381267,Medium Food & Beverage company operating a popular dim sum restaurant chain,Medium,18000000,Food & Beverage,Active,2018/7/22,p032974
+c000968,A039268,4381267,Medium Food & Beverage company operating a multi-city pizza restaurant chain,Medium,12500000,Food & Beverage,Active,2018/7/22,p036857
+c000969,A039269,2046713,Medium chain restaurant serving regional cuisine and beverages,Medium,15000000,Food & Beverage,Active,2015/8/22,p032373
+c000970,A039270,3581974,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/20,p030758
+c000971,A039271,3295718,Medium chain of quick-service coffee shops,Medium,15000000,Food & Beverage,Active,2015/8/10,p029962
+c000972,A039372,1872056,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2013/7/10,p032055
+c000973,A039373,4175902,Medium Food & Beverage company operating a regional chain of family-friendly restaurants,Medium,12500000,Food & Beverage,Active,2018/7/21,p037256
+c000974,A039374,4175902,Medium chain restaurant offering casual dining and takeaway services,Medium,12000000,Food & Beverage,Active,2017/8/22,p033620
+c000975,A039375,5286314,Medium chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2012/8/22,p031769
+c000976,A039476,4381267,Medium-sized chain store providing casual dining and coffee,Medium,18000000,Food & Beverage,Active,2016/8/11,p037749
+c000977,A039477,3186407,Medium casual dining restaurant chain serving local cuisine,Medium,12000000,Food & Beverage,Active,2017/8/22,p032911
+c000978,A039478,5286314,Medium-sized chain restaurant specializing in regional noodle dishes,Medium,15000000,Food & Beverage,Active,2017/8/11,p031459
+c000979,A039479,3581974,Small convenience store offering daily groceries and household essentials,Small,3500000,Retail,Active,2019/8/14,p030788
+c000980,A039580,4027316,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p036484
+c000981,A039581,2793615,Medium restaurant offering casual dining and takeaway services,Medium,18000000,Food & Beverage,Active,2017/8/11,p031627
+c000982,A039582,1265934,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/8/22,p035251
+c000983,A039583,1683509,Medium chain restaurant offering regional cuisine and family dining,Medium,15000000,Food & Beverage,Active,2017/8/12,p036531
+c000984,A039684,5039472,Medium Food & Beverage company operating a regional chain of quick-service restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p037402
+c000985,A039685,1872056,Medium Food & Beverage company operating a full-service Italian restaurant,Medium,12000000,Food & Beverage,Active,2016/8/22,p034382
+c000986,A039686,4027316,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/6/10,p036881
+c000987,A039687,4381267,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2018/6/10,p031413
+c000988,A039788,1739462,Medium Food & Beverage company operating a chain of specialty coffee shops,Medium,18000000,Food & Beverage,Active,2017/8/11,p032044
+c000989,A039789,4175902,Medium retail company operating a chain of sporting goods stores,Medium,25000000,Retail,Active,2015/8/11,p037922
+c000990,A039790,5039472,Large wholesale business distributing industrial machinery parts,Large,120000000,Manufacturing,Active,2008/11/3,p037239
+c000991,A039791,2198345,Medium Food & Beverage company operating a full-service restaurant,Medium,25000000,Food & Beverage,Active,2017/8/22,p033175
+c000992,A039892,3862507,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/5/11,p034792
+c000993,A039893,3468205,"Small convenience store in a residential neighborhood, offering snacks, drinks, and daily necessities",Small,2000000,Retail,Active,2018/11/7,p035713
+c000994,A039894,3714628,Medium retail chain specializing in home appliances and electronics,Medium,15000000,Retail,Active,2014/8/22,p030827
+c000995,A039895,1047286,Medium-sized chain restaurant specializing in regional Chinese cuisine and banquet services,Medium,20000000,Food & Beverage,Active,2016/7/10,p038901
+c000996,A039996,5286314,Medium chain restaurant offering regional cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p032012
+c000997,A039997,5039472,Medium restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2012/8/14,p030291
+c000998,A039998,2046713,Small food stall specializing in local street food and snacks,Small,3000000,Food & Beverage,Active,2019/8/22,p032893
+c000999,A039999,2046713,Medium chain restaurant offering casual dining and takeout services,Medium,12000000,Food & Beverage,Active,2017/8/11,p029791
+c001000,A040100,1872056,Medium chain restaurant offering casual dining and catering services,Medium,15000000,Food & Beverage,Active,2015/8/22,p036021
+c001001,A040101,3295718,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/6/10,p036719
+c001002,A040102,4871609,Medium casual dining restaurant chain specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p037155
+c001003,A040103,1265934,Medium chain restaurant offering casual dining and takeaway services,Medium,20000000,Food & Beverage,Active,2018/6/14,p029661
+c001004,A040204,3862507,Large Manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2008/7/14,p034664
+c001005,A040205,2046713,Medium Food & Beverage company operating a regional pizza restaurant chain,Medium,18000000,Food & Beverage,Active,2014/8/22,p039199
+c001006,A040206,2657408,Medium Food & Beverage company operating a local chain of family restaurants,Medium,25000000,Food & Beverage,Active,2015/8/10,p033696
+c001007,A040207,5472906,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2005/11/8,p034976
+c001008,A040308,1047286,Medium chain store specializing in premium home appliances and electronics,Medium,35000000,Retail,Active,2017/8/12,p030428
+c001009,A040309,1265934,Medium-sized regional chain of popular casual dining restaurants,Medium,28000000,Food & Beverage,Active,2012/8/22,p039140
+c001010,A040310,4381267,Medium chain restaurant serving regional cuisine,Medium,20000000,Food & Beverage,Active,2018/11/7,p036094
+c001011,A040311,2486137,Medium regional chain of casual dining restaurants,Medium,12000000,Food & Beverage,Active,2015/11/23,p031840
+c001012,A040412,1265934,Medium chain of casual dining restaurants specializing in Asian fusion cuisine,Medium,15000000,Food & Beverage,Active,2017/8/22,p032955
+c001013,A040413,1527806,Medium-sized chain restaurant offering regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2015/7/10,p038354
+c001014,A040414,3071954,Medium chain restaurant serving regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/7/12,p037266
+c001015,A040415,1683509,Medium retail company specializing in outdoor gear and equipment,Medium,25000000,Retail,Active,2017/11/8,p029692
+c001016,A040516,2046713,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,15000000,Food & Beverage,Active,2015/8/12,p035986
+c001017,A040517,4027316,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2018/11/8,p030850
+c001018,A040518,4528071,Medium Food & Beverage company operating a regional family restaurant chain,Medium,18000000,Food & Beverage,Active,2015/8/11,p038298
+c001019,A040519,3295718,Medium chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2012/7/18,p037145
+c001020,A040620,5472906,Medium-sized chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2012/7/19,p035399
+c001021,A040621,1872056,Medium-sized family restaurant offering Chinese cuisine and banquet services,Medium,12500000,Food & Beverage,Active,2012/7/18,p038764
+c001022,A040622,3581974,Medium restaurant chain offering traditional Sichuan cuisine,Medium,12500000,Food & Beverage,Active,2015/8/10,p030770
+c001023,A040623,2046713,Medium-sized chain restaurant specializing in gourmet cuisine and catering services,Medium,15000000,Food & Beverage,Active,2018/6/10,p036841
+c001024,A040724,5472906,Medium chain restaurant offering casual dining and takeaway,Medium,18000000,Food & Beverage,Active,2017/8/22,p036535
+c001025,A040725,1398427,Medium Food & Beverage company operating a regional chain of hot pot restaurants,Medium,25000000,Food & Beverage,Active,2015/8/22,p032240
+c001026,A040726,2367901,Medium chain coffee shop and bakery with multiple city locations,Medium,18000000,Food & Beverage,Active,2017/8/22,p037523
+c001027,A040727,5286314,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p034983
+c001028,A040828,1872056,Medium fast-casual restaurant chain specializing in noodle dishes,Medium,15000000,Food & Beverage,Active,2018/11/7,p039773
+c001029,A040829,3186407,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/11/8,p037389
+c001030,A040830,4528071,Medium chain restaurant offering fast casual dining and takeaway,Medium,20000000,Food & Beverage,Active,2017/5/11,p029999
+c001031,A040831,5286314,Medium restaurant offering fast casual dining and group meals,Medium,20000000,Food & Beverage,Active,2018/5/22,p036289
+c001032,A040932,1739462,Large wholesale business specializing in industrial electronics and components,Large,180000000,Manufacturing,Active,2010/7/12,p039351
+c001033,A040933,3295718,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/12,p034353
+c001034,A040934,4871609,Medium chain restaurant offering regional Chinese cuisine and casual dining,Medium,28000000,Food & Beverage,Active,2018/11/5,p037943
+c001035,A040935,1739462,Medium chain of fast-casual noodle restaurants,Medium,18000000,Food & Beverage,Active,2017/8/11,p039224
+c001036,A041036,3468205,Medium chain restaurant offering casual dining and takeout,Medium,20000000,Food & Beverage,Active,2016/5/12,p037943
+c001037,A041037,3862507,Small Food & Beverage company operating a street food stall selling noodles and snacks,Small,2000000,Food & Beverage,Active,2021/7/10,p034183
+c001038,A041038,3071954,Medium chain restaurant offering casual dining and regional cuisine,Medium,12000000,Food & Beverage,Active,2015/8/22,p034035
+c001039,A041039,2793615,Medium Food & Beverage company operating a popular dumpling chain restaurant,Medium,15000000,Food & Beverage,Active,2018/7/12,p036397
+c001040,A041140,2486137,Small Food & Beverage company operating a popular bubble tea and street food stall,Small,2000000,Food & Beverage,Active,2022/8/11,p039105
+c001041,A041141,1527806,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,12000000,Food & Beverage,Active,2016/8/12,p035360
+c001042,A041142,3186407,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p035567
+c001043,A041143,5472906,Medium Food & Beverage company operating a regional chain of family-friendly diners,Medium,28000000,Food & Beverage,Active,2017/8/11,p037607
+c001044,A041244,4871609,Medium fast-casual chain restaurant specializing in Asian-fusion cuisine,Medium,18000000,Food & Beverage,Active,2019/7/22,p035340
+c001045,A041245,1265934,Medium regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2018/6/12,p033304
+c001046,A041246,2947806,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/20,p030574
+c001047,A041247,1265934,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,12500000,Food & Beverage,Active,2015/8/22,p034096
+c001048,A041348,5039472,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2010/7/22,p038493
+c001049,A041349,1047286,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2008/7/14,p035622
+c001050,A041350,2793615,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2018/6/10,p040360
+c001051,A041351,4175902,Large Manufacturing company specializing in consumer electronics production,Large,125000000,Manufacturing,Active,2012/8/10,p039730
+c001052,A041452,1265934,"Medium chain store in the Food & Beverage industry, operating a family-style restaurant",Medium,15000000,Food & Beverage,Active,2018/6/10,p032420
+c001053,A041453,3714628,Medium retail company operating a regional chain of home goods stores,Medium,35000000,Retail,Active,2016/11/8,p038956
+c001054,A041454,3295718,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,15000000,Food & Beverage,Active,2015/6/10,p033660
+c001055,A041455,5039472,Medium restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2016/8/12,p037163
+c001056,A041556,1047286,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/11/22,p038141
+c001057,A041557,5286314,Medium Food & Beverage company operating a popular regional family restaurant chain,Medium,20000000,Food & Beverage,Active,2016/8/22,p035552
+c001058,A041558,4871609,Medium chain restaurant offering Sichuan cuisine,Medium,12000000,Food & Beverage,Active,2015/8/20,p030985
+c001059,A041559,3468205,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2018/11/5,p031948
+c001060,A041660,4381267,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/11/8,p033059
+c001061,A041661,5039472,Medium chain restaurant serving regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2017/11/8,p036912
+c001062,A041662,2046713,Medium retail company specializing in sporting goods and equipment,Medium,15000000,Retail,Active,2017/11/8,p033354
+c001063,A041663,2046713,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2015/8/14,p034748
+c001064,A041764,4693725,Medium chain restaurant specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2018/11/7,p038076
+c001065,A041765,5286314,Small food & beverage company operating a popular noodle food stall,Small,1800000,Food & Beverage,Active,2018/6/10,p036758
+c001066,A041766,2947806,Medium-sized manufacturing company specializing in automotive parts,Medium,35000000,Manufacturing,Active,2012/7/23,p038222
+c001067,A041767,5286314,Medium Food & Beverage company operating a popular family-style restaurant,Medium,12000000,Food & Beverage,Active,2016/8/22,p033453
+c001068,A041868,2367901,Medium chain of casual dining restaurants specializing in regional cuisine,Medium,22000000,Food & Beverage,Active,2015/11/3,p040172
+c001069,A041869,2657408,Medium Food & Beverage company operating a chain of popular hot pot restaurants,Medium,25000000,Food & Beverage,Active,2017/11/5,p030886
+c001070,A041870,2947806,Medium Food & Beverage company operating a popular family restaurant chain,Medium,15000000,Food & Beverage,Active,2018/6/12,p033771
+c001071,A041871,3295718,Medium chain restaurant specializing in regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2015/7/22,p039099
+c001072,A041972,3295718,Medium chain of bookstores and stationery shops,Medium,15000000,Retail,Active,2015/8/22,p034813
+c001073,A041973,4175902,Medium chain of casual dining restaurants,Medium,22000000,Food & Beverage,Active,2017/11/8,p034325
+c001074,A041974,4528071,Medium restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2016/11/8,p037623
+c001075,A041975,4871609,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p033474
+c001076,A042076,3468205,Medium-sized regional chain specializing in casual dining and craft beer,Medium,15000000,Food & Beverage,Active,2017/8/22,p039710
+c001077,A042077,2486137,Medium chain of casual dining restaurants specializing in Sichuan cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p038578
+c001078,A042078,4871609,Medium-sized chain of casual dining restaurants offering Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2018/5/22,p040699
+c001079,A042079,1398427,Medium-sized chain restaurant offering casual dining and takeaway,Medium,18000000,Food & Beverage,Active,2018/7/12,p032392
+c001080,A042180,2793615,Medium chain restaurant offering regional Chinese cuisine and hot pot,Medium,28000000,Food & Beverage,Active,2018/5/11,p040850
+c001081,A042181,4528071,Medium restaurant chain offering casual dining and specialty drinks,Medium,12000000,Food & Beverage,Active,2015/8/22,p040091
+c001082,A042182,5039472,Medium-sized regional chain of family-style restaurants,Medium,18000000,Food & Beverage,Active,2015/8/12,p034003
+c001083,A042183,4381267,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2017/9/11,p040810
+c001084,A042284,3581974,Medium-sized Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2017/8/22,p034471
+c001085,A042285,5286314,Medium Food & Beverage company operating a popular regional noodle restaurant chain,Medium,18000000,Food & Beverage,Active,2015/8/12,p032815
+c001086,A042286,3714628,"Small convenience store offering groceries, snacks, and daily necessities",Small,1800000,Retail,Active,2021/5/18,p032723
+c001087,A042287,5472906,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p037192
+c001088,A042388,4528071,Medium chain restaurant offering casual dining and takeaway,Medium,15000000,Food & Beverage,Active,2018/11/23,p031497
+c001089,A042389,2046713,Medium Food & Beverage company operating a local chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/11,p039795
+c001090,A042390,2947806,Medium restaurant chain specializing in regional Chinese cuisine,Medium,28000000,Food & Beverage,Active,2016/8/12,p032918
+c001091,A042391,3071954,Medium full-service restaurant offering regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2017/5/22,p036856
+c001092,A042492,1527806,Medium Food & Beverage company operating a popular family-style restaurant chain,Medium,18000000,Food & Beverage,Active,2017/6/8,p039486
+c001093,A042493,1265934,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p036552
+c001094,A042494,2657408,Medium Food & Beverage chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p034599
+c001095,A042495,2367901,Medium chain restaurant specializing in regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2018/6/14,p034087
+c001096,A042596,3186407,Medium Food & Beverage company operating a regional chain of fast-casual noodle restaurants,Medium,15000000,Food & Beverage,Active,2016/8/22,p035081
+c001097,A042597,2947806,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2018/7/11,p036467
+c001098,A042598,1872056,Medium-sized chain restaurant serving regional cuisine,Medium,15000000,Food & Beverage,Active,2018/7/10,p033586
+c001099,A042599,2486137,Medium restaurant chain specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p039625
+c001100,A042700,1872056,Medium-sized chain restaurant offering casual dining and takeout services,Medium,15000000,Food & Beverage,Active,2015/6/10,p035590
+c001101,A042701,1872056,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,28000000,Food & Beverage,Active,2015/8/22,p038630
+c001102,A042702,1683509,Medium Food & Beverage company operating a casual dining restaurant,Medium,12500000,Food & Beverage,Active,2017/8/12,p038877
+c001103,A042703,3071954,Small convenience store providing daily necessities and snacks,Small,3500000,Retail,Active,2018/11/7,p041355
+c001104,A042804,5472906,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/22,p039396
+c001105,A042805,1265934,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,25000000,Food & Beverage,Active,2016/11/8,p035173
+c001106,A042806,5472906,Medium restaurant chain specializing in Italian cuisine,Medium,15000000,Food & Beverage,Active,2015/7/20,p033147
+c001107,A042807,1047286,Medium Food & Beverage company operating a popular family restaurant,Medium,15000000,Food & Beverage,Active,2012/7/19,p040532
+c001108,A042908,3862507,Small Food & Beverage company operating a local bubble tea stall,Small,1800000,Food & Beverage,Active,2021/8/3,p034281
+c001109,A042909,3295718,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2015/11/8,p031919
+c001110,A042910,1872056,Medium chain restaurant offering casual dining and takeout services,Medium,25000000,Food & Beverage,Active,2018/6/10,p035298
+c001111,A042911,3295718,"Small family-owned convenience store selling snacks, drinks, and daily essentials",Small,1800000,Retail,Active,2018/11/8,p036599
+c001112,A043012,5286314,Medium chain restaurant offering casual dining and takeout services,Medium,15000000,Food & Beverage,Active,2017/11/8,p033134
+c001113,A043013,4528071,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/5/22,p038842
+c001114,A043014,3714628,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/10,p034531
+c001115,A043015,1047286,Medium Food & Beverage company operating a popular sushi restaurant chain,Medium,15000000,Food & Beverage,Active,2017/11/5,p033399
+c001116,A043116,4528071,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p032893
+c001117,A043117,3071954,Medium-sized chain restaurant offering regional Chinese cuisine and banquet services,Medium,25000000,Food & Beverage,Active,2014/8/22,p035865
+c001118,A043118,1527806,Medium chain restaurant providing casual dining and catering services,Medium,12000000,Food & Beverage,Active,2017/11/8,p038572
+c001119,A043119,2657408,Medium Food & Beverage company operating a popular restaurant chain,Medium,12000000,Food & Beverage,Active,2018/7/12,p041662
+c001120,A043220,1683509,Medium chain store offering home improvement goods and supplies,Medium,18000000,Retail,Active,2016/8/22,p034031
+c001121,A043221,1527806,Medium chain restaurant offering regional Chinese cuisine and casual dining,Medium,18500000,Food & Beverage,Active,2016/8/22,p032673
+c001122,A043222,5286314,Small Food & Beverage company operating a noodle food stall,Small,2000000,Food & Beverage,Active,2019/7/11,p032764
+c001123,A043223,5286314,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/6/10,p041262
+c001124,A043324,3714628,Medium chain restaurant specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2015/8/22,p037526
+c001125,A043325,4175902,Medium-sized Food & Beverage company operating a regional chain of family restaurants,Medium,20000000,Food & Beverage,Active,2015/8/22,p041416
+c001126,A043326,3862507,Medium-sized restaurant chain specializing in regional cuisine and takeaway,Medium,28000000,Food & Beverage,Active,2015/11/3,p041326
+c001127,A043327,2486137,Medium Food & Beverage company operating a regional chain of family-friendly restaurants,Medium,20000000,Food & Beverage,Active,2014/7/8,p041236
+c001128,A043428,3468205,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2017/8/22,p034677
+c001129,A043429,2657408,Medium chain restaurant serving regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2014/11/7,p037148
+c001130,A043430,5286314,Medium chain restaurant offering casual dining and local cuisine,Medium,25000000,Food & Beverage,Active,2018/5/22,p033723
+c001131,A043431,1683509,Medium chain restaurant offering regional cuisine and family dining,Medium,25000000,Food & Beverage,Active,2018/4/22,p036577
+c001132,A043532,3862507,Medium chain restaurant serving regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/22,p040960
+c001133,A043533,4175902,Medium chain restaurant offering casual dining and delivery services,Medium,15000000,Food & Beverage,Active,2017/8/23,p042402
+c001134,A043534,3071954,Medium chain restaurant offering regional Chinese cuisine and fast casual dining,Medium,15000000,Food & Beverage,Active,2017/11/8,p042406
+c001135,A043535,2947806,Medium chain restaurant offering casual dining and takeout services,Medium,12000000,Food & Beverage,Active,2018/5/22,p037065
+c001136,A043636,3295718,Medium restaurant chain specializing in traditional dumplings and noodles,Medium,18000000,Food & Beverage,Active,2012/7/18,p042126
+c001137,A043637,3714628,Medium Food & Beverage company operating a chain of regional family-style restaurants,Medium,28000000,Food & Beverage,Active,2015/8/22,p041682
+c001138,A043638,4381267,Medium-sized restaurant chain offering casual dining and delivery,Medium,12000000,Food & Beverage,Active,2018/7/12,p033216
+c001139,A043639,2198345,Small food stall specializing in traditional street noodles,Small,1500000,Food & Beverage,Active,2021/7/10,p040690
+c001140,A043740,2793615,"Small convenience store providing snacks, drinks, and daily essentials",Small,1800000,Retail,Active,2019/11/5,p038584
+c001141,A043741,2046713,Medium restaurant chain offering fast-casual Asian cuisine,Medium,15000000,Food & Beverage,Active,2015/8/12,p036983
+c001142,A043742,1047286,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p039147
+c001143,A043743,2046713,Medium Food & Beverage company operating a local restaurant chain,Medium,15000000,Food & Beverage,Active,2018/5/22,p034283
+c001144,A043844,4528071,Medium Food & Beverage company operating chain restaurants,Medium,20000000,Food & Beverage,Active,2015/7/20,p040626
+c001145,A043845,5472906,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2015/8/10,p035796
+c001146,A043846,1527806,Medium restaurant chain offering casual dining and family meals,Medium,15000000,Food & Beverage,Active,2018/5/12,p037185
+c001147,A043847,1047286,"Small convenience store providing snacks, beverages, and daily necessities",Small,1800000,Retail,Active,2018/11/5,p036852
+c001148,A043948,3862507,Medium chain of casual dining restaurants offering Asian fusion cuisine,Medium,20000000,Food & Beverage,Active,2017/8/22,p039979
+c001149,A043949,2198345,Medium Food & Beverage company operating a popular local restaurant chain,Medium,15000000,Food & Beverage,Active,2018/5/12,p033561
+c001150,A043950,4381267,Medium chain restaurant offering family dining and delivery,Medium,15000000,Food & Beverage,Active,2018/11/5,p039573
+c001151,A043951,3468205,Medium Food & Beverage company operating a popular family-style restaurant chain,Medium,18000000,Food & Beverage,Active,2012/6/10,p037264
+c001152,A044052,5472906,Medium regional chain restaurant offering family-style dining and takeout,Medium,12500000,Food & Beverage,Active,2017/11/22,p036490
+c001153,A044053,3186407,Medium Food & Beverage chain restaurant serving casual dining,Medium,15000000,Food & Beverage,Active,2018/5/20,p042854
+c001154,A044054,1683509,Large manufacturing company specializing in automotive components,Large,185000000,Manufacturing,Active,2005/11/8,p036571
+c001155,A044055,3295718,Medium chain restaurant offering fast casual dining,Medium,12000000,Food & Beverage,Active,2015/6/20,p042165
+c001156,A044156,3071954,"Small convenience store offering snacks, drinks, and daily essentials",Small,1200000,Retail,Active,2018/11/7,p040127
+c001157,A044157,1683509,Medium chain restaurant offering quick-service Asian cuisine,Medium,18000000,Food & Beverage,Active,2018/6/10,p033572
+c001158,A044158,1265934,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2015/11/3,p040015
+c001159,A044159,2657408,"Small family-run convenience store offering snacks, drinks, and everyday essentials",Small,1500000,Retail,Active,2019/8/12,p041212
+c001160,A044260,1047286,Medium chain restaurant serving regional cuisine,Medium,12000000,Food & Beverage,Active,2018/11/22,p033960
+c001161,A044261,1265934,Medium chain of casual dining restaurants specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2018/5/10,p042787
+c001162,A044262,5472906,Large wholesale business specializing in building materials,Large,120000000,Manufacturing,Active,2008/11/3,p040843
+c001163,A044263,4871609,Medium Food & Beverage company operating a popular local restaurant chain,Medium,20000000,Food & Beverage,Active,2015/8/12,p040929
+c001164,A044264,4027316,Medium chain restaurant offering traditional Chinese cuisine and modern dining,Medium,32000000,Food & Beverage,Active,2017/11/8,p041253
+c001165,A044365,3071954,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/8/14,p040146
+c001166,A044366,1683509,Medium regional chain store specializing in home improvement and hardware goods,Medium,28000000,Retail,Active,2015/8/22,p035731
+c001167,A044367,3468205,Medium chain retailer specializing in home furnishings and decor,Medium,18000000,Retail,Active,2015/11/3,p041393
+c001168,A044368,2198345,Medium restaurant chain offering casual dining,Medium,28000000,Food & Beverage,Active,2017/11/3,p038407
+c001169,A044369,1683509,Medium Food & Beverage company operating a full-service family restaurant,Medium,18000000,Food & Beverage,Active,2017/8/22,p042885
+c001170,A044470,3714628,Medium-sized restaurant chain offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/5/20,p040651
+c001171,A044471,2657408,Medium chain of fast-casual noodle restaurants,Medium,15000000,Food & Beverage,Active,2018/11/5,p041003
+c001172,A044472,4027316,Medium retail chain store specializing in outdoor apparel and equipment,Medium,25000000,Retail,Active,2018/5/22,p042859
+c001173,A044473,3862507,Medium regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2012/7/10,p041966
+c001174,A044474,1265934,Medium chain restaurant specializing in Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2018/11/5,p041999
+c001175,A044575,2046713,Medium Food & Beverage company operating a popular regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2012/7/10,p039989
+c001176,A044576,3862507,Medium chain restaurant offering casual dining and takeaway services,Medium,12500000,Food & Beverage,Active,2017/11/8,p041262
+c001177,A044577,3071954,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,25000000,Food & Beverage,Active,2015/8/22,p036016
+c001178,A044578,5472906,Small Food & Beverage company operating a popular food stall,Small,2000000,Food & Beverage,Active,2019/7/12,p040915
+c001179,A044579,4381267,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p037537
+c001180,A044680,3581974,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2018/5/12,p035455
+c001181,A044681,1739462,"Medium chain store operating in the retail sector, selling home goods and furnishings",Medium,28000000,Retail,Active,2018/7/12,p034443
+c001182,A044682,3714628,"Medium-sized chain store in the Retail industry, selling clothing and accessories",Medium,25000000,Retail,Active,2015/8/22,p041336
+c001183,A044683,4871609,Medium restaurant chain offering casual dining and regional cuisine,Medium,15000000,Food & Beverage,Active,2015/8/22,p036268
+c001184,A044684,4175902,Large manufacturing company specializing in automotive parts,Large,120000000,Manufacturing,Active,2008/11/3,p034666
+c001185,A044785,1527806,Medium chain restaurant offering fast casual dining,Medium,15000000,Food & Beverage,Active,2015/8/22,p038448
+c001186,A044786,2657408,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,12500000,Food & Beverage,Active,2015/11/23,p036207
+c001187,A044787,4381267,Medium-sized bakery and coffee chain serving fresh pastries and beverages,Medium,18000000,Food & Beverage,Active,2015/7/22,p042135
+c001188,A044788,1683509,Medium Food & Beverage company operating a popular regional chain of family restaurants,Medium,25000000,Food & Beverage,Active,2015/8/22,p041892
+c001189,A044789,3186407,Medium-sized retail company operating a chain of home appliance stores,Medium,18000000,Retail,Active,2017/8/22,p036217
+c001190,A044890,3186407,Medium restaurant chain offering traditional Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2017/5/12,p038079
+c001191,A044891,1527806,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2016/11/3,p036856
+c001192,A044892,5039472,Medium chain restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/8/22,p043013
+c001193,A044893,5286314,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2015/11/8,p039310
+c001194,A044894,3468205,Medium restaurant chain specializing in Sichuan cuisine,Medium,12000000,Food & Beverage,Active,2017/11/3,p042734
+c001195,A044995,2657408,Medium Food & Beverage company operating a casual dining restaurant chain,Medium,18000000,Food & Beverage,Active,2018/5/14,p039019
+c001196,A044996,3295718,Medium chain restaurant offering casual dining and takeout services,Medium,20000000,Food & Beverage,Active,2018/6/10,p039701
+c001197,A044997,5039472,Medium-sized chain restaurant offering casual dining and family meals,Medium,25000000,Food & Beverage,Active,2018/11/22,p040484
+c001198,A044998,2657408,Medium Food & Beverage company operating a chain of family restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p038031
+c001199,A044999,1398427,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2015/7/10,p034054
+c001200,A045100,3714628,Medium chain of fast-casual restaurants specializing in noodle bowls,Medium,12000000,Food & Beverage,Active,2018/6/10,p043106
+c001201,A045101,4528071,Medium chain restaurant specializing in regional noodle dishes,Medium,12000000,Food & Beverage,Active,2017/8/22,p043022
+c001202,A045102,1872056,Medium-sized retail chain store specializing in home goods and decor,Medium,28000000,Retail,Active,2017/8/11,p034292
+c001203,A045103,5472906,Medium Food & Beverage chain specializing in premium coffee and pastries,Medium,20000000,Food & Beverage,Active,2019/8/22,p043812
+c001204,A045104,5472906,Medium Food & Beverage company operating a regional chain of noodle restaurants,Medium,15000000,Food & Beverage,Active,2017/11/8,p042013
+c001205,A045205,4528071,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,18500000,Food & Beverage,Active,2018/11/22,p040820
+c001206,A045206,1872056,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2018/7/12,p039498
+c001207,A045207,2198345,Medium chain restaurant offering regional cuisine and fast casual dining,Medium,18500000,Food & Beverage,Active,2018/7/12,p043425
+c001208,A045208,5472906,Medium chain restaurant offering casual dining and local cuisine,Medium,15000000,Food & Beverage,Active,2016/11/8,p040848
+c001209,A045209,2198345,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2017/8/22,p043249
+c001210,A045310,2947806,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,25000000,Food & Beverage,Active,2015/7/14,p038184
+c001211,A045311,3071954,Medium chain restaurant offering regional noodle dishes and beverages,Medium,15000000,Food & Beverage,Active,2017/8/22,p041661
+c001212,A045312,4528071,Medium-sized chain restaurant serving local cuisine,Medium,20000000,Food & Beverage,Active,2017/8/12,p041168
+c001213,A045313,3581974,Medium restaurant chain specializing in regional Chinese cuisine,Medium,20000000,Food & Beverage,Active,2017/11/8,p035422
+c001214,A045314,2367901,Medium chain restaurant offering modern Chinese cuisine and delivery services,Medium,20000000,Food & Beverage,Active,2017/8/22,p036562
+c001215,A045415,5286314,Medium Travel & Hospitality company operating a regional hotel chain,Medium,35000000,Travel & Hospitality,Active,2016/8/22,p043100
+c001216,A045416,1872056,Small Food & Beverage company operating a neighborhood noodle stall,Small,2000000,Food & Beverage,Active,2021/8/12,p039485
+c001217,A045417,1739462,Medium regional chain of fast-casual restaurants,Medium,25000000,Food & Beverage,Active,2017/11/8,p038381
+c001218,A045418,2046713,Medium-sized restaurant chain offering regional Chinese cuisine and banquet services,Medium,28000000,Food & Beverage,Active,2018/7/22,p043527
+c001219,A045419,2198345,Medium restaurant chain specializing in regional cuisine,Medium,15000000,Food & Beverage,Active,2017/4/22,p038781
+c001220,A045520,2046713,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/8/10,p040478
+c001221,A045521,2486137,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p044351
+c001222,A045522,2486137,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2017/8/11,p035410
+c001223,A045523,4027316,Medium chain restaurant specializing in Sichuan cuisine,Medium,28000000,Food & Beverage,Active,2015/8/12,p042716
+c001224,A045524,5286314,Medium chain restaurant offering specialty coffee and baked goods,Medium,18000000,Food & Beverage,Active,2017/11/8,p035153
+c001225,A045625,4528071,Medium Food & Beverage company operating a chain of fast-casual noodle restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p041227
+c001226,A045626,2793615,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p035357
+c001227,A045627,3714628,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2015/8/10,p035527
+c001228,A045628,1398427,Medium chain of casual dining restaurants offering modern Asian fusion cuisine,Medium,20000000,Food & Beverage,Active,2018/5/14,p036461
+c001229,A045629,5472906,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2016/11/7,p039210
+c001230,A045730,3295718,Medium chain restaurant offering regional Chinese cuisine and tea,Medium,18000000,Food & Beverage,Active,2017/8/22,p036398
+c001231,A045731,4528071,Medium Food & Beverage company operating a full-service casual dining restaurant,Medium,15000000,Food & Beverage,Active,2018/7/12,p043102
+c001232,A045732,2367901,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,28000000,Food & Beverage,Active,2017/11/3,p035631
+c001233,A045733,3862507,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/11/8,p043629
+c001234,A045734,3186407,Small family-owned cafe offering specialty coffee and pastries,Small,2000000,Food & Beverage,Active,2019/8/10,p035848
+c001235,A045835,2947806,Medium restaurant chain offering traditional hotpot cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p036428
+c001236,A045836,5286314,Medium Food & Beverage company operating a full-service restaurant with bar,Medium,8500000,Food & Beverage,Active,2018/5/14,p041516
+c001237,A045837,5472906,Medium Food & Beverage company operating a regional chain of family restaurants,Medium,20000000,Food & Beverage,Active,2015/11/8,p041890
+c001238,A045838,1398427,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18500000,Food & Beverage,Active,2015/9/10,p037851
+c001239,A045839,1398427,Medium chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2017/8/12,p043645
+c001240,A045940,5286314,Medium chain restaurant serving regional Chinese cuisine,Medium,18500000,Food & Beverage,Active,2017/11/8,p042142
+c001241,A045941,1872056,Medium restaurant chain offering casual dining and local cuisine,Medium,20000000,Food & Beverage,Active,2015/8/12,p038555
+c001242,A045942,2198345,Medium Food & Beverage company running a regional chain of hot pot restaurants,Medium,18000000,Food & Beverage,Active,2017/11/22,p043742
+c001243,A045943,4528071,Medium-sized chain coffee shop and bakery,Medium,12000000,Food & Beverage,Active,2018/6/14,p044242
+c001244,A045944,3186407,"Small convenience store offering snacks, beverages, and daily necessities",Small,2500000,Retail,Active,2019/7/12,p034906
+c001245,A046045,1683509,Large manufacturing company specializing in industrial machinery components,Large,125000000,Manufacturing,Active,2008/11/3,p040376
+c001246,A046046,2793615,Medium professional services company providing accounting and business advisory,Medium,15000000,Financial Services,Active,2014/7/22,p043848
+c001247,A046047,3714628,Medium-sized restaurant and bar specializing in regional cuisine,Medium,18000000,Food & Beverage,Active,2017/11/8,p040447
+c001248,A046048,5039472,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/5/20,p035591
+c001249,A046049,3468205,Medium chain restaurant offering specialty noodles and regional cuisine,Medium,18000000,Food & Beverage,Active,2018/5/12,p042716
+c001250,A046150,3581974,Medium-sized chain restaurant offering casual dining and beverages,Medium,20000000,Food & Beverage,Active,2015/8/10,p036357
+c001251,A046151,1398427,Medium chain of specialty coffee shops and bakeries,Medium,18000000,Food & Beverage,Active,2015/8/12,p038998
+c001252,A046152,3581974,Medium chain restaurant offering regional cuisine and casual dining,Medium,35000000,Food & Beverage,Active,2018/11/7,p043519
+c001253,A046153,4693725,Medium chain restaurant specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p040881
+c001254,A046154,3468205,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p041058
+c001255,A046255,4027316,Medium chain store specializing in health and wellness products,Medium,15000000,Retail,Active,2017/8/22,p037116
+c001256,A046256,3714628,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/20,p040269
+c001257,A046257,4381267,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,12000000,Food & Beverage,Active,2015/11/3,p041686
+c001258,A046258,3714628,Medium Food & Beverage company operating a popular hot pot restaurant chain,Medium,15000000,Food & Beverage,Active,2016/11/8,p043005
+c001259,A046259,1398427,Medium-sized Food & Beverage company operating a full-service Italian restaurant chain,Medium,18000000,Food & Beverage,Active,2017/11/5,p043752
+c001260,A046360,2486137,Medium restaurant chain specializing in regional cuisine,Medium,20000000,Food & Beverage,Active,2016/9/14,p040297
+c001261,A046361,2367901,Medium-sized chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2017/5/22,p035206
+c001262,A046362,3468205,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2015/8/22,p041810
+c001263,A046363,4027316,Medium chain restaurant specializing in regional Chinese cuisine,Medium,12000000,Food & Beverage,Active,2016/8/10,p039208
+c001264,A046364,1739462,Medium-sized restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/11/22,p039348
+c001265,A046465,4693725,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2008/11/20,p040060
+c001266,A046466,3714628,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,18000000,Food & Beverage,Active,2012/7/18,p042575
+c001267,A046467,3071954,Medium regional chain of casual dining restaurants,Medium,18500000,Food & Beverage,Active,2013/11/8,p039789
+c001268,A046468,2657408,Small Food & Beverage company operating a popular street food noodle stall,Small,3200000,Food & Beverage,Active,2019/8/23,p043206
+c001269,A046469,3862507,Medium Food & Beverage company operating a regional chain of hot pot restaurants,Medium,32000000,Food & Beverage,Active,2013/6/10,p038141
+c001270,A046570,5286314,Small Food & Beverage company operating a local bubble tea and snack stall,Small,3000000,Food & Beverage,Active,2022/5/10,p043531
+c001271,A046571,3295718,Medium Food & Beverage company operating a popular regional restaurant chain,Medium,18000000,Food & Beverage,Active,2017/4/22,p039687
+c001272,A046572,4027316,Medium chain restaurant offering regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/7/22,p044338
+c001273,A046573,3071954,Medium chain restaurant providing fast-casual dining and takeout services,Medium,20000000,Food & Beverage,Active,2017/11/8,p037909
+c001274,A046574,4528071,Large manufacturing company specializing in automotive parts,Large,125000000,Manufacturing,Active,2008/11/7,p037283
+c001275,A046675,2046713,Medium-sized chain restaurant offering regional cuisine,Medium,18000000,Food & Beverage,Active,2017/8/12,p036224
+c001276,A046676,4381267,Medium chain store specializing in office supplies and stationery,Medium,18000000,Retail,Active,2018/7/10,p039747
+c001277,A046677,1265934,Medium chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2018/5/22,p036103
+c001278,A046678,4693725,Medium Food & Beverage company operating a family-style casual dining restaurant chain,Medium,15000000,Food & Beverage,Active,2016/8/22,p042603
+c001279,A046679,5039472,Medium restaurant chain specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2017/11/8,p035992
+c001280,A046780,1047286,Medium full-service restaurant with a focus on regional cuisine,Medium,12000000,Food & Beverage,Active,2015/11/8,p036450
+c001281,A046781,5039472,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/5/22,p039383
+c001282,A046782,1739462,Medium-sized restaurant serving authentic Italian cuisine and fine wines,Medium,15000000,Food & Beverage,Active,2017/8/22,p042338
+c001283,A046783,4871609,"Medium chain store in the Food & Beverage industry, operating a full-service restaurant",Medium,30000000,Food & Beverage,Active,2015/8/14,p044288
+c001284,A046784,1265934,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/5/20,p038212
+c001285,A046885,3862507,"Small convenience store providing snacks, drinks, and daily necessities",Small,3200000,Retail,Active,2018/11/7,p042431
+c001286,A046886,1527806,Medium Food & Beverage company operating a popular mid-range restaurant chain,Medium,18000000,Food & Beverage,Active,2017/9/22,p040134
+c001287,A046887,1683509,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/7/14,p044152
+c001288,A046888,1398427,Small convenience store chain serving urban neighborhoods,Small,3200000,Retail,Active,2019/7/11,p039758
+c001289,A046889,4175902,Medium chain restaurant offering regional cuisine and family dining,Medium,12000000,Food & Beverage,Active,2018/5/14,p043181
+c001290,A046990,5472906,Medium Food & Beverage chain of artisan coffee shops and bakeries,Medium,18000000,Food & Beverage,Active,2016/9/10,p043284
+c001291,A046991,3862507,Medium-sized chain restaurant offering casual dining and takeout services,Medium,15000000,Food & Beverage,Active,2018/5/10,p040796
+c001292,A046992,1739462,Medium chain restaurant offering casual dining and takeaway services,Medium,15000000,Food & Beverage,Active,2018/6/10,p044994
+c001293,A046993,1683509,Medium chain restaurant company offering family-style dining,Medium,18500000,Food & Beverage,Active,2014/7/22,p039100
+c001294,A046994,2367901,Medium Food & Beverage company operating a full-service restaurant,Medium,15000000,Food & Beverage,Active,2018/6/10,p040339
+c001295,A047095,2657408,Medium chain restaurant offering family-style dining and takeaway,Medium,28000000,Food & Beverage,Active,2015/8/22,p039191
+c001296,A047096,4381267,Medium Food & Beverage chain restaurant specializing in regional cuisine,Medium,12500000,Food & Beverage,Active,2016/11/3,p039515
+c001297,A047097,2947806,Medium restaurant specializing in regional cuisine and catering services,Medium,15000000,Food & Beverage,Active,2017/11/8,p039429
+c001298,A047098,5039472,Medium full-service restaurant chain offering local cuisine,Medium,18000000,Food & Beverage,Active,2017/5/11,p041345
+c001299,A047099,4693725,Small Food & Beverage business operating a local bubble tea and snack stall,Small,2000000,Food & Beverage,Active,2021/7/12,p040069
+c001300,A047200,2947806,Medium chain restaurant offering fast-casual dining and family meals,Medium,18000000,Food & Beverage,Active,2016/8/22,p043057
+c001301,A047201,4175902,Medium chain of casual dining restaurants,Medium,25000000,Food & Beverage,Active,2014/8/12,p042480
+c001302,A047202,1872056,Medium restaurant chain specializing in regional Chinese cuisine,Medium,18000000,Food & Beverage,Active,2012/11/5,p040348
+c001303,A047203,1739462,Medium chain store specializing in consumer electronics and home appliances,Medium,35000000,Retail,Active,2015/8/22,p045075
+c001304,A047204,4381267,Small Food & Beverage company operating a popular street food stall,Small,2000000,Food & Beverage,Active,2021/5/10,p040079
+c001305,A047305,4693725,Medium retail chain specializing in consumer electronics and home appliances,Medium,15000000,Retail,Active,2015/8/14,p039492
+c001306,A047306,2198345,Large wholesale business specializing in industrial electronics components,Large,185000000,Manufacturing,Active,2005/8/10,p045115
+c001307,A047307,2367901,Medium-sized Food & Beverage company operating a chain of bakery cafes,Medium,12000000,Food & Beverage,Active,2015/8/12,p040002
+c001308,A047308,1398427,Small Food & Beverage company operating a popular food stall,Small,1500000,Food & Beverage,Active,2021/8/14,p038760
+c001309,A047309,3071954,Medium-sized chain restaurant offering regional Chinese cuisine and beverages,Medium,18000000,Food & Beverage,Active,2016/8/10,p042360
+c001310,A047410,3714628,Medium-sized restaurant chain offering casual dining and regional cuisine,Medium,20000000,Food & Beverage,Active,2015/8/22,p043010
+c001311,A047411,2198345,Medium chain restaurant specializing in Sichuan cuisine and hot pot,Medium,12000000,Food & Beverage,Active,2018/7/22,p044868
+c001312,A047412,1265934,Medium-sized retail chain specializing in home furnishings and decor,Medium,28500000,Retail,Active,2015/8/22,p040565
+c001313,A047413,1047286,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,15000000,Food & Beverage,Active,2018/6/10,p043177
+c001314,A047414,3295718,Medium Food & Beverage company operating a popular regional chain of family-style restaurants,Medium,15000000,Food & Beverage,Active,2015/8/12,p044932
+c001315,A047515,3714628,Medium Food & Beverage company operating a popular chain restaurant,Medium,18500000,Food & Beverage,Active,2017/11/8,p037910
+c001316,A047516,3862507,Medium Food & Beverage company operating a chain of casual dining restaurants,Medium,20000000,Food & Beverage,Active,2018/5/10,p038396
+c001317,A047517,5472906,Large wholesale business specializing in industrial materials,Large,125000000,Manufacturing,Active,2012/8/22,p039938
+c001318,A047518,5472906,Medium chain store specializing in sporting goods and athletic apparel,Medium,25000000,Retail,Active,2016/9/10,p037521
+c001319,A047519,3186407,Medium-sized chain restaurant offering authentic Sichuan cuisine,Medium,18000000,Food & Beverage,Active,2017/8/22,p039620
+c001320,A047620,3295718,Medium Food & Beverage company operating a full-service Italian restaurant,Medium,12000000,Food & Beverage,Active,2017/8/14,p042751
+c001321,A047621,1265934,Medium restaurant chain specializing in Sichuan cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p036743
+c001322,A047622,3186407,Medium chain store specializing in home goods and decor,Medium,15000000,Retail,Active,2018/7/12,p042817
+c001323,A047623,3071954,Medium-sized chain restaurant specializing in regional Chinese cuisine,Medium,15000000,Food & Beverage,Active,2016/8/22,p036808
+c001324,A047624,5472906,Medium Food & Beverage company operating a casual dining restaurant,Medium,15000000,Food & Beverage,Active,2018/7/20,p046375
+c001325,A047725,4175902,Small convenience store chain with several neighborhood locations,Small,3000000,Retail,Active,2018/11/22,p044627
+c001326,A047726,4693725,Medium chain store in the retail industry selling books and stationery,Medium,20000000,Retail,Active,2018/7/12,p037351
+c001327,A047727,5472906,Medium Food & Beverage company operating a regional chain of casual dining restaurants,Medium,28000000,Food & Beverage,Active,2016/8/22,p039520
+c001328,A047728,2947806,Medium chain restaurant offering casual dining and regional cuisine,Medium,15000000,Food & Beverage,Active,2018/5/14,p043527
+c001329,A047729,4871609,Medium Food & Beverage company operating a regional chain of family-style restaurants,Medium,25000000,Food & Beverage,Active,2012/7/19,p036617
