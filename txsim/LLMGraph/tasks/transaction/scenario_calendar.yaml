@@ -1,0 +1,222 @@
+# 中国交易场景日历配置
+# 包含各种购物节、节假日、发薪日等场景
+
+# ==================== 固定日期场景 ====================
+fixed_date_scenarios:
+  # 元旦
+  - name: "new_year_day"
+    display_name: "元旦"
+    dates: ["01-01"]
+    volume_multiplier: [1.3, 1.5]
+    description: "元旦假期，购物和聚餐增多"
+    categories: ["holiday", "shopping"]
+
+  # 情人节
+  - name: "valentines_day"
+    display_name: "情人节"
+    dates: ["02-14"]
+    volume_multiplier: [1.4, 1.6]
+    description: "情人节，鲜花、礼物、餐饮消费激增"
+    categories: ["holiday", "gift", "dining"]
+    hot_industries: ["Retail", "Food & Beverage", "Entertainment"]
+
+  # 妇女节
+  - name: "womens_day"
+    display_name: "妇女节"
+    dates: ["03-08"]
+    volume_multiplier: [1.2, 1.4]
+    description: "妇女节，美妆、服饰等女性消费增加"
+    categories: ["shopping", "promotion"]
+    hot_industries: ["Retail", "Beauty & Personal Care"]
+
+  # 劳动节
+  - name: "labor_day"
+    display_name: "劳动节"
+    dates: ["05-01", "05-02", "05-03"]
+    volume_multiplier: [1.3, 1.5]
+    description: "劳动节假期，旅游和购物增多"
+    categories: ["holiday", "travel", "shopping"]
+
+  # 儿童节
+  - name: "childrens_day"
+    display_name: "儿童节"
+    dates: ["06-01"]
+    volume_multiplier: [1.2, 1.3]
+    description: "儿童节，玩具、游乐、亲子消费增加"
+    categories: ["holiday", "family"]
+    hot_industries: ["Retail", "Entertainment", "Education"]
+
+  # 618购物节
+  - name: "618_festival"
+    display_name: "618购物节"
+    dates: ["06-16", "06-17", "06-18"]
+    volume_multiplier: [1.8, 2.2]
+    description: "618年中大促，电商平台大规模促销"
+    categories: ["shopping", "promotion", "ecommerce"]
+    hot_industries: ["Retail", "Electronics", "Home & Garden"]
+
+  # 七夕节
+  - name: "qixi_festival"
+    display_name: "七夕节"
+    dates: ["08-10"]  # 农历七月初七，需要动态计算
+    volume_multiplier: [1.3, 1.5]
+    description: "七夕情人节，礼物和餐饮消费增加"
+    categories: ["holiday", "gift", "dining"]
+    hot_industries: ["Retail", "Food & Beverage", "Entertainment"]
+
+  # 中秋节
+  - name: "mid_autumn_festival"
+    display_name: "中秋节"
+    dates: ["09-15"]  # 农历八月十五，需要动态计算
+    volume_multiplier: [1.4, 1.6]
+    description: "中秋节，月饼、礼品、聚餐消费高峰"
+    categories: ["holiday", "gift", "family"]
+    hot_industries: ["Food & Beverage", "Retail"]
+
+  # 国庆节
+  - name: "national_day"
+    display_name: "国庆节"
+    dates: ["10-01", "10-02", "10-03", "10-04", "10-05", "10-06", "10-07"]
+    volume_multiplier: [1.5, 1.8]
+    description: "国庆黄金周，旅游和购物高峰"
+    categories: ["holiday", "travel", "shopping"]
+
+  # 双11购物节
+  - name: "double11"
+    display_name: "双11购物节"
+    dates: ["11-10", "11-11", "11-12"]
+    volume_multiplier: [2.0, 2.5]
+    description: "双11全球购物狂欢节，全年最大促销"
+    categories: ["shopping", "promotion", "ecommerce"]
+    hot_industries: ["Retail", "Electronics", "Fashion", "Home & Garden"]
+
+  # 双12购物节
+  - name: "double12"
+    display_name: "双12购物节"
+    dates: ["12-12"]
+    volume_multiplier: [1.5, 1.8]
+    description: "双12购物节，年末促销活动"
+    categories: ["shopping", "promotion", "ecommerce"]
+
+  # 圣诞节
+  - name: "christmas"
+    display_name: "圣诞节"
+    dates: ["12-24", "12-25"]
+    volume_multiplier: [1.3, 1.5]
+    description: "圣诞节，礼物和聚会消费增加"
+    categories: ["holiday", "gift", "dining"]
+
+# ==================== 农历节日场景（需要动态计算） ====================
+lunar_calendar_scenarios:
+  # 春节
+  - name: "spring_festival"
+    display_name: "春节"
+    lunar_dates: ["12-30", "01-01", "01-02", "01-03", "01-04", "01-05", "01-06"]
+    volume_multiplier: [1.8, 2.3]
+    description: "春节黄金周，年货、红包、聚餐消费高峰"
+    categories: ["holiday", "family", "gift", "shopping"]
+    hot_industries: ["Food & Beverage", "Retail", "Entertainment", "Travel"]
+
+  # 元宵节
+  - name: "lantern_festival"
+    display_name: "元宵节"
+    lunar_dates: ["01-15"]
+    volume_multiplier: [1.2, 1.4]
+    description: "元宵节，汤圆、灯会等消费"
+    categories: ["holiday", "family"]
+
+  # 端午节
+  - name: "dragon_boat_festival"
+    display_name: "端午节"
+    lunar_dates: ["05-05"]
+    volume_multiplier: [1.3, 1.5]
+    description: "端午节，粽子、礼品消费增加"
+    categories: ["holiday", "family", "gift"]
+    hot_industries: ["Food & Beverage", "Retail"]
+
+# ==================== 周期性场景 ====================
+periodic_scenarios:
+  # 发薪日
+  - name: "payday"
+    display_name: "发薪日"
+    pattern: "monthly"
+    dates: [25, 26, 27, 28, 29, 30, 31]  # 每月25-31日
+    volume_multiplier: [1.15, 1.3]
+    description: "月末发薪日，消费意愿增强"
+    categories: ["payday", "shopping"]
+
+  # 周末
+  - name: "weekend"
+    display_name: "周末"
+    pattern: "weekly"
+    weekdays: [5, 6]  # 周六、周日 (0=周一)
+    volume_multiplier: [1.2, 1.4]
+    description: "周末休息日，购物和娱乐消费增加"
+    categories: ["weekend", "leisure"]
+
+  # 周五
+  - name: "friday"
+    display_name: "周五"
+    pattern: "weekly"
+    weekdays: [4]  # 周五
+    volume_multiplier: [1.1, 1.2]
+    description: "周五，准备周末活动，消费略有增加"
+    categories: ["weekend_prep"]
+
+# ==================== 电商促销场景 ====================
+ecommerce_scenarios:
+  # 38女王节
+  - name: "queen_festival"
+    display_name: "38女王节"
+    dates: ["03-07", "03-08", "03-09"]
+    volume_multiplier: [1.4, 1.6]
+    description: "38女王节，女性用户专属促销"
+    categories: ["shopping", "promotion", "ecommerce"]
+    hot_industries: ["Beauty & Personal Care", "Fashion", "Retail"]
+
+  # 99大促
+  - name: "99_sale"
+    display_name: "99大促"
+    dates: ["09-08", "09-09", "09-10"]
+    volume_multiplier: [1.3, 1.5]
+    description: "99大促，开学季促销"
+    categories: ["shopping", "promotion", "ecommerce"]
+    hot_industries: ["Electronics", "Education", "Retail"]
+
+  # 年货节
+  - name: "new_year_goods"
+    display_name: "年货节"
+    dates: ["01-10", "01-11", "01-12", "01-13", "01-14", "01-15"]
+    volume_multiplier: [1.5, 1.7]
+    description: "年货节，春节前采购高峰"
+    categories: ["shopping", "promotion", "holiday_prep"]
+    hot_industries: ["Food & Beverage", "Retail"]
+
+  # 开学季
+  - name: "back_to_school"
+    display_name: "开学季"
+    dates: ["08-25", "08-26", "08-27", "08-28", "08-29", "08-30", "08-31", "09-01"]
+    volume_multiplier: [1.3, 1.5]
+    description: "开学季，学生用品采购高峰"
+    categories: ["shopping", "education"]
+    hot_industries: ["Education", "Electronics", "Retail"]
+
+# ==================== 季节性场景 ====================
+seasonal_scenarios:
+  # 夏季促销
+  - name: "summer_sale"
+    display_name: "夏季促销"
+    date_range: ["06-20", "08-20"]
+    volume_multiplier: [1.1, 1.2]
+    description: "夏季促销，服装、空调等季节性商品"
+    categories: ["shopping", "seasonal"]
+    hot_industries: ["Fashion", "Electronics", "Retail"]
+
+  # 冬季促销
+  - name: "winter_sale"
+    display_name: "冬季促销"
+    date_range: ["12-01", "02-28"]
+    volume_multiplier: [1.1, 1.2]
+    description: "冬季促销，保暖用品、年货等"
+    categories: ["shopping", "seasonal"]
+    hot_industries: ["Fashion", "Retail"]

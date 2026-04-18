@@ -1,0 +1,100 @@
+use_agent_config: False
+
+# LLM角色映射配置
+# 默认使用 DeepSeek API（纯 API 模式，无需本地 vLLM）。
+# 如需本地 vLLM，将各角色改为 "vllm_local"，并先启动 ./manage_llm_service.sh start
+llm_role_mappings:
+  profile_generator: "deepseek"
+  merchant_generator: "deepseek"
+  transaction_manager: "deepseek"
+  scenario_generator: "deepseek"
+  default: "deepseek"
+
+environment:
+  env_type: transaction
+
+  time_configs:
+    start_time: "2025-01-01 00:00:00"
+    end_time: "2025-12-31 23:00:00"
+    window_size_minutes: 180
+
+  transaction_configs:
+    target_txn_count: 2200000  # 调整为220万，考虑volume_multiplier影响后实际约300万
+    num_merchants: 2  # 每天生成的商户数量
+    num_persons: 100  # 每天生成的个人数量
+    use_fixed_daily_generation: true  # 是否使用固定每日生成模式（true=每天生成固定数量，false=累积到总数）
+    p2m_ratio_for_person: 0.75
+    m2m_ratio_for_merchant: 0.7
+    exploration_alpha: 5.0
+    favorites_topk: 10
+    favorites_decay: 0.97
+    num_geos: 20
+    p_cross_base: 0.03
+    p_repeat_local: 0.6
+    p_repeat_external: 0.7
+    buffer_size: 10000
+
+    # 货币配置
+    currencies: ["USD", "EUR", "GBP", "JPY", "CNY", "AUD", "CAD", "CHF"]
+    default_currency: "CNY"
+    cross_currency_ratio: 0.05  # 跨币种交易占比 5%
+
+    # 汇率配置（相对于 USD 的汇率，2025年1月参考值）
+    exchange_rates:
+      USD: 1.0      # 美元（基准）
+      EUR: 0.92     # 欧元
+      GBP: 0.79     # 英镑
+      JPY: 149.5    # 日元
+      CNY: 7.25     # 人民币
+      AUD: 1.58     # 澳元
+      CAD: 1.42     # 加元
+      CHF: 0.88     # 瑞士法郎
+
+    # 手续费配置
+    fee_configs:
+      same_currency_fee_rate: 0.001    # 同币种交易手续费率 0.1%
+      cross_currency_fee_rate: 0.015   # 跨币种交易手续费率 1.5%
+      exchange_rate_spread: 0.005      # 汇率价差 0.5%
+      same_bank_fee_rate: 0.0          # 同银行内转账手续费率 0%
+
+    # 银行配置
+    banks: [
+      "1047286",
+      "1265934",
+      "1398427",
+      "1527806",
+      "1683509",
+      "1739462",
+      "1872056",
+      "2046713",
+      "2198345",
+      "2367901",
+      "2486137",
+      "2657408",
+      "2793615",
+      "2947806",
+      "3071954",
+      "3186407",
+      "3295718",
+      "3468205",
+      "3581974",
+      "3714628",
+      "3862507",
+      "4027316",
+      "4175902",
+      "4381267",
+      "4528071",
+      "4693725",
+      "4871609",
+      "5039472",
+      "5286314",
+      "5472906"
+    ]
+  managers:
+    transaction:
+      transaction_data_dir: LLMGraph/tasks/transaction/data
+      generated_data_dir: transaction_output
+      random_seed: 42
+
+  system:
+    save_interval_minutes: 60  # 每60分钟（1小时）保存一次，支持断点续跑

@@ -1,0 +1,21 @@
+# txsim - Transaction Generation Framework
+# Core dependencies for transaction data generation
+
+# AgentScope multi-agent framework
+agentscope
+
+# Web requests
+requests
+
+# Configuration
+pyyaml
+
+# Data processing
+pandas
+numpy
+
+# LLM support
+openai
+
+# Utilities
+tqdm

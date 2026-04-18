@@ -1,0 +1,115 @@
+{
+    "role_mappings": {
+        "profile_generator": "deepseek",
+        "merchant_generator": "deepseek",
+        "transaction_manager": "deepseek",
+        "scenario_generator": "deepseek",
+        "default": "deepseek"
+    },
+    "model_configs": [
+        {
+            "config_name": "default",
+            "model_type": "openai_chat",
+            "model_name": "YOUR_LOCAL_MODEL_NAME",
+            "api_key": "EMPTY",
+            "client_args": {
+                "base_url": "http://localhost:8001/v1"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 3000
+            }
+        },
+        {
+            "config_name": "vllm_local",
+            "model_type": "openai_chat",
+            "model_name": "YOUR_LOCAL_MODEL_NAME",
+            "api_key": "EMPTY",
+            "client_args": {
+                "base_url": "http://localhost:8001/v1"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 3000
+            }
+        },
+        {
+            "config_name": "deepseek",
+            "model_type": "openai_chat",
+            "model_name": "deepseek-reasoner",
+            "api_key": "YOUR_DEEPSEEK_API_KEY",
+            "client_args": {
+                "base_url": "https://api.deepseek.com"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 3000
+            }
+        },
+        {
+            "config_name": "api_openai_gpt35",
+            "model_type": "openai_chat",
+            "model_name": "gpt-3.5-turbo-0125",
+            "api_key": "YOUR_OPENAI_API_KEY",
+            "client_args": {
+                "base_url": "https://api.openai.com/v1/"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 512
+            }
+        },
+        {
+            "config_name": "api_openai_gpt4",
+            "model_type": "openai_chat",
+            "model_name": "gpt-4o-mini",
+            "api_key": "YOUR_OPENAI_API_KEY",
+            "client_args": {
+                "base_url": "https://api.openai.com/v1/"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 2000
+            }
+        },
+        {
+            "config_name": "profile_service",
+            "model_type": "openai_chat",
+            "model_name": "YOUR_LOCAL_MODEL_NAME",
+            "api_key": "EMPTY",
+            "client_args": {
+                "base_url": "http://localhost:8001/v1"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 512
+            }
+        },
+        {
+            "config_name": "merchant_service",
+            "model_type": "openai_chat",
+            "model_name": "YOUR_LOCAL_MODEL_NAME",
+            "api_key": "EMPTY",
+            "client_args": {
+                "base_url": "http://localhost:8002/v1"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 512
+            }
+        },
+        {
+            "config_name": "transaction_service",
+            "model_type": "openai_chat",
+            "model_name": "YOUR_LOCAL_MODEL_NAME",
+            "api_key": "EMPTY",
+            "client_args": {
+                "base_url": "http://localhost:8002/v1"
+            },
+            "generate_args": {
+                "temperature": 0.8,
+                "max_tokens": 512
+            }
+        }
+    ]
+}

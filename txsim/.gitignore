@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Output directories
+transaction_output*/
+txn*/
+visualization_output/
+runs/
+graph_gen_df/
+
+# Claude (本地配置，可能包含敏感信息)
+.claude/
+
+# Agentscope (第三方库，通过 requirements.txt 安装)
+agentscope/
+
+# Environment
+.env
+.env.*
+
+# Temporary files
+test.py
+unzip.sh
+exp.sh
+*.tmp

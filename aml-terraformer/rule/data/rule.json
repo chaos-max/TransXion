@@ -1,0 +1,86 @@
+{
+  "config": {
+    "account_open_time_definition": {
+      "method": "first_transaction_time",
+      "direction": "both",
+      "description": "账户开户时间定义为账户第一次发生转账或转出交易的时间（From 或 To 任一角色）"
+    },
+    "amount_definition": {
+      "outflow": "Amount Paid",
+      "inflow": "Amount Received"
+    },
+    "time_format": "YYYY/MM/DD HH:MM"
+  },
+
+  "rules": [
+    {
+      "rule_id": "S1",
+      "category": "交易异常",
+      "subtype": "现金流出异常（新开户即转出）",
+      "object": "account",
+      "direction": "OUT",
+      "time_window": "1d",
+      "precondition": {
+        "days_since_open": {
+          "op": "==",
+          "value": 0
+        }
+      },
+      "conditions": {
+        "daily_new_account_cnt": {
+          "op": ">=",
+          "value": 10
+        },
+        "daily_out_amount_sum": {
+          "op": ">=",
+          "value": 500000
+        }
+      },
+      "description": "新开户账户在开户当天即发生大额集中转出行为"
+    },
+
+    {
+      "rule_id": "S3",
+      "category": "交易异常",
+      "subtype": "现金流入异常（短期流入后迅速转出）",
+      "object": "account",
+      "direction": "IN",
+      "time_window": "10d",
+      "conditions": {
+        "in_cnt_10d": {
+          "op": ">=",
+          "value": 20
+        },
+        "out_after_last_in_days": {
+          "op": "<=",
+          "value": 2
+        }
+      },
+      "description": "账户在短期内频繁收到转入资金，并在最晚一次转入后迅速转出"
+    },
+
+    {
+      "rule_id": "S6",
+      "category": "交易异常",
+      "subtype": "资金快进快出",
+      "object": "account",
+      "time_window": "1d",
+      "conditions": {
+        "in_out_ratio": {
+          "op": "between",
+          "value": [0.9, 1.1]
+        },
+        "max_in_or_out_amt_3d": {
+          "op": ">=",
+          "value": 200000
+        },
+        "end_balance": {
+          "op": "<=",
+          "value": 100
+        }
+      },
+      "description": "账户在短期内大额资金流入与流出高度匹配，余额长期维持在极低水平"
+    }
+
+  ]
+}

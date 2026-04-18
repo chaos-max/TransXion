@@ -1,0 +1,5202 @@
+[
+  {
+    "company": {
+      "Company_id": "c000001",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1602013.34,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-04-06",
+      "legal_representative_id": "p001509"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.79,
+      "avg_txn_amt": 239.6,
+      "tod_p": [
+        0.1238,
+        0.0651,
+        0.0583,
+        0.0675,
+        0.3093,
+        0.1755,
+        0.0621,
+        0.1384
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000002",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1546974.02,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-01-03",
+      "legal_representative_id": "p000055"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 102.09,
+      "avg_txn_amt": 55.69,
+      "tod_p": [
+        0.1066,
+        0.0026,
+        0.0289,
+        0.1588,
+        0.3537,
+        0.1386,
+        0.1026,
+        0.1082
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000003",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23970184.18,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-02-29",
+      "legal_representative_id": "p001430"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.62,
+      "avg_txn_amt": 49.53,
+      "tod_p": [
+        0.0478,
+        0.0711,
+        0.1134,
+        0.0872,
+        0.2781,
+        0.0653,
+        0.1372,
+        0.1999
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000004",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2115407.21,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-06-06",
+      "legal_representative_id": "p001237"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 55.06,
+      "avg_txn_amt": 15.71,
+      "tod_p": [
+        0.0989,
+        0.0729,
+        0.0727,
+        0.0901,
+        0.2866,
+        0.1849,
+        0.1369,
+        0.057
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000005",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4232320.99,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-09-29",
+      "legal_representative_id": "p001814"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.36,
+      "avg_txn_amt": 121.96,
+      "tod_p": [
+        0.1193,
+        0.1691,
+        0.1711,
+        0.0897,
+        0.121,
+        0.0972,
+        0.0834,
+        0.1492
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000006",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 26382943.03,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-11-14",
+      "legal_representative_id": "p000207"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.73,
+      "avg_txn_amt": 228.6,
+      "tod_p": [
+        0.2618,
+        0.115,
+        0.0363,
+        0.0768,
+        0.3032,
+        0.0875,
+        0.0568,
+        0.0626
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000007",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3658191.41,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-08-31",
+      "legal_representative_id": "p001328"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 21.15,
+      "avg_txn_amt": 60.15,
+      "tod_p": [
+        0.1321,
+        0.033,
+        0.0508,
+        0.2249,
+        0.1471,
+        0.1206,
+        0.2435,
+        0.048
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000008",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1488268.28,
+      "Industry": "Telecommunications",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1999-07-20",
+      "legal_representative_id": "p001727"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.0,
+      "avg_txn_amt": 95.82,
+      "tod_p": [
+        0.0665,
+        0.1308,
+        0.1413,
+        0.0788,
+        0.1339,
+        0.1406,
+        0.1748,
+        0.1333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000009",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4609112.56,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-06-11",
+      "legal_representative_id": "p001795"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.4,
+      "avg_txn_amt": 126.14,
+      "tod_p": [
+        0.0471,
+        0.0016,
+        0.0645,
+        0.1216,
+        0.4148,
+        0.1009,
+        0.0993,
+        0.1502
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000010",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1128336.44,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-02",
+      "legal_representative_id": "p001150"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.36,
+      "avg_txn_amt": 189.98,
+      "tod_p": [
+        0.2427,
+        0.4025,
+        0.0147,
+        0.0412,
+        0.0787,
+        0.029,
+        0.1462,
+        0.045
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000011",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2792868.32,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-01-29",
+      "legal_representative_id": "p001548"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 11.62,
+      "avg_txn_amt": 80.68,
+      "tod_p": [
+        0.3572,
+        0.0354,
+        0.0658,
+        0.2138,
+        0.0351,
+        0.0258,
+        0.1336,
+        0.1333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000012",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14540482.16,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2005-12-30",
+      "legal_representative_id": "p001084"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.02,
+      "avg_txn_amt": 233.03,
+      "tod_p": [
+        0.1258,
+        0.1003,
+        0.0971,
+        0.0895,
+        0.1397,
+        0.1285,
+        0.0406,
+        0.2785
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000013",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23771944.99,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2019-06-24",
+      "legal_representative_id": "p001313"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 156.22,
+      "avg_txn_amt": 12.49,
+      "tod_p": [
+        0.1186,
+        0.0204,
+        0.1709,
+        0.2173,
+        0.1713,
+        0.1155,
+        0.1029,
+        0.0831
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000014",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 117469928.9,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-03-07",
+      "legal_representative_id": "p000366"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.33,
+      "avg_txn_amt": 1055.78,
+      "tod_p": [
+        0.1208,
+        0.0867,
+        0.3096,
+        0.1843,
+        0.056,
+        0.0384,
+        0.1378,
+        0.0664
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000015",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14347846.31,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-03-31",
+      "legal_representative_id": "p001105"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 136.56,
+      "avg_txn_amt": 81.81,
+      "tod_p": [
+        0.2197,
+        0.1775,
+        0.1099,
+        0.0598,
+        0.0477,
+        0.1978,
+        0.1226,
+        0.065
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000016",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4454248.45,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-04-23",
+      "legal_representative_id": "p001653"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.0,
+      "avg_txn_amt": 113.24,
+      "tod_p": [
+        0.0689,
+        0.0624,
+        0.027,
+        0.2241,
+        0.228,
+        0.1572,
+        0.1273,
+        0.1051
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000017",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29449612.34,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-11-23",
+      "legal_representative_id": "p001569"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 91.39,
+      "avg_txn_amt": 37.33,
+      "tod_p": [
+        0.1205,
+        0.0936,
+        0.0337,
+        0.0753,
+        0.3644,
+        0.0611,
+        0.1027,
+        0.1487
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000018",
+      "Company_description": "Large Entertainment merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 116792661.54,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2009-03-11",
+      "legal_representative_id": "p001547"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 133.88,
+      "avg_txn_amt": 54.49,
+      "tod_p": [
+        0.036,
+        0.168,
+        0.1057,
+        0.0811,
+        0.1617,
+        0.1016,
+        0.1743,
+        0.1716
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000019",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2531687.64,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1996-02-14",
+      "legal_representative_id": "p000461"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.19,
+      "avg_txn_amt": 256.79,
+      "tod_p": [
+        0.1234,
+        0.0314,
+        0.0247,
+        0.0183,
+        0.1472,
+        0.3176,
+        0.1595,
+        0.1779
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000020",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1530238.03,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-05-30",
+      "legal_representative_id": "p001761"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 57.94,
+      "avg_txn_amt": 30.24,
+      "tod_p": [
+        0.052,
+        0.1943,
+        0.2676,
+        0.0761,
+        0.0622,
+        0.0931,
+        0.1677,
+        0.087
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000021",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3092952.42,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1995-11-26",
+      "legal_representative_id": "p001607"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 36.32,
+      "avg_txn_amt": 17.49,
+      "tod_p": [
+        0.0886,
+        0.1376,
+        0.0541,
+        0.091,
+        0.0509,
+        0.2531,
+        0.2261,
+        0.0986
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000022",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4387265.37,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1987-06-07",
+      "legal_representative_id": "p001380"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 108.95,
+      "avg_txn_amt": 24.18,
+      "tod_p": [
+        0.063,
+        0.1388,
+        0.0525,
+        0.0836,
+        0.1798,
+        0.2159,
+        0.2107,
+        0.0557
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000023",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2913285.89,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-04-16",
+      "legal_representative_id": "p000865"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 61.07,
+      "avg_txn_amt": 24.96,
+      "tod_p": [
+        0.003,
+        0.0114,
+        0.2543,
+        0.0801,
+        0.1345,
+        0.2211,
+        0.1327,
+        0.1629
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000024",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4262124.13,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1989-03-09",
+      "legal_representative_id": "p001898"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.63,
+      "avg_txn_amt": 36.35,
+      "tod_p": [
+        0.0391,
+        0.0253,
+        0.2611,
+        0.168,
+        0.2048,
+        0.0798,
+        0.1343,
+        0.0876
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000025",
+      "Company_description": "Large Utilities merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 64107580.71,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-07-07",
+      "legal_representative_id": "p000544"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.82,
+      "avg_txn_amt": 114.07,
+      "tod_p": [
+        0.0396,
+        0.1201,
+        0.1243,
+        0.2661,
+        0.1154,
+        0.1287,
+        0.1736,
+        0.0322
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000026",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 89568418.08,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2006-10-31",
+      "legal_representative_id": "p000318"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.78,
+      "avg_txn_amt": 223.87,
+      "tod_p": [
+        0.028,
+        0.2078,
+        0.2501,
+        0.0723,
+        0.0904,
+        0.2131,
+        0.1313,
+        0.007
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000027",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 6253558.43,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2006-05-22",
+      "legal_representative_id": "p001030"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 212.36,
+      "avg_txn_amt": 18.37,
+      "tod_p": [
+        0.0211,
+        0.067,
+        0.1616,
+        0.1389,
+        0.1131,
+        0.1006,
+        0.3348,
+        0.0629
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000028",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3538456.49,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1995-07-21",
+      "legal_representative_id": "p000827"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.45,
+      "avg_txn_amt": 17.14,
+      "tod_p": [
+        0.1877,
+        0.0641,
+        0.0104,
+        0.1194,
+        0.1733,
+        0.2913,
+        0.089,
+        0.0648
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000029",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3043521.16,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1999-03-12",
+      "legal_representative_id": "p001915"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.39,
+      "avg_txn_amt": 159.83,
+      "tod_p": [
+        0.0908,
+        0.015,
+        0.104,
+        0.1565,
+        0.1343,
+        0.123,
+        0.2766,
+        0.0998
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000030",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16430614.31,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-23",
+      "legal_representative_id": "p001917"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.11,
+      "avg_txn_amt": 73.59,
+      "tod_p": [
+        0.0635,
+        0.012,
+        0.1534,
+        0.0316,
+        0.0642,
+        0.1023,
+        0.3412,
+        0.2318
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000031",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11630010.37,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2000-08-28",
+      "legal_representative_id": "p001805"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.42,
+      "avg_txn_amt": 16.02,
+      "tod_p": [
+        0.0615,
+        0.1864,
+        0.1323,
+        0.0399,
+        0.2399,
+        0.1229,
+        0.0746,
+        0.1425
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000032",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29596332.76,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2021-03-16",
+      "legal_representative_id": "p001340"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 78.82,
+      "avg_txn_amt": 64.41,
+      "tod_p": [
+        0.1149,
+        0.0809,
+        0.1818,
+        0.1038,
+        0.1602,
+        0.131,
+        0.1794,
+        0.048
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000033",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 53801932.93,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-11-29",
+      "legal_representative_id": "p000220"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 395.59,
+      "avg_txn_amt": 16.78,
+      "tod_p": [
+        0.11,
+        0.3551,
+        0.068,
+        0.0796,
+        0.1111,
+        0.0773,
+        0.1243,
+        0.0746
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000034",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2774340.76,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-04-07",
+      "legal_representative_id": "p001855"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 89.72,
+      "avg_txn_amt": 82.3,
+      "tod_p": [
+        0.1358,
+        0.2884,
+        0.0611,
+        0.0767,
+        0.0414,
+        0.0791,
+        0.0198,
+        0.2977
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000035",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3367010.2,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-10-01",
+      "legal_representative_id": "p000331"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 127.93,
+      "avg_txn_amt": 35.81,
+      "tod_p": [
+        0.0471,
+        0.0484,
+        0.1974,
+        0.1069,
+        0.1132,
+        0.1157,
+        0.1377,
+        0.2336
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000036",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 79103126.03,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-06-10",
+      "legal_representative_id": "p000757"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 339.86,
+      "avg_txn_amt": 14.13,
+      "tod_p": [
+        0.128,
+        0.0178,
+        0.0755,
+        0.0884,
+        0.2875,
+        0.2547,
+        0.0777,
+        0.0704
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000037",
+      "Company_description": "Large Retail merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 91386001.95,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2014-12-02",
+      "legal_representative_id": "p000211"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 179.68,
+      "avg_txn_amt": 128.94,
+      "tod_p": [
+        0.1138,
+        0.0582,
+        0.0612,
+        0.0935,
+        0.1181,
+        0.2657,
+        0.1915,
+        0.098
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000038",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4390725.63,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-11-18",
+      "legal_representative_id": "p001661"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1.5,
+      "avg_txn_amt": 283.84,
+      "tod_p": [
+        0.031,
+        0.0405,
+        0.3962,
+        0.3102,
+        0.0573,
+        0.0386,
+        0.0631,
+        0.0631
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000039",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11670142.74,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-04-27",
+      "legal_representative_id": "p001437"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.14,
+      "avg_txn_amt": 186.2,
+      "tod_p": [
+        0.0132,
+        0.0836,
+        0.0698,
+        0.1031,
+        0.0941,
+        0.1784,
+        0.0417,
+        0.4161
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000040",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1503155.96,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2014-08-10",
+      "legal_representative_id": "p000396"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.02,
+      "avg_txn_amt": 25.03,
+      "tod_p": [
+        0.0623,
+        0.0574,
+        0.0996,
+        0.2676,
+        0.1001,
+        0.1523,
+        0.1189,
+        0.1418
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000041",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 21987952.96,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2022-11-05",
+      "legal_representative_id": "p001099"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 72.71,
+      "avg_txn_amt": 112.0,
+      "tod_p": [
+        0.0674,
+        0.2198,
+        0.0398,
+        0.0931,
+        0.2102,
+        0.1012,
+        0.1087,
+        0.1598
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000042",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 33443147.76,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-10-06",
+      "legal_representative_id": "p000890"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.46,
+      "avg_txn_amt": 328.87,
+      "tod_p": [
+        0.0785,
+        0.1437,
+        0.0489,
+        0.1526,
+        0.255,
+        0.1303,
+        0.1628,
+        0.0282
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000043",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1355354.49,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1986-12-29",
+      "legal_representative_id": "p001452"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 114.38,
+      "avg_txn_amt": 26.35,
+      "tod_p": [
+        0.0932,
+        0.0939,
+        0.0167,
+        0.093,
+        0.1157,
+        0.1539,
+        0.1301,
+        0.3035
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000044",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14105536.79,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1988-02-21",
+      "legal_representative_id": "p001944"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.53,
+      "avg_txn_amt": 450.29,
+      "tod_p": [
+        0.236,
+        0.0954,
+        0.0694,
+        0.0111,
+        0.065,
+        0.0597,
+        0.3735,
+        0.0899
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000045",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 57835619.6,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2003-04-28",
+      "legal_representative_id": "p000669"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.63,
+      "avg_txn_amt": 257.94,
+      "tod_p": [
+        0.2025,
+        0.0379,
+        0.1792,
+        0.263,
+        0.0545,
+        0.0346,
+        0.0649,
+        0.1634
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000046",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20387872.9,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-07-02",
+      "legal_representative_id": "p000832"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 12.02,
+      "avg_txn_amt": 89.44,
+      "tod_p": [
+        0.0919,
+        0.0281,
+        0.1979,
+        0.1547,
+        0.111,
+        0.1755,
+        0.1123,
+        0.1286
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000047",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16624704.76,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-11-01",
+      "legal_representative_id": "p001384"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.03,
+      "avg_txn_amt": 540.88,
+      "tod_p": [
+        0.3679,
+        0.0114,
+        0.1903,
+        0.0735,
+        0.1277,
+        0.0917,
+        0.1032,
+        0.0343
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000048",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17886300.25,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-05-24",
+      "legal_representative_id": "p001269"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.52,
+      "avg_txn_amt": 52.65,
+      "tod_p": [
+        0.1226,
+        0.12,
+        0.1366,
+        0.1468,
+        0.1146,
+        0.0885,
+        0.1023,
+        0.1686
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000049",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 5610634.69,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1995-12-26",
+      "legal_representative_id": "p000974"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 27.96,
+      "avg_txn_amt": 131.94,
+      "tod_p": [
+        0.1428,
+        0.0492,
+        0.0323,
+        0.4785,
+        0.0189,
+        0.039,
+        0.226,
+        0.0133
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000050",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2724697.26,
+      "Industry": "Financial Services",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1995-12-12",
+      "legal_representative_id": "p000303"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.39,
+      "avg_txn_amt": 382.51,
+      "tod_p": [
+        0.0305,
+        0.1434,
+        0.0715,
+        0.3927,
+        0.1864,
+        0.0688,
+        0.095,
+        0.0117
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000051",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9397167.04,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-03-20",
+      "legal_representative_id": "p001061"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 198.89,
+      "avg_txn_amt": 29.1,
+      "tod_p": [
+        0.0827,
+        0.0277,
+        0.0957,
+        0.227,
+        0.2429,
+        0.0997,
+        0.1772,
+        0.0471
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000052",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29697311.33,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2011-09-17",
+      "legal_representative_id": "p000650"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 142.25,
+      "avg_txn_amt": 46.38,
+      "tod_p": [
+        0.1616,
+        0.0123,
+        0.0479,
+        0.2303,
+        0.0068,
+        0.1454,
+        0.1584,
+        0.2373
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000053",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2506611.25,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1992-02-21",
+      "legal_representative_id": "p001524"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 63.03,
+      "avg_txn_amt": 62.49,
+      "tod_p": [
+        0.0121,
+        0.0079,
+        0.3242,
+        0.1822,
+        0.1362,
+        0.081,
+        0.1923,
+        0.0641
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000054",
+      "Company_description": "Medium Education merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17114925.43,
+      "Industry": "Education",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1995-09-25",
+      "legal_representative_id": "p000563"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.91,
+      "avg_txn_amt": 92.9,
+      "tod_p": [
+        0.1995,
+        0.0124,
+        0.0654,
+        0.1819,
+        0.1536,
+        0.0495,
+        0.1555,
+        0.1822
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000055",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1540676.66,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-02-17",
+      "legal_representative_id": "p000313"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 37.0,
+      "avg_txn_amt": 34.19,
+      "tod_p": [
+        0.0875,
+        0.1187,
+        0.0669,
+        0.2386,
+        0.1186,
+        0.0793,
+        0.2367,
+        0.0537
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000056",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2252645.66,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2019-07-14",
+      "legal_representative_id": "p001197"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.84,
+      "avg_txn_amt": 174.85,
+      "tod_p": [
+        0.1624,
+        0.0793,
+        0.0165,
+        0.1853,
+        0.1447,
+        0.1635,
+        0.085,
+        0.1633
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000057",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1843756.94,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-06-30",
+      "legal_representative_id": "p001748"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.01,
+      "avg_txn_amt": 68.63,
+      "tod_p": [
+        0.0599,
+        0.3264,
+        0.2062,
+        0.0759,
+        0.0817,
+        0.1585,
+        0.08,
+        0.0114
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000058",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 49747947.12,
+      "Industry": "Financial Services",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2004-07-20",
+      "legal_representative_id": "p000995"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.08,
+      "avg_txn_amt": 413.06,
+      "tod_p": [
+        0.0089,
+        0.0404,
+        0.0392,
+        0.3778,
+        0.103,
+        0.1978,
+        0.2066,
+        0.0263
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000059",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29518049.44,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-12-17",
+      "legal_representative_id": "p000056"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 122.18,
+      "avg_txn_amt": 41.19,
+      "tod_p": [
+        0.0439,
+        0.0503,
+        0.0751,
+        0.0588,
+        0.0176,
+        0.1282,
+        0.0586,
+        0.5675
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000060",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1317780.62,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1996-09-02",
+      "legal_representative_id": "p000777"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.5,
+      "avg_txn_amt": 90.01,
+      "tod_p": [
+        0.1825,
+        0.0504,
+        0.1502,
+        0.1977,
+        0.2793,
+        0.0637,
+        0.0426,
+        0.0336
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000060",
+      "Company_description": "Medium e-commerce company offering fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-28",
+      "legal_representative_id": "p000654"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 105.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.01,
+        0.02,
+        0.06,
+        0.25,
+        0.3,
+        0.2,
+        0.1,
+        0.06
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000061",
+      "Company_description": "Small retail company specializing in consumer electronics",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-03-15",
+      "legal_representative_id": "p000114"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 85.0,
+      "avg_txn_amt": 250.5,
+      "tod_p": [
+        0.02,
+        0.02,
+        0.08,
+        0.2,
+        0.25,
+        0.23,
+        0.15,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000062",
+      "Company_description": "Medium-sized e-commerce company offering fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-25",
+      "legal_representative_id": "p000025"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.09090909090909091,
+        0.19999999999999998,
+        0.2545454545454546,
+        0.22727272727272727,
+        0.14545454545454545,
+        0.027272727272727268
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000063",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p000759"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.026315789473684206,
+        0.026315789473684206,
+        0.08771929824561403,
+        0.19298245614035087,
+        0.24561403508771928,
+        0.22807017543859648,
+        0.14035087719298245,
+        0.05263157894736841
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000064",
+      "Company_description": "Small e-commerce company specializing in clothing and accessories",
+      "Company_type": "Small",
+      "Registered_capital": 3000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p000281"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 72.0,
+      "avg_txn_amt": 225.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.12,
+        0.22,
+        0.28,
+        0.2,
+        0.13,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000065",
+      "Company_description": "Medium Food & Beverage company specializing in casual dining services",
+      "Company_type": "Medium",
+      "Registered_capital": 18500000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-07-22",
+      "legal_representative_id": "p000654"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 320.0,
+      "avg_txn_amt": 75.3,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.05,
+        0.15,
+        0.3,
+        0.25,
+        0.18,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000066",
+      "Company_description": "Medium Food & Beverage company specializing in casual dining services",
+      "Company_type": "Medium",
+      "Registered_capital": 18500000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-07-22",
+      "legal_representative_id": "p000114"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 420.0,
+      "avg_txn_amt": 120.75,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.1,
+        0.35,
+        0.25,
+        0.2,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000067",
+      "Company_description": "Medium manufacturing company producing automotive components",
+      "Company_type": "Medium",
+      "Registered_capital": 32000000.0,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-07-19",
+      "legal_representative_id": "p000025"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 48000.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.05,
+        0.2,
+        0.3,
+        0.25,
+        0.15,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000068",
+      "Company_description": "Medium food & beverage company specializing in organic cafe and bakery products",
+      "Company_type": "Medium",
+      "Registered_capital": 18000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-07-22",
+      "legal_representative_id": "p000759"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 85.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.05,
+        0.25,
+        0.3,
+        0.2,
+        0.15,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000069",
+      "Company_description": "Medium telecommunications company providing mobile and internet services",
+      "Company_type": "Medium",
+      "Registered_capital": 27500000.0,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-08-22",
+      "legal_representative_id": "p000281"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 480.0,
+      "avg_txn_amt": 1500.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.07,
+        0.18,
+        0.28,
+        0.25,
+        0.15,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000070",
+      "Company_description": "Small food & beverage company offering meal delivery services",
+      "Company_type": "Small",
+      "Registered_capital": 3500000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p001679"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 72.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.05,
+        0.2,
+        0.2,
+        0.25,
+        0.2,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000071",
+      "Company_description": "Medium e-commerce company specializing in online fashion sales",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-22",
+      "legal_representative_id": "p001424"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 425.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.12,
+        0.28,
+        0.31,
+        0.19,
+        0.04,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000072",
+      "Company_description": "Small e-commerce company specializing in fashion products",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p009674"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.0,
+      "avg_txn_amt": 120.8,
+      "tod_p": [
+        0.03125,
+        0.03125,
+        0.09375,
+        0.1875,
+        0.234375,
+        0.21875000000000003,
+        0.140625,
+        0.0625
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000073",
+      "Company_description": "Small retail company specializing in clothing and accessories",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-20",
+      "legal_representative_id": "p002286"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 62.0,
+      "avg_txn_amt": 200.0,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.11,
+        0.22,
+        0.28,
+        0.2,
+        0.1,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000074",
+      "Company_description": "Small e-commerce company specializing in clothing",
+      "Company_type": "Small",
+      "Registered_capital": 3000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-20",
+      "legal_representative_id": "p004012"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 50.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.026086956521739126,
+        0.026086956521739126,
+        0.07826086956521738,
+        0.19130434782608693,
+        0.2434782608695652,
+        0.2260869565217391,
+        0.14782608695652175,
+        0.0608695652173913
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000075",
+      "Company_description": "Medium food & beverage company providing restaurant services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003657"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 53.0,
+      "avg_txn_amt": 850.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.05,
+        0.18,
+        0.22,
+        0.26,
+        0.2,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000076",
+      "Company_description": "Medium food and beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-09-22",
+      "legal_representative_id": "p008935"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 1500.0,
+      "tod_p": [
+        0.03,
+        0.05,
+        0.1,
+        0.2,
+        0.3,
+        0.2,
+        0.1,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000077",
+      "Company_description": "Small retail company specializing in clothing and accessories",
+      "Company_type": "Small",
+      "Registered_capital": 2000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p000409"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 40.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.009900990099009901,
+        0.0297029702970297,
+        0.06930693069306931,
+        0.18811881188118812,
+        0.24752475247524752,
+        0.21782178217821782,
+        0.16831683168316833,
+        0.06930693069306931
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000078",
+      "Company_description": "Small retail company specializing in clothing",
+      "Company_type": "Small",
+      "Registered_capital": 3500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p001824"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 45.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.025,
+        0.03333333333333333,
+        0.09166666666666667,
+        0.2,
+        0.23333333333333336,
+        0.20833333333333334,
+        0.15833333333333335,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000079",
+      "Company_description": "Medium food and beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-20",
+      "legal_representative_id": "p004506"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 157.0,
+      "avg_txn_amt": 405.8,
+      "tod_p": [
+        0.027272727272727268,
+        0.03636363636363636,
+        0.09090909090909091,
+        0.19999999999999998,
+        0.22727272727272727,
+        0.21818181818181814,
+        0.14545454545454545,
+        0.054545454545454536
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000080",
+      "Company_description": "Medium entertainment company providing online gaming services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-01-20",
+      "legal_representative_id": "p006912"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 120.9,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.05,
+        0.18,
+        0.28,
+        0.26,
+        0.16,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000081",
+      "Company_description": "Medium entertainment company offering event ticketing services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-28",
+      "legal_representative_id": "p000520"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.00909090909090909,
+        0.027272727272727268,
+        0.10909090909090907,
+        0.22727272727272727,
+        0.2545454545454546,
+        0.19999999999999998,
+        0.13636363636363635,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000082",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003811"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 35.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.05,
+        0.15,
+        0.25,
+        0.25,
+        0.2,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000083",
+      "Company_description": "Small e-commerce company specializing in fashion products",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p001535"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 78.0,
+      "avg_txn_amt": 220.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.07,
+        0.21,
+        0.26,
+        0.24,
+        0.13,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000084",
+      "Company_description": "Medium food and beverage company specializing in meal delivery",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p009863"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 400.8,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.07,
+        0.22,
+        0.28,
+        0.25,
+        0.12,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000085",
+      "Company_description": "Medium retail company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p000488"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 45.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.024999999999999994,
+        0.033333333333333326,
+        0.09166666666666666,
+        0.18333333333333332,
+        0.2333333333333333,
+        0.21666666666666665,
+        0.1333333333333333,
+        0.08333333333333333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000086",
+      "Company_description": "Medium e-commerce company specializing in apparel and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p008279"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.1,
+        0.15,
+        0.15,
+        0.2,
+        0.35
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000087",
+      "Company_description": "Medium e-commerce company specializing in clothing and footwear",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p000434"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 257.0,
+      "avg_txn_amt": 1500.2,
+      "tod_p": [
+        0.025,
+        0.025,
+        0.1,
+        0.20833333333333334,
+        0.23333333333333336,
+        0.20833333333333334,
+        0.13333333333333333,
+        0.06666666666666667
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000088",
+      "Company_description": "Medium e-commerce company specializing in fashion products and services",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p009195"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 317.0,
+      "avg_txn_amt": 187.8,
+      "tod_p": [
+        0.023076923076923075,
+        0.023076923076923075,
+        0.0846153846153846,
+        0.2,
+        0.23846153846153845,
+        0.22307692307692306,
+        0.14615384615384616,
+        0.061538461538461535
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000089",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-01",
+      "legal_representative_id": "p003582"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 200.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.0297029702970297,
+        0.039603960396039604,
+        0.1188118811881188,
+        0.27722772277227725,
+        0.3069306930693069,
+        0.18811881188118812,
+        0.0297029702970297,
+        0.009900990099009901
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000090",
+      "Company_description": "Medium e-commerce company specializing in online fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-20",
+      "legal_representative_id": "p003611"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.024793388429752067,
+        0.024793388429752067,
+        0.08264462809917356,
+        0.2066115702479339,
+        0.24793388429752067,
+        0.23140495867768598,
+        0.1487603305785124,
+        0.03305785123966942
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000091",
+      "Company_description": "Medium e-commerce company specializing in food and beverage delivery",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p009654"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 500.8,
+      "tod_p": [
+        0.026086956521739126,
+        0.026086956521739126,
+        0.08695652173913043,
+        0.19130434782608693,
+        0.2434782608695652,
+        0.2260869565217391,
+        0.14782608695652175,
+        0.05217391304347825
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000092",
+      "Company_description": "Medium E-commerce company specializing in online fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-01",
+      "legal_representative_id": "p006873"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 55.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.10909090909090907,
+        0.19999999999999998,
+        0.23636363636363636,
+        0.21818181818181814,
+        0.14545454545454545,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000093",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-01",
+      "legal_representative_id": "p004557"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.0136986301369863,
+        0.0273972602739726,
+        0.04566210045662101,
+        0.18264840182648404,
+        0.273972602739726,
+        0.22831050228310504,
+        0.18264840182648404,
+        0.04566210045662101
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000094",
+      "Company_description": "Medium food and beverage company offering meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p002615"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 55.0,
+      "avg_txn_amt": 175.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.1,
+        0.25,
+        0.28,
+        0.2,
+        0.1,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000095",
+      "Company_description": "Small retail company specializing in clothing and accessories",
+      "Company_type": "Small",
+      "Registered_capital": 3500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003257"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 75.0,
+      "avg_txn_amt": 300.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.1,
+        0.22,
+        0.28,
+        0.25,
+        0.1,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000096",
+      "Company_description": "Medium e-commerce company specializing in online grocery shopping",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p007359"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 127.0,
+      "avg_txn_amt": 145.0,
+      "tod_p": [
+        0.0218978102189781,
+        0.029197080291970802,
+        0.0875912408759124,
+        0.20437956204379562,
+        0.2554744525547445,
+        0.218978102189781,
+        0.1313868613138686,
+        0.051094890510948905
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000097",
+      "Company_description": "Medium e-commerce company specializing in clothing and footwear",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p000106"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 124.0,
+      "avg_txn_amt": 420.8,
+      "tod_p": [
+        0.021428571428571425,
+        0.021428571428571425,
+        0.0857142857142857,
+        0.2,
+        0.24999999999999997,
+        0.22857142857142856,
+        0.14285714285714285,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000098",
+      "Company_description": "Medium entertainment company specializing in ticket sales and event management",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p006924"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 170.0,
+      "avg_txn_amt": 750.0,
+      "tod_p": [
+        0.014423076923076922,
+        0.02403846153846154,
+        0.09615384615384616,
+        0.19230769230769232,
+        0.28846153846153844,
+        0.24038461538461536,
+        0.14423076923076922,
+        0.0
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000099",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-25",
+      "legal_representative_id": "p008928"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 357.0,
+      "avg_txn_amt": 875.8,
+      "tod_p": [
+        0.027027027027027025,
+        0.027027027027027025,
+        0.06306306306306306,
+        0.17117117117117117,
+        0.2612612612612612,
+        0.23423423423423423,
+        0.16216216216216214,
+        0.05405405405405405
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000100",
+      "Company_description": "Medium E-commerce company specializing in online clothing sales",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p002547"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 432.1,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.11,
+        0.26,
+        0.29,
+        0.2,
+        0.06,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000101",
+      "Company_description": "Medium E-commerce company offering clothing products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-22",
+      "legal_representative_id": "p005574"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 450.9,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.07,
+        0.18,
+        0.28,
+        0.25,
+        0.1,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000102",
+      "Company_description": "Medium food and beverage company offering delivery and takeout services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p005881"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 153.0,
+      "avg_txn_amt": 120.8,
+      "tod_p": [
+        0.028301886792452827,
+        0.028301886792452827,
+        0.08490566037735849,
+        0.1981132075471698,
+        0.24528301886792453,
+        0.22641509433962262,
+        0.1320754716981132,
+        0.056603773584905655
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000103",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-01-01",
+      "legal_representative_id": "p001519"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 230.0,
+      "avg_txn_amt": 1200.8,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.18,
+        0.28,
+        0.26,
+        0.16,
+        0.06
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000104",
+      "Company_description": "Medium food and beverage company specializing in prepared meals",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p005514"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 142.0,
+      "avg_txn_amt": 675.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.12,
+        0.28,
+        0.3,
+        0.2,
+        0.03,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000105",
+      "Company_description": "Medium e-commerce company specializing in fashion goods and online services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p001584"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 121.0,
+      "avg_txn_amt": 1056.0,
+      "tod_p": [
+        0.015,
+        0.02,
+        0.055,
+        0.195,
+        0.285,
+        0.25,
+        0.14,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000106",
+      "Company_description": "Medium food & beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p001674"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 43.0,
+      "avg_txn_amt": 1082.5,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.07,
+        0.15,
+        0.2,
+        0.28,
+        0.25
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000107",
+      "Company_description": "Medium e-commerce company specializing in fashion goods",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p004552"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.09090909090909091,
+        0.22727272727272727,
+        0.2545454545454546,
+        0.22727272727272727,
+        0.13636363636363635,
+        0.00909090909090909
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000108",
+      "Company_description": "Medium food and beverage company specializing in restaurant services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p006224"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.009090909090909092,
+        0.027272727272727275,
+        0.09090909090909093,
+        0.2272727272727273,
+        0.27272727272727276,
+        0.2272727272727273,
+        0.13636363636363638,
+        0.009090909090909092
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000109",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-12",
+      "legal_representative_id": "p003527"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 200.0,
+      "avg_txn_amt": 1200.5,
+      "tod_p": [
+        0.021428571428571425,
+        0.02857142857142857,
+        0.0857142857142857,
+        0.2,
+        0.24999999999999997,
+        0.22857142857142856,
+        0.14285714285714285,
+        0.04285714285714285
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000110",
+      "Company_description": "Medium food and beverage company specializing in online ordering and delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p009044"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 200.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.01435406698564593,
+        0.019138755980861243,
+        0.0478468899521531,
+        0.17224880382775115,
+        0.23923444976076552,
+        0.2679425837320574,
+        0.1913875598086124,
+        0.0478468899521531
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000111",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p009891"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 375.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.013513513513513514,
+        0.031531531531531536,
+        0.06756756756756757,
+        0.15765765765765766,
+        0.2477477477477478,
+        0.22522522522522526,
+        0.16216216216216217,
+        0.0945945945945946
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000112",
+      "Company_description": "Medium food and beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-09-20",
+      "legal_representative_id": "p000711"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 50.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.01,
+        0.02,
+        0.05,
+        0.2,
+        0.28,
+        0.25,
+        0.15,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000113",
+      "Company_description": "Medium food & beverage company specializing in online ordering and delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p001291"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.020661157024793392,
+        0.02479338842975207,
+        0.09917355371900828,
+        0.231404958677686,
+        0.26446280991735543,
+        0.20661157024793392,
+        0.12396694214876035,
+        0.02892561983471075
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000114",
+      "Company_description": "Medium food and beverage company specializing in catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p006201"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 1200.5,
+      "tod_p": [
+        0.01,
+        0.02,
+        0.05,
+        0.2,
+        0.25,
+        0.25,
+        0.18,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000115",
+      "Company_description": "Medium food and beverage company offering prepared meals delivery",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p002045"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 375.0,
+      "tod_p": [
+        0.023255813953488375,
+        0.027906976744186046,
+        0.11162790697674418,
+        0.23255813953488372,
+        0.23255813953488372,
+        0.186046511627907,
+        0.13953488372093023,
+        0.04651162790697675
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000116",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-01",
+      "legal_representative_id": "p005635"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.008333333333333333,
+        0.025,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.23333333333333336,
+        0.15,
+        0.04166666666666667
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000117",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p007527"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.00909090909090909,
+        0.01818181818181818,
+        0.054545454545454536,
+        0.19999999999999998,
+        0.2545454545454546,
+        0.23636363636363636,
+        0.15454545454545454,
+        0.07272727272727272
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000118",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p004333"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.18,
+        0.28,
+        0.26,
+        0.17,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000119",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 10000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p008785"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 327.0,
+      "avg_txn_amt": 1250.0,
+      "tod_p": [
+        0.008333333333333333,
+        0.025,
+        0.1,
+        0.23333333333333336,
+        0.25,
+        0.20833333333333334,
+        0.15,
+        0.025
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000120",
+      "Company_description": "Medium food and beverage company offering meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p004741"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 217.0,
+      "avg_txn_amt": 1056.8,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.04,
+        0.22,
+        0.31,
+        0.26,
+        0.09,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000121",
+      "Company_description": "Medium e-commerce company offering online clothing sales",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p004803"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.02678571428571428,
+        0.02678571428571428,
+        0.08928571428571429,
+        0.19642857142857142,
+        0.25,
+        0.23214285714285712,
+        0.14285714285714285,
+        0.03571428571428571
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000122",
+      "Company_description": "Medium food and beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 10000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003150"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 35.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.00909090909090909,
+        0.027272727272727268,
+        0.10909090909090907,
+        0.2545454545454546,
+        0.2909090909090909,
+        0.18181818181818182,
+        0.09090909090909091,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000123",
+      "Company_description": "Medium e-commerce company specializing in apparel and footwear",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p001139"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 217.0,
+      "avg_txn_amt": 167.9,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.09,
+        0.18,
+        0.26,
+        0.24,
+        0.17,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000124",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p005925"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.06363636363636364,
+        0.19999999999999998,
+        0.2545454545454546,
+        0.23636363636363636,
+        0.15454545454545454,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000125",
+      "Company_description": "Medium food & beverage company offering meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003814"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 153.0,
+      "avg_txn_amt": 1200.8,
+      "tod_p": [
+        0.015,
+        0.01,
+        0.05,
+        0.15,
+        0.25,
+        0.3,
+        0.2,
+        0.035
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000126",
+      "Company_description": "Medium food & beverage company providing meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p003733"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.5,
+      "avg_txn_amt": 550.2,
+      "tod_p": [
+        0.03333333333333333,
+        0.025,
+        0.09166666666666667,
+        0.2,
+        0.23333333333333336,
+        0.20833333333333334,
+        0.1416666666666667,
+        0.06666666666666667
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000127",
+      "Company_description": "Medium entertainment company offering event management services",
+      "Company_type": "Medium",
+      "Registered_capital": 75000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-22",
+      "legal_representative_id": "p009459"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 102.0,
+      "avg_txn_amt": 1200.2,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.1,
+        0.22,
+        0.26,
+        0.24,
+        0.12,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000128",
+      "Company_description": "Medium Food & Beverage company providing meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-25",
+      "legal_representative_id": "p000750"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.03636363636363636,
+        0.0818181818181818,
+        0.19999999999999998,
+        0.2545454545454546,
+        0.22727272727272727,
+        0.13636363636363635,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000129",
+      "Company_description": "Medium food and beverage company specializing in coffee shops",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-20",
+      "legal_representative_id": "p001307"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 40.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.05,
+        0.18,
+        0.25,
+        0.28,
+        0.18,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000130",
+      "Company_description": "Medium e-commerce company specializing in online clothing sales",
+      "Company_type": "Medium",
+      "Registered_capital": 10000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p005977"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.15,
+        0.18,
+        0.25,
+        0.2,
+        0.16
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000131",
+      "Company_description": "Medium entertainment company providing music streaming services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p004554"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 110.0,
+      "avg_txn_amt": 1200.8,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.1,
+        0.25,
+        0.25,
+        0.22,
+        0.08,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000132",
+      "Company_description": "Medium food & beverage company providing restaurant services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p002664"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 37.0,
+      "avg_txn_amt": 945.5,
+      "tod_p": [
+        0.025,
+        0.025,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.23333333333333336,
+        0.15,
+        0.025
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000133",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p006227"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 400.0,
+      "tod_p": [
+        0.016304347826086956,
+        0.03260869565217391,
+        0.08152173913043478,
+        0.19021739130434784,
+        0.27173913043478265,
+        0.24456521739130438,
+        0.13586956521739132,
+        0.027173913043478264
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000134",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p007428"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 35.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.09090909090909091,
+        0.19999999999999998,
+        0.22727272727272727,
+        0.23636363636363636,
+        0.1272727272727273,
+        0.06363636363636364
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000135",
+      "Company_description": "Medium e-commerce company specializing in fashion products and services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-01",
+      "legal_representative_id": "p005820"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 350.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.0818181818181818,
+        0.1636363636363636,
+        0.2545454545454546,
+        0.23636363636363636,
+        0.15454545454545454,
+        0.054545454545454536
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000136",
+      "Company_description": "Medium food and beverage company offering delivery and takeout services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-22",
+      "legal_representative_id": "p004374"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 172.0,
+      "avg_txn_amt": 425.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.1,
+        0.15,
+        0.2,
+        0.3,
+        0.19
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000137",
+      "Company_description": "Small retail company specializing in clothing",
+      "Company_type": "Small",
+      "Registered_capital": 3000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-01",
+      "legal_representative_id": "p001654"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 50.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.012987012987012986,
+        0.025974025974025972,
+        0.08658008658008658,
+        0.21645021645021645,
+        0.2597402597402597,
+        0.21645021645021645,
+        0.12987012987012986,
+        0.051948051948051945
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000138",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-01",
+      "legal_representative_id": "p006065"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 17.0,
+      "avg_txn_amt": 124.5,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.05,
+        0.15,
+        0.25,
+        0.26,
+        0.2,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000139",
+      "Company_description": "Medium e-commerce company specializing in clothing and fashion accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p003432"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 245.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.18,
+        0.28,
+        0.26,
+        0.16,
+        0.06
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000140",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-02",
+      "legal_representative_id": "p009980"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 275.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.025,
+        0.025,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.23333333333333336,
+        0.15,
+        0.025
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000141",
+      "Company_description": "Medium e-commerce company specializing in clothing sales",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p002803"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.0,
+      "avg_txn_amt": 405.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.1,
+        0.12,
+        0.11,
+        0.07,
+        0.54
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000142",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-01",
+      "legal_representative_id": "p001169"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 300.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.0818181818181818,
+        0.1909090909090909,
+        0.23636363636363636,
+        0.21818181818181814,
+        0.14545454545454545,
+        0.07272727272727272
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000143",
+      "Company_description": "Medium E-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p002677"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 173.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.01,
+        0.04,
+        0.11,
+        0.22,
+        0.26,
+        0.24,
+        0.1,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000144",
+      "Company_description": "Medium food and beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 37500000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-22",
+      "legal_representative_id": "p008751"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 102.0,
+      "avg_txn_amt": 422.8,
+      "tod_p": [
+        0.013888888888888888,
+        0.013888888888888888,
+        0.046296296296296294,
+        0.13888888888888887,
+        0.23148148148148145,
+        0.27777777777777773,
+        0.23148148148148145,
+        0.046296296296296294
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000145",
+      "Company_description": "Medium Food & Beverage company specializing in catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p007573"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 200.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.025862068965517238,
+        0.025862068965517238,
+        0.08620689655172413,
+        0.1896551724137931,
+        0.24137931034482757,
+        0.22413793103448273,
+        0.15517241379310343,
+        0.051724137931034475
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000146",
+      "Company_description": "Medium food & beverage company offering online meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p004422"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.025,
+        0.025,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.20833333333333334,
+        0.125,
+        0.075
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000147",
+      "Company_description": "Medium food and beverage company offering online meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-20",
+      "legal_representative_id": "p006216"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 143.0,
+      "avg_txn_amt": 460.8,
+      "tod_p": [
+        0.025,
+        0.03333333333333333,
+        0.1,
+        0.23333333333333336,
+        0.25,
+        0.20833333333333334,
+        0.15,
+        0.0
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000148",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p004010"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 40.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.15,
+        0.25,
+        0.3,
+        0.2,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000149",
+      "Company_description": "Medium Food & Beverage company offering delivery and takeout services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-20",
+      "legal_representative_id": "p009125"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 450.8,
+      "tod_p": [
+        0.027027027027027025,
+        0.027027027027027025,
+        0.08108108108108107,
+        0.18918918918918917,
+        0.25225225225225223,
+        0.23423423423423423,
+        0.15315315315315314,
+        0.036036036036036036
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000150",
+      "Company_description": "Medium e-commerce company specializing in online clothing sales",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p003598"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 172.0,
+      "avg_txn_amt": 385.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.0818181818181818,
+        0.1909090909090909,
+        0.24545454545454545,
+        0.23636363636363636,
+        0.14545454545454545,
+        0.045454545454545456
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000151",
+      "Company_description": "Medium e-commerce company specializing in fashion and beauty products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p004386"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.025,
+        0.03333333333333333,
+        0.1,
+        0.2,
+        0.23333333333333336,
+        0.21666666666666667,
+        0.1416666666666667,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000152",
+      "Company_description": "Small food & beverage company specializing in catering services",
+      "Company_type": "Small",
+      "Registered_capital": 1500000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003456"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 40.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.07,
+        0.2,
+        0.25,
+        0.22,
+        0.15,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000153",
+      "Company_description": "Medium food & beverage company specializing in catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p006572"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 57.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.18,
+        0.28,
+        0.26,
+        0.18,
+        0.04
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000154",
+      "Company_description": "Medium e-commerce company specializing in fashion and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p000916"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 157.0,
+      "avg_txn_amt": 450.9,
+      "tod_p": [
+        0.01798561151079137,
+        0.02158273381294964,
+        0.08992805755395684,
+        0.19784172661870505,
+        0.2517985611510791,
+        0.2302158273381295,
+        0.14388489208633096,
+        0.04676258992805756
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000155",
+      "Company_description": "Medium food & beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p000525"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 34.0,
+      "avg_txn_amt": 850.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.1,
+        0.2,
+        0.25,
+        0.2,
+        0.19
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000156",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p005313"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.026315789473684206,
+        0.026315789473684206,
+        0.08771929824561403,
+        0.19298245614035087,
+        0.24561403508771928,
+        0.21929824561403508,
+        0.14912280701754385,
+        0.05263157894736841
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000157",
+      "Company_description": "Medium food and beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p005168"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 1050.0,
+      "tod_p": [
+        0.02678571428571428,
+        0.03571428571428571,
+        0.08928571428571429,
+        0.19642857142857142,
+        0.25,
+        0.23214285714285712,
+        0.13392857142857142,
+        0.03571428571428571
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000158",
+      "Company_description": "Medium e-commerce company specializing in online fashion sales",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p003752"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 800.0,
+      "tod_p": [
+        0.026086956521739126,
+        0.026086956521739126,
+        0.07826086956521738,
+        0.19130434782608693,
+        0.2434782608695652,
+        0.2260869565217391,
+        0.14782608695652175,
+        0.0608695652173913
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000159",
+      "Company_description": "Medium Food & Beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-20",
+      "legal_representative_id": "p001084"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 45.0,
+      "avg_txn_amt": 1000.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.05,
+        0.15,
+        0.25,
+        0.3,
+        0.2,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000160",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-20",
+      "legal_representative_id": "p005155"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 500.0,
+      "tod_p": [
+        0.027027027027027025,
+        0.027027027027027025,
+        0.08108108108108107,
+        0.19819819819819817,
+        0.25225225225225223,
+        0.2252252252252252,
+        0.15315315315315314,
+        0.036036036036036036
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000161",
+      "Company_description": "Medium e-commerce company specializing in food delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p004339"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 122.0,
+      "avg_txn_amt": 450.8,
+      "tod_p": [
+        0.00909090909090909,
+        0.027272727272727268,
+        0.09090909090909091,
+        0.19999999999999998,
+        0.2545454545454546,
+        0.23636363636363636,
+        0.14545454545454545,
+        0.03636363636363636
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000162",
+      "Company_description": "Medium Food & Beverage company specializing in meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-22",
+      "legal_representative_id": "p004040"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 145.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.017543859649122806,
+        0.026315789473684206,
+        0.07894736842105261,
+        0.21052631578947364,
+        0.24561403508771928,
+        0.22807017543859648,
+        0.14035087719298245,
+        0.05263157894736841
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000163",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p003483"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 52.0,
+      "avg_txn_amt": 420.9,
+      "tod_p": [
+        0.024630541871921187,
+        0.01477832512315271,
+        0.07389162561576355,
+        0.1970443349753695,
+        0.24630541871921185,
+        0.2266009852216749,
+        0.17733990147783252,
+        0.0394088669950739
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000164",
+      "Company_description": "Medium e-commerce company offering fashion apparel",
+      "Company_type": "Medium",
+      "Registered_capital": 10000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p009292"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.0,
+      "avg_txn_amt": 150.8,
+      "tod_p": [
+        0.02173913043478261,
+        0.02173913043478261,
+        0.08695652173913045,
+        0.2173913043478261,
+        0.2608695652173913,
+        0.2173913043478261,
+        0.13043478260869565,
+        0.04347826086956522
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000165",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p002340"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 212.0,
+      "avg_txn_amt": 120.9,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.11,
+        0.28,
+        0.3,
+        0.2,
+        0.05,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000166",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p008179"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 140.0,
+      "avg_txn_amt": 600.0,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.12,
+        0.25,
+        0.28,
+        0.2,
+        0.08,
+        0.0
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000167",
+      "Company_description": "Medium E-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p007517"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 147.0,
+      "avg_txn_amt": 987.5,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.15,
+        0.2,
+        0.28,
+        0.2,
+        0.12
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000168",
+      "Company_description": "Medium food and beverage company specializing in restaurants and cafes",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p002287"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 175.0,
+      "avg_txn_amt": 800.2,
+      "tod_p": [
+        0.008333333333333333,
+        0.025,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.23333333333333336,
+        0.15,
+        0.04166666666666667
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000169",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-01",
+      "legal_representative_id": "p006482"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 122.0,
+      "avg_txn_amt": 1200.8,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.03,
+        0.18,
+        0.3,
+        0.26,
+        0.18,
+        0.03
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000170",
+      "Company_description": "Medium e-commerce company specializing in clothing and fashion accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p009560"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 121.0,
+      "avg_txn_amt": 451.8,
+      "tod_p": [
+        0.025862068965517238,
+        0.025862068965517238,
+        0.08620689655172413,
+        0.1896551724137931,
+        0.24137931034482757,
+        0.22413793103448273,
+        0.13793103448275862,
+        0.06896551724137931
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000171",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-22",
+      "legal_representative_id": "p005930"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 157.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.03,
+        0.01,
+        0.04,
+        0.18,
+        0.26,
+        0.24,
+        0.17,
+        0.07
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000172",
+      "Company_description": "Medium e-commerce company specializing in online fashion sales",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p006543"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 135.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.05,
+        0.18,
+        0.28,
+        0.25,
+        0.1,
+        0.1
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000173",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p009577"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.013636363636363634,
+        0.027272727272727268,
+        0.06818181818181818,
+        0.1636363636363636,
+        0.2545454545454546,
+        0.23636363636363636,
+        0.15454545454545454,
+        0.0818181818181818
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000174",
+      "Company_description": "Small retail company specializing in household appliances",
+      "Company_type": "Small",
+      "Registered_capital": 3500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p009197"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 75.0,
+      "avg_txn_amt": 220.0,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.09090909090909091,
+        0.19999999999999998,
+        0.23636363636363636,
+        0.21818181818181814,
+        0.14545454545454545,
+        0.054545454545454536
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000175",
+      "Company_description": "Medium e-commerce company offering a wide range of products",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p002266"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 45.0,
+      "avg_txn_amt": 120.8,
+      "tod_p": [
+        0.014084507042253521,
+        0.018779342723004695,
+        0.07511737089201878,
+        0.20657276995305165,
+        0.24413145539906106,
+        0.2347417840375587,
+        0.16901408450704225,
+        0.03755868544600939
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000176",
+      "Company_description": "Medium entertainment company specializing in movie ticket sales",
+      "Company_type": "Medium",
+      "Registered_capital": 17500000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-28",
+      "legal_representative_id": "p007019"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 157.0,
+      "avg_txn_amt": 1200.0,
+      "tod_p": [
+        0.025,
+        0.025,
+        0.1,
+        0.20833333333333334,
+        0.23333333333333336,
+        0.20833333333333334,
+        0.15,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000177",
+      "Company_description": "Medium retail company specializing in clothing and footwear",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-22",
+      "legal_representative_id": "p004304"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.03,
+        0.04,
+        0.1,
+        0.22,
+        0.28,
+        0.2,
+        0.11,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000178",
+      "Company_description": "Medium e-commerce company specializing in apparel and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p003593"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 450.0,
+      "tod_p": [
+        0.03,
+        0.03,
+        0.1,
+        0.18,
+        0.28,
+        0.25,
+        0.12,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000179",
+      "Company_description": "Medium retail company specializing in general merchandise",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-11-20",
+      "legal_representative_id": "p008830"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 230.0,
+      "avg_txn_amt": 150.0,
+      "tod_p": [
+        0.02142857142857143,
+        0.03571428571428572,
+        0.08571428571428572,
+        0.2142857142857143,
+        0.25,
+        0.2142857142857143,
+        0.14285714285714288,
+        0.03571428571428572
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000180",
+      "Company_description": "Medium food & beverage company offering restaurant services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-07-22",
+      "legal_representative_id": "p001796"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.0,
+      "avg_txn_amt": 120.9,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.11,
+        0.26,
+        0.3,
+        0.2,
+        0.08,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000181",
+      "Company_description": "Medium entertainment company offering online streaming services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-20",
+      "legal_representative_id": "p001489"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 250.0,
+      "avg_txn_amt": 1050.0,
+      "tod_p": [
+        0.02,
+        0.03,
+        0.12,
+        0.25,
+        0.28,
+        0.2,
+        0.1,
+        0.0
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000182",
+      "Company_description": "Medium food and beverage company providing delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p009771"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 172.0,
+      "avg_txn_amt": 1353.75,
+      "tod_p": [
+        0.027272727272727268,
+        0.027272727272727268,
+        0.0818181818181818,
+        0.1909090909090909,
+        0.23636363636363636,
+        0.21818181818181814,
+        0.14545454545454545,
+        0.07272727272727272
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000183",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 17500000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p008085"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 140.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.008333333333333333,
+        0.016666666666666666,
+        0.08333333333333334,
+        0.20833333333333334,
+        0.25,
+        0.23333333333333336,
+        0.15,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000184",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-01-01",
+      "legal_representative_id": "p002621"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 175.0,
+      "avg_txn_amt": 1050.25,
+      "tod_p": [
+        0.025862068965517238,
+        0.025862068965517238,
+        0.07758620689655171,
+        0.1896551724137931,
+        0.24137931034482757,
+        0.22413793103448273,
+        0.13793103448275862,
+        0.07758620689655171
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000185",
+      "Company_description": "Medium food and beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-20",
+      "legal_representative_id": "p002504"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 275.0,
+      "avg_txn_amt": 375.0,
+      "tod_p": [
+        0.026086956521739126,
+        0.026086956521739126,
+        0.07826086956521738,
+        0.19130434782608693,
+        0.2434782608695652,
+        0.2260869565217391,
+        0.14782608695652175,
+        0.0608695652173913
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000186",
+      "Company_description": "Medium e-commerce company offering fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-01",
+      "legal_representative_id": "p008348"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 542.0,
+      "avg_txn_amt": 142.0,
+      "tod_p": [
+        0.01,
+        0.01,
+        0.04,
+        0.18,
+        0.25,
+        0.27,
+        0.18,
+        0.06
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000187",
+      "Company_description": "Medium food and beverage company specializing in online meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p001040"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 125.0,
+      "avg_txn_amt": 400.0,
+      "tod_p": [
+        0.008333333333333331,
+        0.016666666666666663,
+        0.041666666666666664,
+        0.20833333333333331,
+        0.24999999999999994,
+        0.2333333333333333,
+        0.16666666666666666,
+        0.07499999999999998
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000188",
+      "Company_description": "Medium food and beverage company specializing in restaurant services",
+      "Company_type": "Medium",
+      "Registered_capital": 25000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p006916"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.12,
+        0.25,
+        0.28,
+        0.2,
+        0.1,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000189",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-12",
+      "legal_representative_id": "p000771"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 130.0,
+      "avg_txn_amt": 375.0,
+      "tod_p": [
+        0.014084507042253521,
+        0.04694835680751174,
+        0.09389671361502348,
+        0.2347417840375587,
+        0.2347417840375587,
+        0.2347417840375587,
+        0.14084507042253522,
+        0.0
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000190",
+      "Company_description": "Small retail company specializing in clothing and accessories",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-02-01",
+      "legal_representative_id": "p006304"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 70.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.06,
+        0.25,
+        0.25,
+        0.25,
+        0.1,
+        0.05
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000191",
+      "Company_description": "Medium food and beverage company providing meal delivery services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p008797"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 350.0,
+      "tod_p": [
+        0.025484199796126403,
+        0.018348623853211007,
+        0.0764525993883792,
+        0.22426095820591235,
+        0.2344546381243629,
+        0.1834862385321101,
+        0.16309887869520898,
+        0.07441386340468908
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000192",
+      "Company_description": "Medium e-commerce company specializing in clothing and accessories",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-01-01",
+      "legal_representative_id": "p004119"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 450.8,
+      "tod_p": [
+        0.024390243902439025,
+        0.024390243902439025,
+        0.0975609756097561,
+        0.1951219512195122,
+        0.24390243902439024,
+        0.21951219512195125,
+        0.14634146341463414,
+        0.04878048780487805
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000193",
+      "Company_description": "Small e-commerce company specializing in fashion products",
+      "Company_type": "Small",
+      "Registered_capital": 2500000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p009763"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 50.0,
+      "avg_txn_amt": 120.0,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.05,
+        0.25,
+        0.3,
+        0.25,
+        0.1,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000194",
+      "Company_description": "Medium food & beverage company providing catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-09-01",
+      "legal_representative_id": "p009064"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 35.0,
+      "avg_txn_amt": 1050.0,
+      "tod_p": [
+        0.0071428571428571435,
+        0.028571428571428574,
+        0.08571428571428572,
+        0.2142857142857143,
+        0.25,
+        0.2142857142857143,
+        0.14285714285714288,
+        0.05714285714285715
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000195",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p008669"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 200.0,
+      "avg_txn_amt": 1000.0,
+      "tod_p": [
+        0.01,
+        0.04,
+        0.12,
+        0.3,
+        0.3,
+        0.2,
+        0.02,
+        0.01
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000196",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 17500000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-22",
+      "legal_representative_id": "p007668"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 120.0,
+      "avg_txn_amt": 380.8,
+      "tod_p": [
+        0.01,
+        0.03,
+        0.11,
+        0.25,
+        0.3,
+        0.2,
+        0.08,
+        0.02
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000197",
+      "Company_description": "Medium food and beverage company offering catering services",
+      "Company_type": "Medium",
+      "Registered_capital": 20000000.0,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-20",
+      "legal_representative_id": "p001876"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 175.0,
+      "avg_txn_amt": 1200.8,
+      "tod_p": [
+        0.02479338842975206,
+        0.04132231404958677,
+        0.09917355371900824,
+        0.2479338842975206,
+        0.28925619834710736,
+        0.20661157024793386,
+        0.08264462809917354,
+        0.008264462809917354
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000198",
+      "Company_description": "Medium e-commerce company specializing in online fashion retail",
+      "Company_type": "Medium",
+      "Registered_capital": 15000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-01",
+      "legal_representative_id": "p000188"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 123.0,
+      "avg_txn_amt": 1000.8,
+      "tod_p": [
+        0.027272727272727275,
+        0.027272727272727275,
+        0.05454545454545455,
+        0.20000000000000004,
+        0.26363636363636367,
+        0.2363636363636364,
+        0.15454545454545457,
+        0.03636363636363637
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000199",
+      "Company_description": "Medium e-commerce company specializing in fashion products",
+      "Company_type": "Medium",
+      "Registered_capital": 30000000.0,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-28",
+      "legal_representative_id": "p006252"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.0,
+      "avg_txn_amt": 300.0,
+      "tod_p": [
+        0.013824884792626727,
+        0.018433179723502304,
+        0.09216589861751152,
+        0.18433179723502305,
+        0.2764976958525346,
+        0.2304147465437788,
+        0.1382488479262673,
+        0.04608294930875576
+      ]
+    }
+  }
+]

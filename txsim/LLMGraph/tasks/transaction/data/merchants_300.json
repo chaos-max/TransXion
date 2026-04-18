@@ -1,0 +1,7802 @@
+[
+  {
+    "company": {
+      "Company_id": "c000001",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1602013.34,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-04-06",
+      "legal_representative_id": "p001509"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.79,
+      "avg_txn_amt": 239.6,
+      "tod_p": [
+        0.1238,
+        0.0651,
+        0.0583,
+        0.0675,
+        0.3093,
+        0.1755,
+        0.0621,
+        0.1384
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000002",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1546974.02,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-01-03",
+      "legal_representative_id": "p000055"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 102.09,
+      "avg_txn_amt": 55.69,
+      "tod_p": [
+        0.1066,
+        0.0026,
+        0.0289,
+        0.1588,
+        0.3537,
+        0.1386,
+        0.1026,
+        0.1082
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000003",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23970184.18,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-02-29",
+      "legal_representative_id": "p001430"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.62,
+      "avg_txn_amt": 49.53,
+      "tod_p": [
+        0.0478,
+        0.0711,
+        0.1134,
+        0.0872,
+        0.2781,
+        0.0653,
+        0.1372,
+        0.1999
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000004",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2115407.21,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-06-06",
+      "legal_representative_id": "p001237"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 55.06,
+      "avg_txn_amt": 15.71,
+      "tod_p": [
+        0.0989,
+        0.0729,
+        0.0727,
+        0.0901,
+        0.2866,
+        0.1849,
+        0.1369,
+        0.057
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000005",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4232320.99,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-09-29",
+      "legal_representative_id": "p001814"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.36,
+      "avg_txn_amt": 121.96,
+      "tod_p": [
+        0.1193,
+        0.1691,
+        0.1711,
+        0.0897,
+        0.121,
+        0.0972,
+        0.0834,
+        0.1492
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000006",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 26382943.03,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-11-14",
+      "legal_representative_id": "p000207"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.73,
+      "avg_txn_amt": 228.6,
+      "tod_p": [
+        0.2618,
+        0.115,
+        0.0363,
+        0.0768,
+        0.3032,
+        0.0875,
+        0.0568,
+        0.0626
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000007",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3658191.41,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-08-31",
+      "legal_representative_id": "p001328"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 21.15,
+      "avg_txn_amt": 60.15,
+      "tod_p": [
+        0.1321,
+        0.033,
+        0.0508,
+        0.2249,
+        0.1471,
+        0.1206,
+        0.2435,
+        0.048
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000008",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1488268.28,
+      "Industry": "Telecommunications",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1999-07-20",
+      "legal_representative_id": "p001727"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.0,
+      "avg_txn_amt": 95.82,
+      "tod_p": [
+        0.0665,
+        0.1308,
+        0.1413,
+        0.0788,
+        0.1339,
+        0.1406,
+        0.1748,
+        0.1333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000009",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4609112.56,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-06-11",
+      "legal_representative_id": "p001795"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.4,
+      "avg_txn_amt": 126.14,
+      "tod_p": [
+        0.0471,
+        0.0016,
+        0.0645,
+        0.1216,
+        0.4148,
+        0.1009,
+        0.0993,
+        0.1502
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000010",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1128336.44,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-06-02",
+      "legal_representative_id": "p001150"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.36,
+      "avg_txn_amt": 189.98,
+      "tod_p": [
+        0.2427,
+        0.4025,
+        0.0147,
+        0.0412,
+        0.0787,
+        0.029,
+        0.1462,
+        0.045
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000011",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2792868.32,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-01-29",
+      "legal_representative_id": "p001548"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 11.62,
+      "avg_txn_amt": 80.68,
+      "tod_p": [
+        0.3572,
+        0.0354,
+        0.0658,
+        0.2138,
+        0.0351,
+        0.0258,
+        0.1336,
+        0.1333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000012",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14540482.16,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2005-12-30",
+      "legal_representative_id": "p001084"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.02,
+      "avg_txn_amt": 233.03,
+      "tod_p": [
+        0.1258,
+        0.1003,
+        0.0971,
+        0.0895,
+        0.1397,
+        0.1285,
+        0.0406,
+        0.2785
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000013",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23771944.99,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2019-06-24",
+      "legal_representative_id": "p001313"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 156.22,
+      "avg_txn_amt": 12.49,
+      "tod_p": [
+        0.1186,
+        0.0204,
+        0.1709,
+        0.2173,
+        0.1713,
+        0.1155,
+        0.1029,
+        0.0831
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000014",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 117469928.9,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-03-07",
+      "legal_representative_id": "p000366"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.33,
+      "avg_txn_amt": 1055.78,
+      "tod_p": [
+        0.1208,
+        0.0867,
+        0.3096,
+        0.1843,
+        0.056,
+        0.0384,
+        0.1378,
+        0.0664
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000015",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14347846.31,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-03-31",
+      "legal_representative_id": "p001105"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 136.56,
+      "avg_txn_amt": 81.81,
+      "tod_p": [
+        0.2197,
+        0.1775,
+        0.1099,
+        0.0598,
+        0.0477,
+        0.1978,
+        0.1226,
+        0.065
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000016",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4454248.45,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-04-23",
+      "legal_representative_id": "p001653"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.0,
+      "avg_txn_amt": 113.24,
+      "tod_p": [
+        0.0689,
+        0.0624,
+        0.027,
+        0.2241,
+        0.228,
+        0.1572,
+        0.1273,
+        0.1051
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000017",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29449612.34,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-11-23",
+      "legal_representative_id": "p001569"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 91.39,
+      "avg_txn_amt": 37.33,
+      "tod_p": [
+        0.1205,
+        0.0936,
+        0.0337,
+        0.0753,
+        0.3644,
+        0.0611,
+        0.1027,
+        0.1487
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000018",
+      "Company_description": "Large Entertainment merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 116792661.54,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2009-03-11",
+      "legal_representative_id": "p001547"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 133.88,
+      "avg_txn_amt": 54.49,
+      "tod_p": [
+        0.036,
+        0.168,
+        0.1057,
+        0.0811,
+        0.1617,
+        0.1016,
+        0.1743,
+        0.1716
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000019",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2531687.64,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1996-02-14",
+      "legal_representative_id": "p000461"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.19,
+      "avg_txn_amt": 256.79,
+      "tod_p": [
+        0.1234,
+        0.0314,
+        0.0247,
+        0.0183,
+        0.1472,
+        0.3176,
+        0.1595,
+        0.1779
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000020",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1530238.03,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-05-30",
+      "legal_representative_id": "p001761"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 57.94,
+      "avg_txn_amt": 30.24,
+      "tod_p": [
+        0.052,
+        0.1943,
+        0.2676,
+        0.0761,
+        0.0622,
+        0.0931,
+        0.1677,
+        0.087
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000021",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3092952.42,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1995-11-26",
+      "legal_representative_id": "p001607"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 36.32,
+      "avg_txn_amt": 17.49,
+      "tod_p": [
+        0.0886,
+        0.1376,
+        0.0541,
+        0.091,
+        0.0509,
+        0.2531,
+        0.2261,
+        0.0986
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000022",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4387265.37,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1987-06-07",
+      "legal_representative_id": "p001380"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 108.95,
+      "avg_txn_amt": 24.18,
+      "tod_p": [
+        0.063,
+        0.1388,
+        0.0525,
+        0.0836,
+        0.1798,
+        0.2159,
+        0.2107,
+        0.0557
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000023",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2913285.89,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-04-16",
+      "legal_representative_id": "p000865"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 61.07,
+      "avg_txn_amt": 24.96,
+      "tod_p": [
+        0.003,
+        0.0114,
+        0.2543,
+        0.0801,
+        0.1345,
+        0.2211,
+        0.1327,
+        0.1629
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000024",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4262124.13,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1989-03-09",
+      "legal_representative_id": "p001898"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.63,
+      "avg_txn_amt": 36.35,
+      "tod_p": [
+        0.0391,
+        0.0253,
+        0.2611,
+        0.168,
+        0.2048,
+        0.0798,
+        0.1343,
+        0.0876
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000025",
+      "Company_description": "Large Utilities merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 64107580.71,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-07-07",
+      "legal_representative_id": "p000544"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 42.82,
+      "avg_txn_amt": 114.07,
+      "tod_p": [
+        0.0396,
+        0.1201,
+        0.1243,
+        0.2661,
+        0.1154,
+        0.1287,
+        0.1736,
+        0.0322
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000026",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 89568418.08,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2006-10-31",
+      "legal_representative_id": "p000318"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.78,
+      "avg_txn_amt": 223.87,
+      "tod_p": [
+        0.028,
+        0.2078,
+        0.2501,
+        0.0723,
+        0.0904,
+        0.2131,
+        0.1313,
+        0.007
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000027",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 6253558.43,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2006-05-22",
+      "legal_representative_id": "p001030"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 212.36,
+      "avg_txn_amt": 18.37,
+      "tod_p": [
+        0.0211,
+        0.067,
+        0.1616,
+        0.1389,
+        0.1131,
+        0.1006,
+        0.3348,
+        0.0629
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000028",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3538456.49,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1995-07-21",
+      "legal_representative_id": "p000827"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.45,
+      "avg_txn_amt": 17.14,
+      "tod_p": [
+        0.1877,
+        0.0641,
+        0.0104,
+        0.1194,
+        0.1733,
+        0.2913,
+        0.089,
+        0.0648
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000029",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3043521.16,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1999-03-12",
+      "legal_representative_id": "p001915"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.39,
+      "avg_txn_amt": 159.83,
+      "tod_p": [
+        0.0908,
+        0.015,
+        0.104,
+        0.1565,
+        0.1343,
+        0.123,
+        0.2766,
+        0.0998
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000030",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16430614.31,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-09-23",
+      "legal_representative_id": "p001917"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.11,
+      "avg_txn_amt": 73.59,
+      "tod_p": [
+        0.0635,
+        0.012,
+        0.1534,
+        0.0316,
+        0.0642,
+        0.1023,
+        0.3412,
+        0.2318
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000031",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11630010.37,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2000-08-28",
+      "legal_representative_id": "p001805"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.42,
+      "avg_txn_amt": 16.02,
+      "tod_p": [
+        0.0615,
+        0.1864,
+        0.1323,
+        0.0399,
+        0.2399,
+        0.1229,
+        0.0746,
+        0.1425
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000032",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29596332.76,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2021-03-16",
+      "legal_representative_id": "p001340"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 78.82,
+      "avg_txn_amt": 64.41,
+      "tod_p": [
+        0.1149,
+        0.0809,
+        0.1818,
+        0.1038,
+        0.1602,
+        0.131,
+        0.1794,
+        0.048
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000033",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 53801932.93,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-11-29",
+      "legal_representative_id": "p000220"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 395.59,
+      "avg_txn_amt": 16.78,
+      "tod_p": [
+        0.11,
+        0.3551,
+        0.068,
+        0.0796,
+        0.1111,
+        0.0773,
+        0.1243,
+        0.0746
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000034",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2774340.76,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-04-07",
+      "legal_representative_id": "p001855"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 89.72,
+      "avg_txn_amt": 82.3,
+      "tod_p": [
+        0.1358,
+        0.2884,
+        0.0611,
+        0.0767,
+        0.0414,
+        0.0791,
+        0.0198,
+        0.2977
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000035",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3367010.2,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-10-01",
+      "legal_representative_id": "p000331"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 127.93,
+      "avg_txn_amt": 35.81,
+      "tod_p": [
+        0.0471,
+        0.0484,
+        0.1974,
+        0.1069,
+        0.1132,
+        0.1157,
+        0.1377,
+        0.2336
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000036",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 79103126.03,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-06-10",
+      "legal_representative_id": "p000757"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 339.86,
+      "avg_txn_amt": 14.13,
+      "tod_p": [
+        0.128,
+        0.0178,
+        0.0755,
+        0.0884,
+        0.2875,
+        0.2547,
+        0.0777,
+        0.0704
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000037",
+      "Company_description": "Large Retail merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 91386001.95,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2014-12-02",
+      "legal_representative_id": "p000211"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 179.68,
+      "avg_txn_amt": 128.94,
+      "tod_p": [
+        0.1138,
+        0.0582,
+        0.0612,
+        0.0935,
+        0.1181,
+        0.2657,
+        0.1915,
+        0.098
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000038",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4390725.63,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-11-18",
+      "legal_representative_id": "p001661"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1.5,
+      "avg_txn_amt": 283.84,
+      "tod_p": [
+        0.031,
+        0.0405,
+        0.3962,
+        0.3102,
+        0.0573,
+        0.0386,
+        0.0631,
+        0.0631
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000039",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11670142.74,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-04-27",
+      "legal_representative_id": "p001437"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.14,
+      "avg_txn_amt": 186.2,
+      "tod_p": [
+        0.0132,
+        0.0836,
+        0.0698,
+        0.1031,
+        0.0941,
+        0.1784,
+        0.0417,
+        0.4161
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000040",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1503155.96,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2014-08-10",
+      "legal_representative_id": "p000396"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.02,
+      "avg_txn_amt": 25.03,
+      "tod_p": [
+        0.0623,
+        0.0574,
+        0.0996,
+        0.2676,
+        0.1001,
+        0.1523,
+        0.1189,
+        0.1418
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000041",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 21987952.96,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2022-11-05",
+      "legal_representative_id": "p001099"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 72.71,
+      "avg_txn_amt": 112.0,
+      "tod_p": [
+        0.0674,
+        0.2198,
+        0.0398,
+        0.0931,
+        0.2102,
+        0.1012,
+        0.1087,
+        0.1598
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000042",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 33443147.76,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-10-06",
+      "legal_representative_id": "p000890"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.46,
+      "avg_txn_amt": 328.87,
+      "tod_p": [
+        0.0785,
+        0.1437,
+        0.0489,
+        0.1526,
+        0.255,
+        0.1303,
+        0.1628,
+        0.0282
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000043",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1355354.49,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1986-12-29",
+      "legal_representative_id": "p001452"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 114.38,
+      "avg_txn_amt": 26.35,
+      "tod_p": [
+        0.0932,
+        0.0939,
+        0.0167,
+        0.093,
+        0.1157,
+        0.1539,
+        0.1301,
+        0.3035
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000044",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14105536.79,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1988-02-21",
+      "legal_representative_id": "p001944"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.53,
+      "avg_txn_amt": 450.29,
+      "tod_p": [
+        0.236,
+        0.0954,
+        0.0694,
+        0.0111,
+        0.065,
+        0.0597,
+        0.3735,
+        0.0899
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000045",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 57835619.6,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2003-04-28",
+      "legal_representative_id": "p000669"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.63,
+      "avg_txn_amt": 257.94,
+      "tod_p": [
+        0.2025,
+        0.0379,
+        0.1792,
+        0.263,
+        0.0545,
+        0.0346,
+        0.0649,
+        0.1634
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000046",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20387872.9,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-07-02",
+      "legal_representative_id": "p000832"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 12.02,
+      "avg_txn_amt": 89.44,
+      "tod_p": [
+        0.0919,
+        0.0281,
+        0.1979,
+        0.1547,
+        0.111,
+        0.1755,
+        0.1123,
+        0.1286
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000047",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16624704.76,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-11-01",
+      "legal_representative_id": "p001384"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.03,
+      "avg_txn_amt": 540.88,
+      "tod_p": [
+        0.3679,
+        0.0114,
+        0.1903,
+        0.0735,
+        0.1277,
+        0.0917,
+        0.1032,
+        0.0343
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000048",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17886300.25,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-05-24",
+      "legal_representative_id": "p001269"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.52,
+      "avg_txn_amt": 52.65,
+      "tod_p": [
+        0.1226,
+        0.12,
+        0.1366,
+        0.1468,
+        0.1146,
+        0.0885,
+        0.1023,
+        0.1686
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000049",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 5610634.69,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1995-12-26",
+      "legal_representative_id": "p000974"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 27.96,
+      "avg_txn_amt": 131.94,
+      "tod_p": [
+        0.1428,
+        0.0492,
+        0.0323,
+        0.4785,
+        0.0189,
+        0.039,
+        0.226,
+        0.0133
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000050",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2724697.26,
+      "Industry": "Financial Services",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1995-12-12",
+      "legal_representative_id": "p000303"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.39,
+      "avg_txn_amt": 382.51,
+      "tod_p": [
+        0.0305,
+        0.1434,
+        0.0715,
+        0.3927,
+        0.1864,
+        0.0688,
+        0.095,
+        0.0117
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000051",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9397167.04,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-03-20",
+      "legal_representative_id": "p001061"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 198.89,
+      "avg_txn_amt": 29.1,
+      "tod_p": [
+        0.0827,
+        0.0277,
+        0.0957,
+        0.227,
+        0.2429,
+        0.0997,
+        0.1772,
+        0.0471
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000052",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29697311.33,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2011-09-17",
+      "legal_representative_id": "p000650"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 142.25,
+      "avg_txn_amt": 46.38,
+      "tod_p": [
+        0.1616,
+        0.0123,
+        0.0479,
+        0.2303,
+        0.0068,
+        0.1454,
+        0.1584,
+        0.2373
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000053",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2506611.25,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1992-02-21",
+      "legal_representative_id": "p001524"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 63.03,
+      "avg_txn_amt": 62.49,
+      "tod_p": [
+        0.0121,
+        0.0079,
+        0.3242,
+        0.1822,
+        0.1362,
+        0.081,
+        0.1923,
+        0.0641
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000054",
+      "Company_description": "Medium Education merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17114925.43,
+      "Industry": "Education",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1995-09-25",
+      "legal_representative_id": "p000563"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.91,
+      "avg_txn_amt": 92.9,
+      "tod_p": [
+        0.1995,
+        0.0124,
+        0.0654,
+        0.1819,
+        0.1536,
+        0.0495,
+        0.1555,
+        0.1822
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000055",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1540676.66,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-02-17",
+      "legal_representative_id": "p000313"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 37.0,
+      "avg_txn_amt": 34.19,
+      "tod_p": [
+        0.0875,
+        0.1187,
+        0.0669,
+        0.2386,
+        0.1186,
+        0.0793,
+        0.2367,
+        0.0537
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000056",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2252645.66,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2019-07-14",
+      "legal_representative_id": "p001197"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.84,
+      "avg_txn_amt": 174.85,
+      "tod_p": [
+        0.1624,
+        0.0793,
+        0.0165,
+        0.1853,
+        0.1447,
+        0.1635,
+        0.085,
+        0.1633
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000057",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1843756.94,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-06-30",
+      "legal_representative_id": "p001748"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.01,
+      "avg_txn_amt": 68.63,
+      "tod_p": [
+        0.0599,
+        0.3264,
+        0.2062,
+        0.0759,
+        0.0817,
+        0.1585,
+        0.08,
+        0.0114
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000058",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 49747947.12,
+      "Industry": "Financial Services",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2004-07-20",
+      "legal_representative_id": "p000995"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.08,
+      "avg_txn_amt": 413.06,
+      "tod_p": [
+        0.0089,
+        0.0404,
+        0.0392,
+        0.3778,
+        0.103,
+        0.1978,
+        0.2066,
+        0.0263
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000059",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29518049.44,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-12-17",
+      "legal_representative_id": "p000056"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 122.18,
+      "avg_txn_amt": 41.19,
+      "tod_p": [
+        0.0439,
+        0.0503,
+        0.0751,
+        0.0588,
+        0.0176,
+        0.1282,
+        0.0586,
+        0.5675
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000060",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1317780.62,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1996-09-02",
+      "legal_representative_id": "p000777"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.5,
+      "avg_txn_amt": 90.01,
+      "tod_p": [
+        0.1825,
+        0.0504,
+        0.1502,
+        0.1977,
+        0.2793,
+        0.0637,
+        0.0426,
+        0.0336
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000061",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1534642.13,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2007-10-15",
+      "legal_representative_id": "p329366"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 29.92,
+      "avg_txn_amt": 87.48,
+      "tod_p": [
+        0.0374,
+        0.0094,
+        0.3343,
+        0.1837,
+        0.0703,
+        0.054,
+        0.1966,
+        0.1143
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000062",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15133952.1,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-09-15",
+      "legal_representative_id": "p349458"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.73,
+      "avg_txn_amt": 108.91,
+      "tod_p": [
+        0.1026,
+        0.0966,
+        0.0551,
+        0.0681,
+        0.2529,
+        0.1966,
+        0.1176,
+        0.1105
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000063",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3345293.9,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-11-21",
+      "legal_representative_id": "p782039"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 16.75,
+      "avg_txn_amt": 29.63,
+      "tod_p": [
+        0.2611,
+        0.0363,
+        0.1003,
+        0.1485,
+        0.2437,
+        0.0931,
+        0.0786,
+        0.0384
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000064",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 55432635.88,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-06-10",
+      "legal_representative_id": "p1696549"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 24.98,
+      "avg_txn_amt": 76.86,
+      "tod_p": [
+        0.0216,
+        0.0694,
+        0.1489,
+        0.1358,
+        0.0911,
+        0.1265,
+        0.132,
+        0.2747
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000065",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4980480.92,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-10-21",
+      "legal_representative_id": "p442297"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.33,
+      "avg_txn_amt": 88.61,
+      "tod_p": [
+        0.0364,
+        0.0093,
+        0.3475,
+        0.15,
+        0.1242,
+        0.0944,
+        0.2027,
+        0.0355
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000066",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2066482.54,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1999-04-30",
+      "legal_representative_id": "p1886014"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 190.71,
+      "avg_txn_amt": 79.53,
+      "tod_p": [
+        0.1133,
+        0.0369,
+        0.0304,
+        0.4643,
+        0.0328,
+        0.1097,
+        0.1889,
+        0.0237
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000067",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29973365.55,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1996-09-22",
+      "legal_representative_id": "p051664"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 22.43,
+      "avg_txn_amt": 48.13,
+      "tod_p": [
+        0.1056,
+        0.0086,
+        0.0828,
+        0.1255,
+        0.1229,
+        0.1763,
+        0.2699,
+        0.1084
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000068",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1330499.51,
+      "Industry": "Telecommunications",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1999-11-07",
+      "legal_representative_id": "p375038"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 2.72,
+      "avg_txn_amt": 75.59,
+      "tod_p": [
+        0.1471,
+        0.0938,
+        0.1131,
+        0.0945,
+        0.1541,
+        0.1844,
+        0.0373,
+        0.1757
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000069",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16640387.55,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-12-06",
+      "legal_representative_id": "p281975"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 79.75,
+      "avg_txn_amt": 1587.18,
+      "tod_p": [
+        0.082,
+        0.1115,
+        0.1396,
+        0.0774,
+        0.118,
+        0.2277,
+        0.1728,
+        0.071
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000070",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 59299918.12,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2001-01-11",
+      "legal_representative_id": "p1989174"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 152.63,
+      "avg_txn_amt": 174.49,
+      "tod_p": [
+        0.0044,
+        0.0242,
+        0.0853,
+        0.427,
+        0.0904,
+        0.1208,
+        0.2275,
+        0.0204
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000071",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 18472066.09,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2001-06-08",
+      "legal_representative_id": "p448983"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.25,
+      "avg_txn_amt": 65.9,
+      "tod_p": [
+        0.167,
+        0.1541,
+        0.2042,
+        0.0237,
+        0.0392,
+        0.2352,
+        0.0919,
+        0.0847
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000072",
+      "Company_description": "Small Healthcare merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4454112.73,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-08-21",
+      "legal_representative_id": "p222867"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.65,
+      "avg_txn_amt": 68.76,
+      "tod_p": [
+        0.1303,
+        0.1503,
+        0.029,
+        0.0701,
+        0.2839,
+        0.0584,
+        0.1282,
+        0.1498
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000073",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 6509255.82,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-11-10",
+      "legal_representative_id": "p1002169"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.07,
+      "avg_txn_amt": 83.57,
+      "tod_p": [
+        0.0693,
+        0.055,
+        0.0537,
+        0.122,
+        0.1663,
+        0.1467,
+        0.2198,
+        0.1672
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000074",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2552229.13,
+      "Industry": "Retail",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2003-09-17",
+      "legal_representative_id": "p536227"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.01,
+      "avg_txn_amt": 75.22,
+      "tod_p": [
+        0.2074,
+        0.0671,
+        0.1662,
+        0.1412,
+        0.2992,
+        0.0555,
+        0.0444,
+        0.019
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000075",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4868538.47,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-01-17",
+      "legal_representative_id": "p131485"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.98,
+      "avg_txn_amt": 227.55,
+      "tod_p": [
+        0.1672,
+        0.0873,
+        0.032,
+        0.1784,
+        0.1711,
+        0.1155,
+        0.0682,
+        0.1803
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000076",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1977250.18,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-01-31",
+      "legal_representative_id": "p195005"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 63.01,
+      "avg_txn_amt": 54.51,
+      "tod_p": [
+        0.0915,
+        0.2172,
+        0.0393,
+        0.0644,
+        0.1895,
+        0.056,
+        0.111,
+        0.2311
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000077",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20395045.69,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1988-04-06",
+      "legal_representative_id": "p039082"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.38,
+      "avg_txn_amt": 243.82,
+      "tod_p": [
+        0.0621,
+        0.0201,
+        0.0985,
+        0.0969,
+        0.3269,
+        0.1455,
+        0.0424,
+        0.2076
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000078",
+      "Company_description": "Medium Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 19619918.97,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-03-01",
+      "legal_representative_id": "p1376761"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.04,
+      "avg_txn_amt": 125.69,
+      "tod_p": [
+        0.2228,
+        0.0403,
+        0.1452,
+        0.1693,
+        0.2832,
+        0.0704,
+        0.0423,
+        0.0265
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000079",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 40614722.71,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-10-30",
+      "legal_representative_id": "p905589"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 31.67,
+      "avg_txn_amt": 198.29,
+      "tod_p": [
+        0.0868,
+        0.0966,
+        0.1136,
+        0.0483,
+        0.2203,
+        0.0901,
+        0.2665,
+        0.0778
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000080",
+      "Company_description": "Large E-commerce merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 119839202.05,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-07-31",
+      "legal_representative_id": "p1635157"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.58,
+      "avg_txn_amt": 206.02,
+      "tod_p": [
+        0.0315,
+        0.1835,
+        0.2927,
+        0.0705,
+        0.0876,
+        0.1733,
+        0.146,
+        0.0149
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000081",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 21483543.64,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2009-04-10",
+      "legal_representative_id": "p586166"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.86,
+      "avg_txn_amt": 35.48,
+      "tod_p": [
+        0.1422,
+        0.0301,
+        0.0451,
+        0.2672,
+        0.1709,
+        0.057,
+        0.1296,
+        0.1579
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000082",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3595671.94,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-04-04",
+      "legal_representative_id": "p1296517"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.16,
+      "avg_txn_amt": 82.9,
+      "tod_p": [
+        0.0456,
+        0.0227,
+        0.1422,
+        0.1615,
+        0.1574,
+        0.1241,
+        0.2753,
+        0.0712
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000083",
+      "Company_description": "Large Utilities merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 84658193.77,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2005-09-23",
+      "legal_representative_id": "p057109"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.6,
+      "avg_txn_amt": 70.55,
+      "tod_p": [
+        0.0891,
+        0.1319,
+        0.1028,
+        0.1256,
+        0.0925,
+        0.0738,
+        0.1029,
+        0.2814
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000084",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2674059.1,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-11-13",
+      "legal_representative_id": "p389594"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 21.4,
+      "avg_txn_amt": 140.7,
+      "tod_p": [
+        0.1797,
+        0.1208,
+        0.0137,
+        0.1371,
+        0.1774,
+        0.263,
+        0.061,
+        0.0473
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000085",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1342714.09,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2007-08-12",
+      "legal_representative_id": "p1655017"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 150.73,
+      "avg_txn_amt": 151.62,
+      "tod_p": [
+        0.2542,
+        0.0224,
+        0.1834,
+        0.2759,
+        0.0474,
+        0.0447,
+        0.061,
+        0.111
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000086",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2669272.47,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2024-03-06",
+      "legal_representative_id": "p799667"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 60.01,
+      "avg_txn_amt": 67.27,
+      "tod_p": [
+        0.0712,
+        0.2024,
+        0.3291,
+        0.0923,
+        0.0565,
+        0.136,
+        0.0804,
+        0.0321
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000087",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1199189.14,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-06-08",
+      "legal_representative_id": "p1057089"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 43.04,
+      "avg_txn_amt": 26.91,
+      "tod_p": [
+        0.1891,
+        0.0396,
+        0.0656,
+        0.0992,
+        0.1214,
+        0.2062,
+        0.1804,
+        0.0985
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000088",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23930779.55,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2014-02-19",
+      "legal_representative_id": "p829736"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.14,
+      "avg_txn_amt": 169.7,
+      "tod_p": [
+        0.0362,
+        0.1208,
+        0.0775,
+        0.0479,
+        0.153,
+        0.2044,
+        0.201,
+        0.1592
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000089",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3163964.7,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-02-24",
+      "legal_representative_id": "p575645"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 64.27,
+      "avg_txn_amt": 73.09,
+      "tod_p": [
+        0.0505,
+        0.0652,
+        0.3774,
+        0.2203,
+        0.0568,
+        0.0229,
+        0.0609,
+        0.146
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000090",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4391293.97,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-10-28",
+      "legal_representative_id": "p1912843"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 217.99,
+      "avg_txn_amt": 130.6,
+      "tod_p": [
+        0.3024,
+        0.3309,
+        0.0053,
+        0.0373,
+        0.0634,
+        0.0605,
+        0.161,
+        0.0392
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000091",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2022797.42,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-12-10",
+      "legal_representative_id": "p330389"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.9,
+      "avg_txn_amt": 34.85,
+      "tod_p": [
+        0.4351,
+        0.0164,
+        0.1814,
+        0.047,
+        0.1065,
+        0.0725,
+        0.1216,
+        0.0195
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000092",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 28083635.88,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2021-09-04",
+      "legal_representative_id": "p019817"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.69,
+      "avg_txn_amt": 27.13,
+      "tod_p": [
+        0.1864,
+        0.0646,
+        0.0766,
+        0.4502,
+        0.0075,
+        0.0397,
+        0.1463,
+        0.0287
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000093",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29250906.21,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-01-08",
+      "legal_representative_id": "p1954623"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.07,
+      "avg_txn_amt": 2.13,
+      "tod_p": [
+        0.1173,
+        0.0728,
+        0.1097,
+        0.0584,
+        0.3228,
+        0.1564,
+        0.1163,
+        0.0463
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000094",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1463513.0,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-01-08",
+      "legal_representative_id": "p978040"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 47.66,
+      "avg_txn_amt": 54.46,
+      "tod_p": [
+        0.0855,
+        0.0821,
+        0.1555,
+        0.0964,
+        0.1966,
+        0.1275,
+        0.0895,
+        0.1669
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000095",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 8627992.56,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-07-25",
+      "legal_representative_id": "p1755857"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 121.17,
+      "avg_txn_amt": 72.58,
+      "tod_p": [
+        0.1,
+        0.169,
+        0.0422,
+        0.3771,
+        0.1154,
+        0.0883,
+        0.0807,
+        0.0273
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000096",
+      "Company_description": "Large Transportation merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 132618345.63,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-05-05",
+      "legal_representative_id": "p691758"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 201.24,
+      "avg_txn_amt": 11.75,
+      "tod_p": [
+        0.0819,
+        0.0083,
+        0.0468,
+        0.1198,
+        0.3492,
+        0.1942,
+        0.0647,
+        0.1351
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000097",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2675104.91,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-08-23",
+      "legal_representative_id": "p1611755"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.39,
+      "avg_txn_amt": 37.17,
+      "tod_p": [
+        0.0889,
+        0.328,
+        0.0931,
+        0.0457,
+        0.056,
+        0.0494,
+        0.0231,
+        0.3158
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000098",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 25035296.98,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2008-10-07",
+      "legal_representative_id": "p909165"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 197.98,
+      "avg_txn_amt": 289.28,
+      "tod_p": [
+        0.0531,
+        0.2017,
+        0.228,
+        0.043,
+        0.1185,
+        0.185,
+        0.1434,
+        0.0273
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000099",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 13191274.6,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-03-03",
+      "legal_representative_id": "p490458"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 47.86,
+      "avg_txn_amt": 46.43,
+      "tod_p": [
+        0.1271,
+        0.0535,
+        0.0981,
+        0.2431,
+        0.0971,
+        0.1024,
+        0.2315,
+        0.0472
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000100",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 7000000.0,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-05-10",
+      "legal_representative_id": "p1229721"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.51,
+      "avg_txn_amt": 36.53,
+      "tod_p": [
+        0.0056,
+        0.0474,
+        0.0777,
+        0.0696,
+        0.1426,
+        0.1967,
+        0.0349,
+        0.4255
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000101",
+      "Company_description": "Large Transportation merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 95426441.91,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-01-17",
+      "legal_representative_id": "p1498772"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 28.77,
+      "avg_txn_amt": 141.47,
+      "tod_p": [
+        0.1428,
+        0.0619,
+        0.0919,
+        0.1359,
+        0.1199,
+        0.1217,
+        0.2571,
+        0.0688
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000102",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2702752.57,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2017-07-05",
+      "legal_representative_id": "p1721611"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.42,
+      "avg_txn_amt": 278.41,
+      "tod_p": [
+        0.1422,
+        0.2136,
+        0.0162,
+        0.0967,
+        0.204,
+        0.0758,
+        0.0853,
+        0.1662
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000103",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1887591.13,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2022-05-01",
+      "legal_representative_id": "p656952"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 59.98,
+      "avg_txn_amt": 70.07,
+      "tod_p": [
+        0.0663,
+        0.0957,
+        0.0936,
+        0.2472,
+        0.101,
+        0.1316,
+        0.1361,
+        0.1285
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000104",
+      "Company_description": "Large Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 61047003.52,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1991-08-01",
+      "legal_representative_id": "p126210"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.93,
+      "avg_txn_amt": 53.27,
+      "tod_p": [
+        0.1455,
+        0.0684,
+        0.2722,
+        0.1435,
+        0.0667,
+        0.0403,
+        0.1497,
+        0.1137
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000105",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2237096.72,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2005-07-06",
+      "legal_representative_id": "p783067"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 37.88,
+      "avg_txn_amt": 38.34,
+      "tod_p": [
+        0.1345,
+        0.1174,
+        0.0895,
+        0.0516,
+        0.3799,
+        0.0474,
+        0.0891,
+        0.0906
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000106",
+      "Company_description": "Large Healthcare merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 96605702.26,
+      "Industry": "Healthcare",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2017-02-04",
+      "legal_representative_id": "p1332763"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.34,
+      "avg_txn_amt": 50.96,
+      "tod_p": [
+        0.0681,
+        0.0636,
+        0.072,
+        0.0517,
+        0.348,
+        0.0913,
+        0.1198,
+        0.1855
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000107",
+      "Company_description": "Large Utilities merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 64415110.63,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1994-04-04",
+      "legal_representative_id": "p1450504"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 54.66,
+      "avg_txn_amt": 97.39,
+      "tod_p": [
+        0.2744,
+        0.0757,
+        0.117,
+        0.0512,
+        0.0938,
+        0.2456,
+        0.0917,
+        0.0506
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000108",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15918457.33,
+      "Industry": "Utilities",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2017-03-12",
+      "legal_representative_id": "p1765983"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.44,
+      "avg_txn_amt": 29.39,
+      "tod_p": [
+        0.0813,
+        0.0661,
+        0.4058,
+        0.2435,
+        0.0599,
+        0.0436,
+        0.0392,
+        0.0606
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000109",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17056419.05,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-03-16",
+      "legal_representative_id": "p753754"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.5,
+      "avg_txn_amt": 56.55,
+      "tod_p": [
+        0.1083,
+        0.0393,
+        0.1724,
+        0.1636,
+        0.1066,
+        0.1395,
+        0.1127,
+        0.1576
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000110",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 12799766.03,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2004-08-28",
+      "legal_representative_id": "p141399"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 35.27,
+      "avg_txn_amt": 59.99,
+      "tod_p": [
+        0.0805,
+        0.0867,
+        0.1084,
+        0.1045,
+        0.1111,
+        0.1973,
+        0.0539,
+        0.2576
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000111",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17825191.62,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2004-03-07",
+      "legal_representative_id": "p1423061"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.42,
+      "avg_txn_amt": 14.17,
+      "tod_p": [
+        0.0911,
+        0.1519,
+        0.1187,
+        0.0823,
+        0.1893,
+        0.1125,
+        0.1113,
+        0.1429
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000112",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4235142.65,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-04-23",
+      "legal_representative_id": "p1465072"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 17.66,
+      "avg_txn_amt": 134.37,
+      "tod_p": [
+        0.0475,
+        0.0235,
+        0.1349,
+        0.0331,
+        0.0991,
+        0.0661,
+        0.336,
+        0.2598
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000113",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9338781.88,
+      "Industry": "Retail",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2017-10-10",
+      "legal_representative_id": "p557686"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.29,
+      "avg_txn_amt": 57.05,
+      "tod_p": [
+        0.0957,
+        0.038,
+        0.4272,
+        0.1229,
+        0.0306,
+        0.0169,
+        0.1969,
+        0.0718
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000114",
+      "Company_description": "Large E-commerce merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 62190577.85,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1987-11-25",
+      "legal_representative_id": "p217286"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.48,
+      "avg_txn_amt": 160.23,
+      "tod_p": [
+        0.0843,
+        0.0556,
+        0.0208,
+        0.1116,
+        0.1137,
+        0.3355,
+        0.1558,
+        0.1227
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000115",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 10294504.17,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1997-08-18",
+      "legal_representative_id": "p1959407"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 16.78,
+      "avg_txn_amt": 505.37,
+      "tod_p": [
+        0.094,
+        0.0965,
+        0.0632,
+        0.0935,
+        0.2103,
+        0.2219,
+        0.13,
+        0.0906
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000116",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2144544.14,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2017-07-05",
+      "legal_representative_id": "p1424765"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.18,
+      "avg_txn_amt": 39.06,
+      "tod_p": [
+        0.0292,
+        0.0714,
+        0.401,
+        0.3656,
+        0.0525,
+        0.02,
+        0.0294,
+        0.0309
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000117",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2173326.82,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-03-09",
+      "legal_representative_id": "p1912585"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 74.39,
+      "avg_txn_amt": 275.0,
+      "tod_p": [
+        0.0651,
+        0.0713,
+        0.1098,
+        0.0528,
+        0.3087,
+        0.0221,
+        0.1836,
+        0.1866
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000118",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1466554.56,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2022-05-12",
+      "legal_representative_id": "p137085"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 11.61,
+      "avg_txn_amt": 18.94,
+      "tod_p": [
+        0.1147,
+        0.0593,
+        0.0561,
+        0.1484,
+        0.2315,
+        0.1645,
+        0.1501,
+        0.0754
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000119",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1394689.69,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-12-04",
+      "legal_representative_id": "p1369910"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.05,
+      "avg_txn_amt": 112.28,
+      "tod_p": [
+        0.1288,
+        0.0201,
+        0.0626,
+        0.1423,
+        0.2159,
+        0.1755,
+        0.0678,
+        0.187
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000120",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 22230792.78,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2020-03-26",
+      "legal_representative_id": "p195247"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 84.51,
+      "avg_txn_amt": 58.64,
+      "tod_p": [
+        0.0939,
+        0.0425,
+        0.0453,
+        0.5156,
+        0.0609,
+        0.081,
+        0.1353,
+        0.0255
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000121",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1776192.46,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2014-07-21",
+      "legal_representative_id": "p1079584"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 29.35,
+      "avg_txn_amt": 41.65,
+      "tod_p": [
+        0.0106,
+        0.115,
+        0.0336,
+        0.0654,
+        0.1416,
+        0.1629,
+        0.0216,
+        0.4493
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000122",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2328311.38,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-10-24",
+      "legal_representative_id": "p1224492"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.99,
+      "avg_txn_amt": 11.43,
+      "tod_p": [
+        0.0087,
+        0.058,
+        0.026,
+        0.3466,
+        0.0741,
+        0.2442,
+        0.2272,
+        0.0152
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000123",
+      "Company_description": "Large E-commerce merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 62314291.33,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2004-07-01",
+      "legal_representative_id": "p1307080"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1200.0,
+      "avg_txn_amt": 220.78,
+      "tod_p": [
+        0.0279,
+        0.1354,
+        0.061,
+        0.076,
+        0.1088,
+        0.124,
+        0.0646,
+        0.4023
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000124",
+      "Company_description": "Small Healthcare merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 6362707.47,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-11-21",
+      "legal_representative_id": "p1122438"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 45.88,
+      "avg_txn_amt": 95.32,
+      "tod_p": [
+        0.0964,
+        0.0487,
+        0.0852,
+        0.0484,
+        0.2814,
+        0.0506,
+        0.1165,
+        0.2728
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000125",
+      "Company_description": "Small Healthcare merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2176505.94,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-02-12",
+      "legal_representative_id": "p1809378"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.23,
+      "avg_txn_amt": 27.42,
+      "tod_p": [
+        0.1288,
+        0.0842,
+        0.0198,
+        0.1107,
+        0.3338,
+        0.1388,
+        0.1195,
+        0.0644
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000126",
+      "Company_description": "Medium Education merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 12597214.64,
+      "Industry": "Education",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-07-24",
+      "legal_representative_id": "p493159"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 24.98,
+      "avg_txn_amt": 50.82,
+      "tod_p": [
+        0.0767,
+        0.0312,
+        0.1468,
+        0.2217,
+        0.1021,
+        0.1406,
+        0.087,
+        0.1939
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000127",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3438439.82,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2006-11-20",
+      "legal_representative_id": "p1038200"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 56.91,
+      "avg_txn_amt": 32.78,
+      "tod_p": [
+        0.0047,
+        0.1251,
+        0.0707,
+        0.0912,
+        0.0493,
+        0.1772,
+        0.0389,
+        0.4429
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000128",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 19331690.89,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-02-03",
+      "legal_representative_id": "p1462074"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.69,
+      "avg_txn_amt": 61.45,
+      "tod_p": [
+        0.153,
+        0.0515,
+        0.1986,
+        0.1993,
+        0.2412,
+        0.049,
+        0.0434,
+        0.064
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000129",
+      "Company_description": "Small Healthcare merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3172738.32,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1997-05-29",
+      "legal_representative_id": "p1028495"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 27.12,
+      "avg_txn_amt": 66.69,
+      "tod_p": [
+        0.0881,
+        0.0498,
+        0.0597,
+        0.0395,
+        0.1915,
+        0.2632,
+        0.1443,
+        0.1639
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000130",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 33540413.81,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-01-24",
+      "legal_representative_id": "p713227"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 337.85,
+      "avg_txn_amt": 157.55,
+      "tod_p": [
+        0.2885,
+        0.3437,
+        0.0032,
+        0.0447,
+        0.079,
+        0.0597,
+        0.1316,
+        0.0496
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000131",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2797035.34,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2024-10-21",
+      "legal_representative_id": "p1011968"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 44.92,
+      "avg_txn_amt": 197.9,
+      "tod_p": [
+        0.0451,
+        0.1735,
+        0.0642,
+        0.0647,
+        0.1243,
+        0.2032,
+        0.2414,
+        0.0836
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000132",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2293399.14,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-03-05",
+      "legal_representative_id": "p055148"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 68.31,
+      "avg_txn_amt": 81.86,
+      "tod_p": [
+        0.0844,
+        0.1387,
+        0.1501,
+        0.1404,
+        0.0968,
+        0.0729,
+        0.1503,
+        0.1664
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000133",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2742011.93,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2006-08-21",
+      "legal_representative_id": "p1840119"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 77.69,
+      "avg_txn_amt": 138.7,
+      "tod_p": [
+        0.2009,
+        0.0517,
+        0.0137,
+        0.1267,
+        0.3478,
+        0.0689,
+        0.1346,
+        0.0557
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000134",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 27343914.1,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-01-28",
+      "legal_representative_id": "p1117503"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 75.73,
+      "avg_txn_amt": 162.75,
+      "tod_p": [
+        0.068,
+        0.0533,
+        0.2094,
+        0.1383,
+        0.1471,
+        0.1202,
+        0.1275,
+        0.1362
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000135",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3345079.3,
+      "Industry": "Telecommunications",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2008-07-09",
+      "legal_representative_id": "p1017542"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.27,
+      "avg_txn_amt": 66.84,
+      "tod_p": [
+        0.3811,
+        0.0458,
+        0.1901,
+        0.0553,
+        0.154,
+        0.0538,
+        0.1031,
+        0.0168
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000136",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1534950.73,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-12-24",
+      "legal_representative_id": "p904099"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.31,
+      "avg_txn_amt": 81.82,
+      "tod_p": [
+        0.1065,
+        0.0547,
+        0.0519,
+        0.0603,
+        0.2874,
+        0.2085,
+        0.047,
+        0.1837
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000137",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2234263.54,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-10-14",
+      "legal_representative_id": "p1065650"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 71.24,
+      "avg_txn_amt": 433.75,
+      "tod_p": [
+        0.1043,
+        0.3456,
+        0.0447,
+        0.0863,
+        0.1297,
+        0.0979,
+        0.0944,
+        0.0971
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000138",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 51371654.94,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-01-19",
+      "legal_representative_id": "p097853"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 25.58,
+      "avg_txn_amt": 244.17,
+      "tod_p": [
+        0.1763,
+        0.2869,
+        0.0553,
+        0.0761,
+        0.0289,
+        0.0403,
+        0.0308,
+        0.3054
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000139",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14884355.91,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-05-14",
+      "legal_representative_id": "p668180"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 2.58,
+      "avg_txn_amt": 72.18,
+      "tod_p": [
+        0.0684,
+        0.1819,
+        0.2429,
+        0.0998,
+        0.0984,
+        0.1884,
+        0.1047,
+        0.0155
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000140",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2600434.72,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2013-06-26",
+      "legal_representative_id": "p319973"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.75,
+      "avg_txn_amt": 156.91,
+      "tod_p": [
+        0.0693,
+        0.0941,
+        0.0722,
+        0.1735,
+        0.0203,
+        0.284,
+        0.2021,
+        0.0845
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000141",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17570808.58,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1999-05-16",
+      "legal_representative_id": "p1204799"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 12.53,
+      "avg_txn_amt": 234.02,
+      "tod_p": [
+        0.1197,
+        0.0427,
+        0.1869,
+        0.3363,
+        0.0509,
+        0.0262,
+        0.0584,
+        0.1789
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000142",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2381367.9,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-02-16",
+      "legal_representative_id": "p856048"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1.45,
+      "avg_txn_amt": 43.03,
+      "tod_p": [
+        0.1121,
+        0.1294,
+        0.0417,
+        0.0613,
+        0.0639,
+        0.2997,
+        0.2176,
+        0.0743
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000143",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2814826.51,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-09-05",
+      "legal_representative_id": "p579366"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 57.24,
+      "avg_txn_amt": 48.02,
+      "tod_p": [
+        0.2722,
+        0.1224,
+        0.1404,
+        0.0848,
+        0.0602,
+        0.2281,
+        0.0695,
+        0.0224
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000144",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1966944.31,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-10-17",
+      "legal_representative_id": "p053910"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.44,
+      "avg_txn_amt": 91.81,
+      "tod_p": [
+        0.1194,
+        0.1421,
+        0.1438,
+        0.2268,
+        0.1409,
+        0.0466,
+        0.0871,
+        0.0933
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000145",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3109104.16,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1987-09-15",
+      "legal_representative_id": "p915208"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.46,
+      "avg_txn_amt": 77.67,
+      "tod_p": [
+        0.1323,
+        0.039,
+        0.0299,
+        0.1363,
+        0.3135,
+        0.1731,
+        0.0683,
+        0.1076
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000146",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 22942767.91,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2017-06-13",
+      "legal_representative_id": "p333998"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1015.68,
+      "avg_txn_amt": 12.3,
+      "tod_p": [
+        0.3365,
+        0.0081,
+        0.1791,
+        0.139,
+        0.1272,
+        0.0892,
+        0.0954,
+        0.0255
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000147",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 49304661.25,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-12-27",
+      "legal_representative_id": "p1613448"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 41.06,
+      "avg_txn_amt": 71.11,
+      "tod_p": [
+        0.1196,
+        0.0089,
+        0.0175,
+        0.0157,
+        0.2026,
+        0.2824,
+        0.1806,
+        0.1727
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000148",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 28024512.12,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-09-12",
+      "legal_representative_id": "p607565"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 37.31,
+      "avg_txn_amt": 498.93,
+      "tod_p": [
+        0.0836,
+        0.0665,
+        0.1467,
+        0.1738,
+        0.0679,
+        0.1921,
+        0.1215,
+        0.1479
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000149",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9520704.83,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "1985-11-28",
+      "legal_representative_id": "p437626"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 113.6,
+      "avg_txn_amt": 83.87,
+      "tod_p": [
+        0.1017,
+        0.0303,
+        0.1418,
+        0.1425,
+        0.2445,
+        0.1287,
+        0.1751,
+        0.0354
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000150",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1955634.01,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1996-10-28",
+      "legal_representative_id": "p1285017"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 22.9,
+      "avg_txn_amt": 78.46,
+      "tod_p": [
+        0.0033,
+        0.0192,
+        0.253,
+        0.1015,
+        0.1241,
+        0.2234,
+        0.1028,
+        0.1727
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000151",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2736945.71,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1994-03-16",
+      "legal_representative_id": "p1530296"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 40.58,
+      "avg_txn_amt": 7.64,
+      "tod_p": [
+        0.1566,
+        0.0708,
+        0.0501,
+        0.2056,
+        0.1206,
+        0.2709,
+        0.0646,
+        0.0608
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000152",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16884585.33,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-08-28",
+      "legal_representative_id": "p1580462"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.16,
+      "avg_txn_amt": 67.61,
+      "tod_p": [
+        0.2436,
+        0.0035,
+        0.0402,
+        0.1504,
+        0.1703,
+        0.0488,
+        0.1358,
+        0.2074
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000153",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2457245.48,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1998-06-18",
+      "legal_representative_id": "p660859"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 32.82,
+      "avg_txn_amt": 21.32,
+      "tod_p": [
+        0.014,
+        0.0079,
+        0.2339,
+        0.0572,
+        0.1185,
+        0.3089,
+        0.084,
+        0.1756
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000154",
+      "Company_description": "Large Transportation merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 171110433.54,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-02-04",
+      "legal_representative_id": "p1500135"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1054.4,
+      "avg_txn_amt": 578.78,
+      "tod_p": [
+        0.0979,
+        0.1395,
+        0.0685,
+        0.0662,
+        0.0447,
+        0.2535,
+        0.2384,
+        0.0913
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000155",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 76367062.31,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1999-08-23",
+      "legal_representative_id": "p597094"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.59,
+      "avg_txn_amt": 10.52,
+      "tod_p": [
+        0.3008,
+        0.0261,
+        0.1038,
+        0.2359,
+        0.0408,
+        0.0385,
+        0.1427,
+        0.1114
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000156",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2320545.95,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2005-12-23",
+      "legal_representative_id": "p181949"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 41.39,
+      "avg_txn_amt": 4.63,
+      "tod_p": [
+        0.0849,
+        0.2018,
+        0.1229,
+        0.0682,
+        0.1878,
+        0.1509,
+        0.0675,
+        0.116
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000157",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2676886.25,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2017-04-21",
+      "legal_representative_id": "p1387785"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 24.36,
+      "avg_txn_amt": 38.54,
+      "tod_p": [
+        0.148,
+        0.1946,
+        0.0296,
+        0.083,
+        0.0435,
+        0.0829,
+        0.0386,
+        0.3798
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000158",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2479972.73,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-11-04",
+      "legal_representative_id": "p1834435"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.31,
+      "avg_txn_amt": 33.78,
+      "tod_p": [
+        0.0448,
+        0.1013,
+        0.1726,
+        0.0814,
+        0.1803,
+        0.1088,
+        0.1487,
+        0.1621
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000159",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11713990.38,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1991-04-27",
+      "legal_representative_id": "p1279181"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.09,
+      "avg_txn_amt": 126.24,
+      "tod_p": [
+        0.0203,
+        0.0611,
+        0.0404,
+        0.0559,
+        0.0303,
+        0.1439,
+        0.0702,
+        0.5779
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000160",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2647785.79,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1992-03-09",
+      "legal_representative_id": "p202347"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.43,
+      "avg_txn_amt": 51.4,
+      "tod_p": [
+        0.1627,
+        0.0398,
+        0.0278,
+        0.0363,
+        0.1127,
+        0.3146,
+        0.1194,
+        0.1867
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000161",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2939136.06,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-12-30",
+      "legal_representative_id": "p456332"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 24.73,
+      "avg_txn_amt": 57.26,
+      "tod_p": [
+        0.0648,
+        0.0776,
+        0.0647,
+        0.0575,
+        0.1162,
+        0.3465,
+        0.181,
+        0.0917
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000162",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 6125924.57,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-05-06",
+      "legal_representative_id": "p1013540"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.54,
+      "avg_txn_amt": 46.31,
+      "tod_p": [
+        0.0406,
+        0.137,
+        0.1331,
+        0.0919,
+        0.1569,
+        0.075,
+        0.177,
+        0.1885
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000163",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 25956222.86,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1996-07-16",
+      "legal_representative_id": "p281756"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 11.22,
+      "avg_txn_amt": 306.21,
+      "tod_p": [
+        0.0502,
+        0.0692,
+        0.0292,
+        0.2214,
+        0.2209,
+        0.1393,
+        0.1718,
+        0.098
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000164",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2531533.42,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2016-06-04",
+      "legal_representative_id": "p778884"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.76,
+      "avg_txn_amt": 264.15,
+      "tod_p": [
+        0.0638,
+        0.0274,
+        0.1026,
+        0.2736,
+        0.0645,
+        0.1271,
+        0.1752,
+        0.1658
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000165",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9679670.13,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1985-08-04",
+      "legal_representative_id": "p1596854"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 104.01,
+      "avg_txn_amt": 141.56,
+      "tod_p": [
+        0.1807,
+        0.0637,
+        0.143,
+        0.137,
+        0.2885,
+        0.1085,
+        0.0338,
+        0.0448
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000166",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20464699.1,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-06-08",
+      "legal_representative_id": "p984157"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 619.8,
+      "avg_txn_amt": 15.84,
+      "tod_p": [
+        0.0817,
+        0.1419,
+        0.1387,
+        0.0901,
+        0.1043,
+        0.1424,
+        0.1926,
+        0.1083
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000167",
+      "Company_description": "Large Healthcare merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 55053486.21,
+      "Industry": "Healthcare",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2019-12-31",
+      "legal_representative_id": "p456286"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 80.08,
+      "avg_txn_amt": 1407.76,
+      "tod_p": [
+        0.1123,
+        0.0828,
+        0.0716,
+        0.0542,
+        0.3647,
+        0.1683,
+        0.0343,
+        0.1118
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000168",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1322872.91,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1997-02-09",
+      "legal_representative_id": "p610033"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1200.0,
+      "avg_txn_amt": 17.83,
+      "tod_p": [
+        0.1071,
+        0.0646,
+        0.0651,
+        0.1404,
+        0.1917,
+        0.1086,
+        0.1523,
+        0.1702
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000169",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1276218.03,
+      "Industry": "Telecommunications",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2013-10-22",
+      "legal_representative_id": "p1306483"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 213.92,
+      "avg_txn_amt": 111.95,
+      "tod_p": [
+        0.2261,
+        0.0525,
+        0.0251,
+        0.034,
+        0.1511,
+        0.2392,
+        0.1122,
+        0.1598
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000170",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2161178.01,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-06-03",
+      "legal_representative_id": "p978755"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.49,
+      "avg_txn_amt": 205.24,
+      "tod_p": [
+        0.1325,
+        0.3254,
+        0.0817,
+        0.0564,
+        0.0252,
+        0.1194,
+        0.0414,
+        0.218
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000171",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9551035.21,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-03-04",
+      "legal_representative_id": "p1420859"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 221.81,
+      "avg_txn_amt": 13.46,
+      "tod_p": [
+        0.1517,
+        0.1255,
+        0.0826,
+        0.2221,
+        0.0646,
+        0.1024,
+        0.2168,
+        0.0343
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000172",
+      "Company_description": "Large Transportation merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 62213228.03,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1985-06-16",
+      "legal_representative_id": "p1606141"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 789.27,
+      "avg_txn_amt": 178.19,
+      "tod_p": [
+        0.0796,
+        0.2859,
+        0.2313,
+        0.1172,
+        0.1189,
+        0.0757,
+        0.0815,
+        0.0099
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000173",
+      "Company_description": "Large Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 121903889.24,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2023-11-29",
+      "legal_representative_id": "p1661656"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 30.68,
+      "avg_txn_amt": 239.34,
+      "tod_p": [
+        0.1092,
+        0.0552,
+        0.0357,
+        0.0467,
+        0.0276,
+        0.137,
+        0.0927,
+        0.4959
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000174",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2505693.93,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2007-05-06",
+      "legal_representative_id": "p131185"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.15,
+      "avg_txn_amt": 37.03,
+      "tod_p": [
+        0.1188,
+        0.0776,
+        0.0658,
+        0.0801,
+        0.2321,
+        0.1199,
+        0.0183,
+        0.2874
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000175",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 12991497.05,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2001-04-08",
+      "legal_representative_id": "p122333"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.27,
+      "avg_txn_amt": 19.94,
+      "tod_p": [
+        0.1428,
+        0.0666,
+        0.0272,
+        0.1647,
+        0.0854,
+        0.1599,
+        0.0904,
+        0.263
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000176",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 9607129.11,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2019-09-30",
+      "legal_representative_id": "p488020"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 55.72,
+      "avg_txn_amt": 435.85,
+      "tod_p": [
+        0.0375,
+        0.0876,
+        0.2419,
+        0.1313,
+        0.0656,
+        0.1071,
+        0.1463,
+        0.1827
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000177",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 37571094.87,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-09-25",
+      "legal_representative_id": "p275050"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 31.72,
+      "avg_txn_amt": 122.98,
+      "tod_p": [
+        0.0957,
+        0.0877,
+        0.1266,
+        0.1,
+        0.1755,
+        0.1408,
+        0.2381,
+        0.0356
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000178",
+      "Company_description": "Large Entertainment merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 52147880.63,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-08-04",
+      "legal_representative_id": "p1908797"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.18,
+      "avg_txn_amt": 39.56,
+      "tod_p": [
+        0.0194,
+        0.1953,
+        0.0967,
+        0.3601,
+        0.1822,
+        0.0345,
+        0.0928,
+        0.019
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000179",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 5175028.32,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-03-20",
+      "legal_representative_id": "p936801"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 2.69,
+      "avg_txn_amt": 87.95,
+      "tod_p": [
+        0.1635,
+        0.0448,
+        0.0644,
+        0.2265,
+        0.1265,
+        0.091,
+        0.0979,
+        0.1854
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000180",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3774659.14,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "1989-06-26",
+      "legal_representative_id": "p1342502"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.25,
+      "avg_txn_amt": 66.06,
+      "tod_p": [
+        0.0664,
+        0.132,
+        0.0524,
+        0.0638,
+        0.0319,
+        0.3394,
+        0.2233,
+        0.0908
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000181",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 86602778.55,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-10-25",
+      "legal_representative_id": "p1452880"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 39.63,
+      "avg_txn_amt": 7.15,
+      "tod_p": [
+        0.1608,
+        0.383,
+        0.0959,
+        0.0379,
+        0.1121,
+        0.0379,
+        0.1315,
+        0.0409
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000182",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3233677.79,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-02-08",
+      "legal_representative_id": "p987798"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 33.34,
+      "avg_txn_amt": 257.45,
+      "tod_p": [
+        0.2148,
+        0.0164,
+        0.0868,
+        0.1942,
+        0.1018,
+        0.0536,
+        0.1375,
+        0.1949
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000183",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2999636.86,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-08-28",
+      "legal_representative_id": "p231325"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 74.06,
+      "avg_txn_amt": 177.65,
+      "tod_p": [
+        0.0468,
+        0.0737,
+        0.0762,
+        0.3828,
+        0.1926,
+        0.0686,
+        0.1201,
+        0.0392
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000184",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 10965112.2,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2022-06-27",
+      "legal_representative_id": "p926864"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 302.23,
+      "avg_txn_amt": 57.61,
+      "tod_p": [
+        0.0481,
+        0.1469,
+        0.1416,
+        0.2135,
+        0.0949,
+        0.1675,
+        0.1542,
+        0.0333
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000185",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2273870.07,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-02-03",
+      "legal_representative_id": "p1104057"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.89,
+      "avg_txn_amt": 39.64,
+      "tod_p": [
+        0.0487,
+        0.0648,
+        0.0474,
+        0.2826,
+        0.0783,
+        0.1373,
+        0.1498,
+        0.1911
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000186",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2780174.76,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-07-03",
+      "legal_representative_id": "p1149735"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 122.69,
+      "avg_txn_amt": 242.59,
+      "tod_p": [
+        0.1334,
+        0.0986,
+        0.1438,
+        0.0916,
+        0.1403,
+        0.1405,
+        0.1933,
+        0.0585
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000187",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3714035.1,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2021-08-10",
+      "legal_representative_id": "p1349433"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.54,
+      "avg_txn_amt": 37.4,
+      "tod_p": [
+        0.081,
+        0.0568,
+        0.0936,
+        0.2917,
+        0.0415,
+        0.0646,
+        0.1559,
+        0.2149
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000188",
+      "Company_description": "Small Healthcare merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1158571.56,
+      "Industry": "Healthcare",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2023-01-19",
+      "legal_representative_id": "p1493991"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.5,
+      "avg_txn_amt": 175.1,
+      "tod_p": [
+        0.0256,
+        0.0249,
+        0.3337,
+        0.1285,
+        0.1864,
+        0.0684,
+        0.1967,
+        0.0358
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000189",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 109576155.01,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1988-04-20",
+      "legal_representative_id": "p1266557"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.0,
+      "avg_txn_amt": 307.09,
+      "tod_p": [
+        0.0668,
+        0.0295,
+        0.3737,
+        0.2704,
+        0.1005,
+        0.0319,
+        0.0387,
+        0.0885
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000190",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20224188.46,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2016-03-07",
+      "legal_representative_id": "p096394"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 140.45,
+      "avg_txn_amt": 557.41,
+      "tod_p": [
+        0.1532,
+        0.0807,
+        0.0207,
+        0.0359,
+        0.1402,
+        0.2075,
+        0.1503,
+        0.2115
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000191",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 21841122.63,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-06-04",
+      "legal_representative_id": "p859000"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 158.7,
+      "avg_txn_amt": 240.83,
+      "tod_p": [
+        0.0113,
+        0.0259,
+        0.2975,
+        0.0819,
+        0.0764,
+        0.3017,
+        0.1086,
+        0.0967
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000192",
+      "Company_description": "Large Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 76290068.06,
+      "Industry": "Manufacturing",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2005-10-28",
+      "legal_representative_id": "p785946"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 185.89,
+      "avg_txn_amt": 236.16,
+      "tod_p": [
+        0.3798,
+        0.0291,
+        0.06,
+        0.2005,
+        0.0242,
+        0.0135,
+        0.1464,
+        0.1465
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000193",
+      "Company_description": "Medium Education merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11508844.92,
+      "Industry": "Education",
+      "Operating_status": "Active",
+      "Establishment_date": "2003-07-20",
+      "legal_representative_id": "p1456953"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 49.73,
+      "avg_txn_amt": 169.71,
+      "tod_p": [
+        0.0595,
+        0.0979,
+        0.1693,
+        0.0904,
+        0.1164,
+        0.1994,
+        0.1641,
+        0.103
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000194",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2074732.12,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2003-05-18",
+      "legal_representative_id": "p1221692"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 11.58,
+      "avg_txn_amt": 21.54,
+      "tod_p": [
+        0.2444,
+        0.443,
+        0.0074,
+        0.0349,
+        0.0844,
+        0.008,
+        0.1268,
+        0.0511
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000195",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1567262.6,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1994-02-01",
+      "legal_representative_id": "p1493727"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.54,
+      "avg_txn_amt": 66.3,
+      "tod_p": [
+        0.1158,
+        0.1469,
+        0.1094,
+        0.0239,
+        0.177,
+        0.1437,
+        0.1303,
+        0.153
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000196",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 40283222.88,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1996-05-06",
+      "legal_representative_id": "p285714"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 75.21,
+      "avg_txn_amt": 33.65,
+      "tod_p": [
+        0.0668,
+        0.0973,
+        0.0227,
+        0.2666,
+        0.2554,
+        0.1362,
+        0.0625,
+        0.0925
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000197",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1544302.45,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2003-10-09",
+      "legal_representative_id": "p739575"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.73,
+      "avg_txn_amt": 145.08,
+      "tod_p": [
+        0.0793,
+        0.0774,
+        0.0906,
+        0.0754,
+        0.1817,
+        0.1785,
+        0.1692,
+        0.1479
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000198",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1883291.69,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1985-11-11",
+      "legal_representative_id": "p1519066"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.85,
+      "avg_txn_amt": 77.2,
+      "tod_p": [
+        0.4272,
+        0.0017,
+        0.093,
+        0.0685,
+        0.1183,
+        0.1614,
+        0.1197,
+        0.0102
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000199",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17295833.27,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-05-31",
+      "legal_representative_id": "p468012"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.27,
+      "avg_txn_amt": 247.78,
+      "tod_p": [
+        0.0467,
+        0.0386,
+        0.1441,
+        0.1161,
+        0.1325,
+        0.1198,
+        0.1126,
+        0.2896
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000200",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 75251223.88,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2000-12-19",
+      "legal_representative_id": "p1467625"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 16.01,
+      "avg_txn_amt": 1027.63,
+      "tod_p": [
+        0.113,
+        0.0285,
+        0.049,
+        0.4629,
+        0.01,
+        0.0747,
+        0.2329,
+        0.029
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000201",
+      "Company_description": "Large Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 98162954.88,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2024-03-27",
+      "legal_representative_id": "p1774364"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 448.82,
+      "avg_txn_amt": 59.61,
+      "tod_p": [
+        0.1212,
+        0.0729,
+        0.0724,
+        0.04,
+        0.2996,
+        0.1372,
+        0.1007,
+        0.156
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000202",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3384110.78,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-04-30",
+      "legal_representative_id": "p268450"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 75.92,
+      "avg_txn_amt": 61.11,
+      "tod_p": [
+        0.0075,
+        0.0274,
+        0.2104,
+        0.0654,
+        0.1368,
+        0.2991,
+        0.158,
+        0.0954
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000203",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4266946.05,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1996-02-12",
+      "legal_representative_id": "p1979107"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.55,
+      "avg_txn_amt": 111.36,
+      "tod_p": [
+        0.0739,
+        0.1122,
+        0.1136,
+        0.082,
+        0.1657,
+        0.2036,
+        0.1786,
+        0.0704
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000204",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15153370.89,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2014-12-31",
+      "legal_representative_id": "p443259"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 62.29,
+      "avg_txn_amt": 54.25,
+      "tod_p": [
+        0.0833,
+        0.1293,
+        0.0793,
+        0.0601,
+        0.1223,
+        0.2398,
+        0.2021,
+        0.0838
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000205",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 29072340.84,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2009-03-24",
+      "legal_representative_id": "p508070"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.11,
+      "avg_txn_amt": 25.54,
+      "tod_p": [
+        0.0916,
+        0.0932,
+        0.0561,
+        0.1239,
+        0.3522,
+        0.0479,
+        0.1045,
+        0.1306
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000206",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 20430684.44,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-09-19",
+      "legal_representative_id": "p012307"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.88,
+      "avg_txn_amt": 34.99,
+      "tod_p": [
+        0.0845,
+        0.0778,
+        0.0268,
+        0.0871,
+        0.1326,
+        0.1264,
+        0.1194,
+        0.3454
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000207",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2050873.55,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2020-10-02",
+      "legal_representative_id": "p1819382"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.86,
+      "avg_txn_amt": 367.32,
+      "tod_p": [
+        0.0611,
+        0.1181,
+        0.1062,
+        0.1076,
+        0.1617,
+        0.193,
+        0.1533,
+        0.099
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000208",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 19172934.02,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-03-20",
+      "legal_representative_id": "p759402"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 90.05,
+      "avg_txn_amt": 60.51,
+      "tod_p": [
+        0.0465,
+        0.0995,
+        0.1141,
+        0.0729,
+        0.1977,
+        0.1392,
+        0.1838,
+        0.1463
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000209",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4693840.99,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-12-08",
+      "legal_representative_id": "p228585"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 15.42,
+      "avg_txn_amt": 8.03,
+      "tod_p": [
+        0.0251,
+        0.0013,
+        0.0861,
+        0.0833,
+        0.3793,
+        0.117,
+        0.1103,
+        0.1976
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000210",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 5050618.58,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2024-07-31",
+      "legal_representative_id": "p832298"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 36.67,
+      "avg_txn_amt": 48.91,
+      "tod_p": [
+        0.0114,
+        0.2174,
+        0.0979,
+        0.078,
+        0.1521,
+        0.1125,
+        0.1824,
+        0.1483
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000211",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1920518.74,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2001-04-23",
+      "legal_representative_id": "p311386"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 44.51,
+      "avg_txn_amt": 121.13,
+      "tod_p": [
+        0.0551,
+        0.0674,
+        0.0231,
+        0.273,
+        0.1568,
+        0.1437,
+        0.1995,
+        0.0814
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000212",
+      "Company_description": "Large E-commerce merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 55211938.82,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1996-10-29",
+      "legal_representative_id": "p041744"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.48,
+      "avg_txn_amt": 13.47,
+      "tod_p": [
+        0.0842,
+        0.1265,
+        0.1229,
+        0.0719,
+        0.1359,
+        0.0592,
+        0.1898,
+        0.2096
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000213",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1479563.74,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1999-07-15",
+      "legal_representative_id": "p887199"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 59.01,
+      "avg_txn_amt": 153.2,
+      "tod_p": [
+        0.1823,
+        0.0265,
+        0.0609,
+        0.0221,
+        0.2213,
+        0.1904,
+        0.1194,
+        0.1771
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000214",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 7000000.0,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2003-10-08",
+      "legal_representative_id": "p415106"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 82.5,
+      "avg_txn_amt": 121.32,
+      "tod_p": [
+        0.1066,
+        0.1533,
+        0.1016,
+        0.2126,
+        0.1592,
+        0.1048,
+        0.1128,
+        0.0491
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000215",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3930464.16,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2001-11-08",
+      "legal_representative_id": "p1840552"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 30.15,
+      "avg_txn_amt": 52.23,
+      "tod_p": [
+        0.0158,
+        0.0021,
+        0.142,
+        0.1688,
+        0.3265,
+        0.1122,
+        0.1408,
+        0.0918
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000216",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3906582.47,
+      "Industry": "Telecommunications",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2015-05-11",
+      "legal_representative_id": "p1179581"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.9,
+      "avg_txn_amt": 12.44,
+      "tod_p": [
+        0.0787,
+        0.0443,
+        0.0422,
+        0.1128,
+        0.2759,
+        0.2886,
+        0.0868,
+        0.0707
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000217",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2399192.1,
+      "Industry": "Retail",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1995-08-03",
+      "legal_representative_id": "p737652"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 52.61,
+      "avg_txn_amt": 10.81,
+      "tod_p": [
+        0.0088,
+        0.0113,
+        0.2194,
+        0.0409,
+        0.089,
+        0.2074,
+        0.2298,
+        0.1934
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000218",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1249811.97,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-05-25",
+      "legal_representative_id": "p358106"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.77,
+      "avg_txn_amt": 87.14,
+      "tod_p": [
+        0.0495,
+        0.0854,
+        0.0545,
+        0.2427,
+        0.1539,
+        0.1465,
+        0.1482,
+        0.1193
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000219",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 45201720.01,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-07-29",
+      "legal_representative_id": "p1158344"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.33,
+      "avg_txn_amt": 52.2,
+      "tod_p": [
+        0.0881,
+        0.0984,
+        0.029,
+        0.1836,
+        0.2531,
+        0.1349,
+        0.1418,
+        0.0711
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000220",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1239124.78,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2017-05-19",
+      "legal_representative_id": "p886389"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.98,
+      "avg_txn_amt": 195.92,
+      "tod_p": [
+        0.0814,
+        0.1026,
+        0.058,
+        0.1602,
+        0.1009,
+        0.2402,
+        0.1619,
+        0.0948
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000221",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1018196.72,
+      "Industry": "Manufacturing",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2024-03-24",
+      "legal_representative_id": "p1948889"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.12,
+      "avg_txn_amt": 29.08,
+      "tod_p": [
+        0.0885,
+        0.0836,
+        0.1777,
+        0.1406,
+        0.2022,
+        0.0957,
+        0.1732,
+        0.0385
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000222",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1994029.96,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2017-12-07",
+      "legal_representative_id": "p1524632"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.27,
+      "avg_txn_amt": 53.42,
+      "tod_p": [
+        0.144,
+        0.0111,
+        0.028,
+        0.0218,
+        0.1425,
+        0.3916,
+        0.1541,
+        0.1069
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000223",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1360346.21,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2014-01-31",
+      "legal_representative_id": "p573882"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.21,
+      "avg_txn_amt": 116.81,
+      "tod_p": [
+        0.015,
+        0.1985,
+        0.173,
+        0.1582,
+        0.0955,
+        0.2433,
+        0.1096,
+        0.0069
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000224",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3562107.18,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-02-07",
+      "legal_representative_id": "p1490642"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.98,
+      "avg_txn_amt": 39.59,
+      "tod_p": [
+        0.2397,
+        0.1014,
+        0.0382,
+        0.0141,
+        0.0648,
+        0.083,
+        0.3817,
+        0.0771
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000225",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2985603.58,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "2017-01-19",
+      "legal_representative_id": "p902474"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 34.0,
+      "avg_txn_amt": 36.16,
+      "tod_p": [
+        0.077,
+        0.0541,
+        0.0583,
+        0.0527,
+        0.009,
+        0.0464,
+        0.1415,
+        0.561
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000226",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1495658.6,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-07-15",
+      "legal_representative_id": "p1114101"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 24.7,
+      "avg_txn_amt": 172.59,
+      "tod_p": [
+        0.0151,
+        0.3962,
+        0.1146,
+        0.0985,
+        0.1082,
+        0.1605,
+        0.0707,
+        0.0362
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000227",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1474384.06,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2015-01-15",
+      "legal_representative_id": "p1763809"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 168.52,
+      "avg_txn_amt": 27.09,
+      "tod_p": [
+        0.1048,
+        0.0927,
+        0.0417,
+        0.0752,
+        0.3147,
+        0.2345,
+        0.1038,
+        0.0326
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000228",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1995551.91,
+      "Industry": "Transportation",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2017-08-27",
+      "legal_representative_id": "p318904"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.05,
+      "avg_txn_amt": 91.06,
+      "tod_p": [
+        0.1768,
+        0.0107,
+        0.0879,
+        0.1343,
+        0.1413,
+        0.0574,
+        0.1744,
+        0.2172
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000229",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 42791178.51,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2018-11-16",
+      "legal_representative_id": "p1382297"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.26,
+      "avg_txn_amt": 490.09,
+      "tod_p": [
+        0.0676,
+        0.1953,
+        0.018,
+        0.0781,
+        0.2434,
+        0.0797,
+        0.1655,
+        0.1524
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000230",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 22529107.28,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-11-30",
+      "legal_representative_id": "p573229"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 329.32,
+      "avg_txn_amt": 144.18,
+      "tod_p": [
+        0.1596,
+        0.0406,
+        0.1638,
+        0.1934,
+        0.1346,
+        0.1096,
+        0.1019,
+        0.0965
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000231",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1586868.72,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-08-11",
+      "legal_representative_id": "p022500"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.37,
+      "avg_txn_amt": 40.99,
+      "tod_p": [
+        0.0681,
+        0.1241,
+        0.1886,
+        0.2277,
+        0.0936,
+        0.0975,
+        0.1898,
+        0.0106
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000232",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17418382.44,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-04-20",
+      "legal_representative_id": "p102781"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 7.32,
+      "avg_txn_amt": 37.4,
+      "tod_p": [
+        0.035,
+        0.026,
+        0.0647,
+        0.0993,
+        0.3452,
+        0.1553,
+        0.1312,
+        0.1433
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000233",
+      "Company_description": "Small Retail merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2161900.03,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2006-01-06",
+      "legal_representative_id": "p978936"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 2.41,
+      "avg_txn_amt": 25.81,
+      "tod_p": [
+        0.0337,
+        0.0248,
+        0.0666,
+        0.1213,
+        0.4288,
+        0.1251,
+        0.068,
+        0.1317
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000234",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 12164655.09,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-11-23",
+      "legal_representative_id": "p1423062"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 4.01,
+      "avg_txn_amt": 271.22,
+      "tod_p": [
+        0.0616,
+        0.0695,
+        0.0704,
+        0.0419,
+        0.0413,
+        0.1611,
+        0.0955,
+        0.4587
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000235",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3023098.67,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1987-10-28",
+      "legal_representative_id": "p1277083"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 51.6,
+      "avg_txn_amt": 73.22,
+      "tod_p": [
+        0.2073,
+        0.4151,
+        0.0081,
+        0.0816,
+        0.0534,
+        0.0357,
+        0.1399,
+        0.0589
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000236",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 27413824.7,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-01-14",
+      "legal_representative_id": "p717187"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 107.12,
+      "avg_txn_amt": 23.93,
+      "tod_p": [
+        0.2241,
+        0.0175,
+        0.0643,
+        0.2209,
+        0.2084,
+        0.046,
+        0.0807,
+        0.1381
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000237",
+      "Company_description": "Large Telecommunications merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 28193705.04,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1998-03-07",
+      "legal_representative_id": "p1822194"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 59.07,
+      "avg_txn_amt": 34.91,
+      "tod_p": [
+        0.1958,
+        0.1434,
+        0.1435,
+        0.108,
+        0.0519,
+        0.2021,
+        0.125,
+        0.0303
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000238",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1855301.33,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Active",
+      "Establishment_date": "2022-06-04",
+      "legal_representative_id": "p259022"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 17.61,
+      "avg_txn_amt": 38.96,
+      "tod_p": [
+        0.0097,
+        0.0724,
+        0.0715,
+        0.3007,
+        0.1686,
+        0.1735,
+        0.1434,
+        0.0602
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000239",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2349914.49,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-05-22",
+      "legal_representative_id": "p1878267"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.82,
+      "avg_txn_amt": 109.13,
+      "tod_p": [
+        0.1147,
+        0.0519,
+        0.1577,
+        0.1305,
+        0.086,
+        0.2249,
+        0.1116,
+        0.1227
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000240",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 25420226.42,
+      "Industry": "Retail",
+      "Operating_status": "Active",
+      "Establishment_date": "2003-08-16",
+      "legal_representative_id": "p1344407"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 144.73,
+      "avg_txn_amt": 91.3,
+      "tod_p": [
+        0.2164,
+        0.0175,
+        0.1295,
+        0.2026,
+        0.0992,
+        0.0659,
+        0.1397,
+        0.1292
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000241",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1982407.11,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1997-09-06",
+      "legal_representative_id": "p1355183"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.84,
+      "avg_txn_amt": 32.98,
+      "tod_p": [
+        0.1591,
+        0.019,
+        0.0929,
+        0.2298,
+        0.1329,
+        0.1235,
+        0.2084,
+        0.0344
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000242",
+      "Company_description": "Medium Retail merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 18347606.1,
+      "Industry": "Retail",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2008-10-10",
+      "legal_representative_id": "p556923"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 182.72,
+      "avg_txn_amt": 134.35,
+      "tod_p": [
+        0.199,
+        0.0612,
+        0.0805,
+        0.1706,
+        0.1327,
+        0.092,
+        0.0872,
+        0.1768
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000243",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11009743.13,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2010-10-10",
+      "legal_representative_id": "p686291"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 44.5,
+      "avg_txn_amt": 22.71,
+      "tod_p": [
+        0.0239,
+        0.1158,
+        0.1158,
+        0.0991,
+        0.1311,
+        0.1494,
+        0.1243,
+        0.2406
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000244",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 36999519.37,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-07-12",
+      "legal_representative_id": "p812935"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 47.17,
+      "avg_txn_amt": 128.23,
+      "tod_p": [
+        0.086,
+        0.2322,
+        0.0169,
+        0.1227,
+        0.1927,
+        0.0712,
+        0.0741,
+        0.2042
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000245",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 24923361.8,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-02-18",
+      "legal_representative_id": "p1645767"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.97,
+      "avg_txn_amt": 122.51,
+      "tod_p": [
+        0.1791,
+        0.012,
+        0.1566,
+        0.2098,
+        0.1421,
+        0.1121,
+        0.107,
+        0.0813
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000246",
+      "Company_description": "Large Telecommunications merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 90498516.7,
+      "Industry": "Telecommunications",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1985-06-01",
+      "legal_representative_id": "p1663562"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 8.3,
+      "avg_txn_amt": 491.84,
+      "tod_p": [
+        0.1809,
+        0.0228,
+        0.2035,
+        0.2261,
+        0.0484,
+        0.0331,
+        0.0527,
+        0.2325
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000247",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15845262.26,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-03-12",
+      "legal_representative_id": "p1957793"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 41.44,
+      "avg_txn_amt": 170.45,
+      "tod_p": [
+        0.0985,
+        0.133,
+        0.1348,
+        0.0693,
+        0.1605,
+        0.1429,
+        0.04,
+        0.221
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000248",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 22222650.23,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2019-03-10",
+      "legal_representative_id": "p1350817"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.58,
+      "avg_txn_amt": 18.24,
+      "tod_p": [
+        0.0333,
+        0.1418,
+        0.1976,
+        0.1021,
+        0.0935,
+        0.2939,
+        0.1377,
+        0.0001
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000249",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2972179.16,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2002-03-06",
+      "legal_representative_id": "p1342036"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.24,
+      "avg_txn_amt": 50.98,
+      "tod_p": [
+        0.0756,
+        0.2711,
+        0.2616,
+        0.0914,
+        0.0568,
+        0.0715,
+        0.1399,
+        0.0321
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000250",
+      "Company_description": "Large Retail merchant providing goods to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 62017309.61,
+      "Industry": "Retail",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1986-06-19",
+      "legal_representative_id": "p1926837"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 63.95,
+      "avg_txn_amt": 26.96,
+      "tod_p": [
+        0.1144,
+        0.0557,
+        0.051,
+        0.123,
+        0.1653,
+        0.2188,
+        0.1609,
+        0.1109
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000251",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1684067.39,
+      "Industry": "Entertainment",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2015-08-09",
+      "legal_representative_id": "p1029517"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.03,
+      "avg_txn_amt": 66.11,
+      "tod_p": [
+        0.1865,
+        0.1859,
+        0.0621,
+        0.0772,
+        0.072,
+        0.1277,
+        0.0039,
+        0.2847
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000252",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 41853497.75,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1995-03-22",
+      "legal_representative_id": "p542956"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.92,
+      "avg_txn_amt": 13.88,
+      "tod_p": [
+        0.0274,
+        0.1318,
+        0.1028,
+        0.3843,
+        0.1883,
+        0.056,
+        0.1022,
+        0.0072
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000253",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1979535.25,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2012-11-22",
+      "legal_representative_id": "p317232"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 14.74,
+      "avg_txn_amt": 298.17,
+      "tod_p": [
+        0.0923,
+        0.104,
+        0.0366,
+        0.1792,
+        0.2728,
+        0.1222,
+        0.1563,
+        0.0366
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000254",
+      "Company_description": "Medium Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14776208.57,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1985-05-19",
+      "legal_representative_id": "p1687746"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.22,
+      "avg_txn_amt": 93.0,
+      "tod_p": [
+        0.0139,
+        0.0174,
+        0.055,
+        0.336,
+        0.1651,
+        0.174,
+        0.2205,
+        0.0181
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000255",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1836701.12,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2015-09-22",
+      "legal_representative_id": "p404428"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.78,
+      "avg_txn_amt": 311.63,
+      "tod_p": [
+        0.0873,
+        0.0228,
+        0.0246,
+        0.1632,
+        0.2625,
+        0.1668,
+        0.1802,
+        0.0926
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000256",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 23069866.79,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1987-10-06",
+      "legal_representative_id": "p1200347"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.68,
+      "avg_txn_amt": 14.85,
+      "tod_p": [
+        0.0163,
+        0.0808,
+        0.066,
+        0.0964,
+        0.1021,
+        0.1867,
+        0.0506,
+        0.4011
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000257",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3435663.46,
+      "Industry": "Financial Services",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1992-03-22",
+      "legal_representative_id": "p465995"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 25.0,
+      "avg_txn_amt": 99.26,
+      "tod_p": [
+        0.1505,
+        0.0987,
+        0.0334,
+        0.0886,
+        0.2299,
+        0.1112,
+        0.2222,
+        0.0655
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000258",
+      "Company_description": "Medium Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 14627833.73,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2015-12-01",
+      "legal_representative_id": "p1305258"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 879.18,
+      "avg_txn_amt": 51.2,
+      "tod_p": [
+        0.0664,
+        0.0688,
+        0.0093,
+        0.217,
+        0.2469,
+        0.194,
+        0.1028,
+        0.0948
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000259",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 5052360.64,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1999-06-24",
+      "legal_representative_id": "p723504"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.0,
+      "avg_txn_amt": 47.58,
+      "tod_p": [
+        0.1244,
+        0.0339,
+        0.167,
+        0.2303,
+        0.2185,
+        0.0484,
+        0.1311,
+        0.0464
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000260",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 50759462.04,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-02-07",
+      "legal_representative_id": "p926110"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1.93,
+      "avg_txn_amt": 675.03,
+      "tod_p": [
+        0.2316,
+        0.041,
+        0.1696,
+        0.2608,
+        0.0549,
+        0.0207,
+        0.0782,
+        0.1432
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000261",
+      "Company_description": "Small Travel & Hospitality merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3780180.32,
+      "Industry": "Travel & Hospitality",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1994-08-18",
+      "legal_representative_id": "p1199400"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.28,
+      "avg_txn_amt": 24.67,
+      "tod_p": [
+        0.009,
+        0.032,
+        0.396,
+        0.3652,
+        0.0536,
+        0.0135,
+        0.0744,
+        0.0563
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000262",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2272705.66,
+      "Industry": "E-commerce",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2018-09-11",
+      "legal_representative_id": "p787840"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 2.73,
+      "avg_txn_amt": 91.19,
+      "tod_p": [
+        0.1148,
+        0.3751,
+        0.0592,
+        0.1065,
+        0.0401,
+        0.0784,
+        0.1132,
+        0.1127
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000263",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1112428.12,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2010-04-12",
+      "legal_representative_id": "p495899"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 21.65,
+      "avg_txn_amt": 112.88,
+      "tod_p": [
+        0.4426,
+        0.0217,
+        0.1871,
+        0.0611,
+        0.0977,
+        0.0758,
+        0.07,
+        0.044
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000264",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2673196.78,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "1994-04-16",
+      "legal_representative_id": "p019157"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1.72,
+      "avg_txn_amt": 39.22,
+      "tod_p": [
+        0.1636,
+        0.0352,
+        0.0257,
+        0.4716,
+        0.0225,
+        0.0572,
+        0.2037,
+        0.0205
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000265",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3173161.59,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2021-12-08",
+      "legal_representative_id": "p559651"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.53,
+      "avg_txn_amt": 95.65,
+      "tod_p": [
+        0.0351,
+        0.1508,
+        0.0688,
+        0.0862,
+        0.2639,
+        0.097,
+        0.1426,
+        0.1556
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000266",
+      "Company_description": "Small Telecommunications merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2405109.37,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-08-01",
+      "legal_representative_id": "p854033"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 31.55,
+      "avg_txn_amt": 458.12,
+      "tod_p": [
+        0.0614,
+        0.0794,
+        0.0265,
+        0.1676,
+        0.2458,
+        0.2151,
+        0.1392,
+        0.065
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000267",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1779617.09,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2006-08-09",
+      "legal_representative_id": "p049477"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.35,
+      "avg_txn_amt": 159.05,
+      "tod_p": [
+        0.0878,
+        0.1135,
+        0.1592,
+        0.1402,
+        0.1686,
+        0.0775,
+        0.1667,
+        0.0865
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000268",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1180594.62,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2011-03-28",
+      "legal_representative_id": "p1434731"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 6.95,
+      "avg_txn_amt": 176.27,
+      "tod_p": [
+        0.0904,
+        0.1292,
+        0.1312,
+        0.2627,
+        0.0492,
+        0.117,
+        0.1838,
+        0.0365
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000269",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 5254579.83,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1992-08-17",
+      "legal_representative_id": "p1267634"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 30.86,
+      "avg_txn_amt": 31.23,
+      "tod_p": [
+        0.0411,
+        0.058,
+        0.0207,
+        0.2146,
+        0.1843,
+        0.1535,
+        0.1952,
+        0.1326
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000270",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1169947.38,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "1992-06-28",
+      "legal_representative_id": "p111916"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.76,
+      "avg_txn_amt": 25.03,
+      "tod_p": [
+        0.048,
+        0.1872,
+        0.0843,
+        0.0552,
+        0.2153,
+        0.1258,
+        0.1576,
+        0.1266
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000271",
+      "Company_description": "Large Telecommunications merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 86987835.16,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "2005-01-10",
+      "legal_representative_id": "p345993"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 76.64,
+      "avg_txn_amt": 2.41,
+      "tod_p": [
+        0.086,
+        0.0261,
+        0.123,
+        0.092,
+        0.0965,
+        0.1544,
+        0.2886,
+        0.1334
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000272",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 11731733.9,
+      "Industry": "Telecommunications",
+      "Operating_status": "Active",
+      "Establishment_date": "1987-08-28",
+      "legal_representative_id": "p1778245"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 43.3,
+      "avg_txn_amt": 38.58,
+      "tod_p": [
+        0.0296,
+        0.0122,
+        0.058,
+        0.055,
+        0.4819,
+        0.1369,
+        0.1119,
+        0.1145
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000273",
+      "Company_description": "Large Transportation merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 51773709.64,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-05-11",
+      "legal_representative_id": "p028478"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 29.79,
+      "avg_txn_amt": 486.95,
+      "tod_p": [
+        0.049,
+        0.0394,
+        0.0745,
+        0.0279,
+        0.0102,
+        0.1034,
+        0.0979,
+        0.5977
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000274",
+      "Company_description": "Medium Entertainment merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 24874676.07,
+      "Industry": "Entertainment",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1987-04-19",
+      "legal_representative_id": "p1701271"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 22.22,
+      "avg_txn_amt": 21.58,
+      "tod_p": [
+        0.0704,
+        0.1769,
+        0.0718,
+        0.0464,
+        0.2324,
+        0.1519,
+        0.0725,
+        0.1777
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000275",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2593921.29,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2016-09-24",
+      "legal_representative_id": "p164405"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 32.44,
+      "avg_txn_amt": 91.08,
+      "tod_p": [
+        0.1481,
+        0.0249,
+        0.0438,
+        0.1411,
+        0.327,
+        0.1524,
+        0.0772,
+        0.0855
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000276",
+      "Company_description": "Small Financial Services merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2623158.11,
+      "Industry": "Financial Services",
+      "Operating_status": "Under Review",
+      "Establishment_date": "1994-12-22",
+      "legal_representative_id": "p1804241"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 9.26,
+      "avg_txn_amt": 37.79,
+      "tod_p": [
+        0.0737,
+        0.0276,
+        0.0789,
+        0.3035,
+        0.2045,
+        0.0666,
+        0.1782,
+        0.067
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000277",
+      "Company_description": "Medium Financial Services merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 16453078.2,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1993-05-31",
+      "legal_representative_id": "p1330364"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 66.62,
+      "avg_txn_amt": 87.02,
+      "tod_p": [
+        0.1758,
+        0.0663,
+        0.0444,
+        0.1389,
+        0.1438,
+        0.1931,
+        0.1036,
+        0.1341
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000278",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2002071.04,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "1999-09-07",
+      "legal_representative_id": "p1545289"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 33.83,
+      "avg_txn_amt": 5.39,
+      "tod_p": [
+        0.1023,
+        0.2482,
+        0.0951,
+        0.0672,
+        0.2437,
+        0.1286,
+        0.0371,
+        0.0778
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000279",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 80952131.8,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "2024-04-10",
+      "legal_representative_id": "p1867326"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 94.81,
+      "avg_txn_amt": 115.45,
+      "tod_p": [
+        0.0614,
+        0.2829,
+        0.1537,
+        0.0478,
+        0.1201,
+        0.1911,
+        0.0865,
+        0.0565
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000280",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1728934.11,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "1997-10-19",
+      "legal_representative_id": "p246302"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 22.39,
+      "avg_txn_amt": 59.81,
+      "tod_p": [
+        0.0508,
+        0.1089,
+        0.041,
+        0.464,
+        0.1433,
+        0.0903,
+        0.0947,
+        0.007
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000281",
+      "Company_description": "Large Utilities merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 52430911.63,
+      "Industry": "Utilities",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2016-01-13",
+      "legal_representative_id": "p1591039"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 88.86,
+      "avg_txn_amt": 789.75,
+      "tod_p": [
+        0.1938,
+        0.162,
+        0.0527,
+        0.056,
+        0.3595,
+        0.0841,
+        0.0662,
+        0.0257
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000282",
+      "Company_description": "Medium Transportation merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 12349417.28,
+      "Industry": "Transportation",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2010-12-26",
+      "legal_representative_id": "p152325"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 77.79,
+      "avg_txn_amt": 31.45,
+      "tod_p": [
+        0.2738,
+        0.0451,
+        0.0366,
+        0.3039,
+        0.0787,
+        0.0195,
+        0.1434,
+        0.099
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000283",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1273644.27,
+      "Industry": "Manufacturing",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2001-05-21",
+      "legal_representative_id": "p460523"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 10.85,
+      "avg_txn_amt": 96.49,
+      "tod_p": [
+        0.0541,
+        0.0935,
+        0.1379,
+        0.1753,
+        0.1161,
+        0.1517,
+        0.1326,
+        0.1388
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000284",
+      "Company_description": "Large Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 41637739.49,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Under Review",
+      "Establishment_date": "2010-12-29",
+      "legal_representative_id": "p988723"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 1200.0,
+      "avg_txn_amt": 273.62,
+      "tod_p": [
+        0.0021,
+        0.0161,
+        0.2122,
+        0.0563,
+        0.1188,
+        0.2064,
+        0.1917,
+        0.1964
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000285",
+      "Company_description": "Large Financial Services merchant providing services to consumers.",
+      "Company_type": "Large",
+      "Registered_capital": 84033644.03,
+      "Industry": "Financial Services",
+      "Operating_status": "Active",
+      "Establishment_date": "1988-08-09",
+      "legal_representative_id": "p1033389"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 32.91,
+      "avg_txn_amt": 135.54,
+      "tod_p": [
+        0.0495,
+        0.1194,
+        0.0217,
+        0.1848,
+        0.1812,
+        0.1557,
+        0.1404,
+        0.1473
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000286",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3107224.2,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-05-05",
+      "legal_representative_id": "p312713"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 23.83,
+      "avg_txn_amt": 44.19,
+      "tod_p": [
+        0.0475,
+        0.0547,
+        0.4351,
+        0.245,
+        0.0421,
+        0.0533,
+        0.0627,
+        0.0596
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000287",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 17143346.3,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2017-04-19",
+      "legal_representative_id": "p1571898"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 25.89,
+      "avg_txn_amt": 91.27,
+      "tod_p": [
+        0.13,
+        0.1662,
+        0.1791,
+        0.096,
+        0.0966,
+        0.0967,
+        0.1254,
+        0.11
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000288",
+      "Company_description": "Medium E-commerce merchant providing goods to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 18467331.92,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "2018-10-31",
+      "legal_representative_id": "p1576408"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 77.99,
+      "avg_txn_amt": 89.01,
+      "tod_p": [
+        0.0556,
+        0.0776,
+        0.1024,
+        0.2311,
+        0.1319,
+        0.1452,
+        0.138,
+        0.1182
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000289",
+      "Company_description": "Small Manufacturing merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3307415.11,
+      "Industry": "Manufacturing",
+      "Operating_status": "Active",
+      "Establishment_date": "2008-11-15",
+      "legal_representative_id": "p486627"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 32.32,
+      "avg_txn_amt": 27.36,
+      "tod_p": [
+        0.0359,
+        0.1676,
+        0.2344,
+        0.0696,
+        0.1087,
+        0.2424,
+        0.1082,
+        0.0332
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000290",
+      "Company_description": "Small Food & Beverage merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2440945.56,
+      "Industry": "Food & Beverage",
+      "Operating_status": "Active",
+      "Establishment_date": "2010-02-25",
+      "legal_representative_id": "p351864"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 3.46,
+      "avg_txn_amt": 99.37,
+      "tod_p": [
+        0.1701,
+        0.07,
+        0.0582,
+        0.122,
+        0.0864,
+        0.2493,
+        0.1687,
+        0.0753
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000291",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1924608.1,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2012-11-30",
+      "legal_representative_id": "p1912935"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 5.12,
+      "avg_txn_amt": 132.53,
+      "tod_p": [
+        0.1099,
+        0.3285,
+        0.1118,
+        0.0741,
+        0.0974,
+        0.1199,
+        0.1239,
+        0.0345
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000292",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2366426.86,
+      "Industry": "E-commerce",
+      "Operating_status": "Suspended",
+      "Establishment_date": "2001-04-26",
+      "legal_representative_id": "p1713044"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 19.56,
+      "avg_txn_amt": 4.2,
+      "tod_p": [
+        0.1792,
+        0.0304,
+        0.0903,
+        0.1613,
+        0.1247,
+        0.0371,
+        0.1603,
+        0.2167
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000293",
+      "Company_description": "Medium Utilities merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15748713.16,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1986-07-16",
+      "legal_representative_id": "p544654"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 18.11,
+      "avg_txn_amt": 120.77,
+      "tod_p": [
+        0.2071,
+        0.0076,
+        0.1351,
+        0.1699,
+        0.1772,
+        0.0506,
+        0.0949,
+        0.1576
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000294",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1576662.55,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-02-01",
+      "legal_representative_id": "p1966850"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 12.75,
+      "avg_txn_amt": 80.25,
+      "tod_p": [
+        0.2509,
+        0.1507,
+        0.0963,
+        0.0763,
+        0.0651,
+        0.2022,
+        0.0892,
+        0.0693
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000295",
+      "Company_description": "Small Transportation merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 2930594.34,
+      "Industry": "Transportation",
+      "Operating_status": "Active",
+      "Establishment_date": "2023-12-18",
+      "legal_representative_id": "p1943509"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 26.02,
+      "avg_txn_amt": 46.11,
+      "tod_p": [
+        0.0861,
+        0.318,
+        0.0268,
+        0.0825,
+        0.0608,
+        0.116,
+        0.0238,
+        0.286
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000296",
+      "Company_description": "Small Entertainment merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 4268345.55,
+      "Industry": "Entertainment",
+      "Operating_status": "Active",
+      "Establishment_date": "2013-03-07",
+      "legal_representative_id": "p1194738"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 13.06,
+      "avg_txn_amt": 43.27,
+      "tod_p": [
+        0.0295,
+        0.03,
+        0.4098,
+        0.1982,
+        0.0582,
+        0.0711,
+        0.0951,
+        0.1081
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000297",
+      "Company_description": "Medium Telecommunications merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 19458308.24,
+      "Industry": "Telecommunications",
+      "Operating_status": "Suspended",
+      "Establishment_date": "1993-07-08",
+      "legal_representative_id": "p641143"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 20.85,
+      "avg_txn_amt": 94.98,
+      "tod_p": [
+        0.26,
+        0.0882,
+        0.0904,
+        0.076,
+        0.05,
+        0.2452,
+        0.1558,
+        0.0344
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000298",
+      "Company_description": "Small E-commerce merchant providing goods to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 1440426.67,
+      "Industry": "E-commerce",
+      "Operating_status": "Active",
+      "Establishment_date": "1988-06-13",
+      "legal_representative_id": "p808063"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 52.02,
+      "avg_txn_amt": 172.62,
+      "tod_p": [
+        0.0592,
+        0.0469,
+        0.1083,
+        0.2284,
+        0.1109,
+        0.2099,
+        0.0846,
+        0.1518
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000299",
+      "Company_description": "Medium Healthcare merchant providing services to consumers.",
+      "Company_type": "Medium",
+      "Registered_capital": 15512180.44,
+      "Industry": "Healthcare",
+      "Operating_status": "Active",
+      "Establishment_date": "1990-04-03",
+      "legal_representative_id": "p1890577"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 167.15,
+      "avg_txn_amt": 14.14,
+      "tod_p": [
+        0.1861,
+        0.3309,
+        0.0698,
+        0.0842,
+        0.1059,
+        0.0649,
+        0.0926,
+        0.0656
+      ]
+    }
+  },
+  {
+    "company": {
+      "Company_id": "c000300",
+      "Company_description": "Small Utilities merchant providing services to consumers.",
+      "Company_type": "Small",
+      "Registered_capital": 3364083.54,
+      "Industry": "Utilities",
+      "Operating_status": "Active",
+      "Establishment_date": "1994-05-25",
+      "legal_representative_id": "p1595777"
+    },
+    "tags": {
+      "avg_txn_cnt_daily": 812.9,
+      "avg_txn_amt": 141.77,
+      "tod_p": [
+        0.1094,
+        0.0794,
+        0.032,
+        0.2087,
+        0.1437,
+        0.2134,
+        0.0574,
+        0.156
+      ]
+    }
+  }
+]
