@@ -2,6 +2,28 @@
 
 TransXion is a benchmark ecosystem for AML research that addresses two fundamental limitations of existing datasets: sparse node-level semantics and template-driven anomaly injection. By jointly modeling persistent entity profiles, profile-conditioned normal behavior, and adaptive non-template anomaly synthesis, TransXion captures realistic interactions between transactional topology and semantic context that are central to operational AML.
 
+**🎉 News: TransXion has been accepted at KDD 2026!**
+
+Our paper, **"TransXion: A High-Fidelity Graph Benchmark for Realistic Anti-Money Laundering,"** has been accepted at **KDD 2026 (Datasets and Benchmarks Track)**!
+
+📄 **Paper:** [ACM Digital Library](https://doi.org/10.1145/3770855.3817550) | [arXiv](https://arxiv.org/abs/2604.17420)
+
+---
+
+## Citation
+
+If you find TransXion useful in your research, please consider citing our paper:
+
+```bibtex
+@inproceedings{chen2026transxion,
+  title={Transxion: A high-fidelity graph benchmark for realistic anti-money laundering},
+  author={Chen, Keyang and Jiang, Mingxuan and Zhao, Yongsheng and Li, Zeping and Chen, Zaiyuan and Luo, Weiqi and Li, Zhixin and Liu, Sen and Jing, Yinan and Ye, Guangnan and others},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  pages={8707--8718},
+  year={2026}
+}
+```
+
 ## The Problem with Existing AML Benchmarks
 
 | Limitation | Effect |
@@ -333,33 +355,7 @@ python rule/run_rule_engine.py --features features.csv --rules rule/data/rule.js
 bash scripts/run_rule_analysis.sh
 ```
 
----
 
-## Evaluation
-
-TransXion yields the lowest Average Precision and F1 across all GNN detector families, confirming it provides a substantially more demanding evaluation setting than existing benchmarks.
-
-**GNN detection performance (lower AP/F1 = harder benchmark):**
-
-| Dataset | AUC | AP | F1 |
-|---|---|---|---|
-| AMLSim | 0.930–0.949 | 0.458–0.729 | 0.486–0.803 |
-| AMLWorld | 0.978–0.986 | 0.395–0.638 | 0.452–0.710 |
-| SAML-D | 0.999–1.000 | 0.971–0.995 | 0.913–0.968 |
-| **TransXion** | **0.952–0.969** | **0.269–0.351** | **0.425–0.487** |
-
-Detection gains are consistently larger when node profile features are included (+29.5% ΔAUC for LightGBM), confirming that entity-level context provides signal complementary to transaction-level topology.
-
-**Ablation:** RL-Optimized synthesis (GRPO-trained policy) produces the hardest benchmark configuration, with lower AP and F1 than LLM-only or random baselines across both GNN and gradient-boosted detectors.
-
----
-
-## Requirements
-
-- Python 3.10+
-- Git LFS (for `data/tx.csv`)
-- LLM backend: local [vLLM](https://github.com/vllm-project/vllm) server, or API access to OpenAI / DeepSeek
-- GPU recommended for local model inference (8 GB+ VRAM)
 
 ---
 
