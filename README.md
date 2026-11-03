@@ -11,6 +11,7 @@
 - 📄 Our paper is now available on [ACM Digital Library](https://doi.org/10.1145/3770855.3817550) and [arXiv](https://arxiv.org/abs/2604.17420).
 
 ## 📖 Overview
+![TransXion Framework](pipeline.pdf)
 
 **TransXion** is a realistic graph benchmark for **Anti-Money Laundering (AML)** research. It combines profile-aware transaction simulation with adaptive, non-template anomaly generation, going beyond existing benchmarks that lack rich entity information or rely on fixed laundering patterns.
 
